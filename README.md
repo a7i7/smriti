@@ -7,9 +7,7 @@ There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bip
 This gives an entropy of
 ![Entropy-12-Dark](https://render.githubusercontent.com/render/math?math=\color{white}2048^{12}=2^132#gh-dark-mode-only)
 ![Entropy-12-Light](https://render.githubusercontent.com/render/math?math=\color{black}2048^{12}=2^132#gh-light-mode-only)
-
  and 
-
 ![Entropy-24-Dark](https://render.githubusercontent.com/render/math?math=\color{white}2048^{12}=2^264#gh-dark-mode-only)
 ![Entropy-24-Light](https://render.githubusercontent.com/render/math?math=\color{black}2048^{12}=2^264#gh-light-mode-only)
 
