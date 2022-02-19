@@ -5,8 +5,15 @@ Smriti is an approach to help you transform your 12 or 24 word seed phrases into
 There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
 
 This gives an entropy of
-<img src="https://render.githubusercontent.com/render/math?math=2048^{12}=2^132"> and 
-<img src="https://render.githubusercontent.com/render/math?math=2048^{24}=2^264"> for the 12 and 24 word seed phrase respectively.
+![Entropy-12-Dark](https://render.githubusercontent.com/render/math?math=2048^{12}=2^132#gh-dark-mode-only)
+![Entropy-12-Light](https://render.githubusercontent.com/render/math?math=2048^{12}=2^132#gh-light-mode-only)
+
+ and 
+
+![Entropy-24-Dark](https://render.githubusercontent.com/render/math?math=2048^{12}=2^264#gh-dark-mode-only)
+![Entropy-24-Light](https://render.githubusercontent.com/render/math?math=2048^{12}=2^264#gh-light-mode-only)
+
+ for the 12 and 24 word seed phrase respectively.
 
 
 ### Memorization
