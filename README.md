@@ -4,14 +4,7 @@ Smriti is an approach to help you transform your 12 or 24 word seed phrases into
 
 There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
 
-This gives an entropy of
-![Entropy-12-Dark](https://render.githubusercontent.com/render/math?math=\color{white}2048^{12}=2^132#gh-dark-mode-only)
-![Entropy-12-Light](https://render.githubusercontent.com/render/math?math=\color{black}2048^{12}=2^132#gh-light-mode-only)
- and 
-![Entropy-24-Dark](https://render.githubusercontent.com/render/math?math=\color{white}2048^{12}=2^264#gh-dark-mode-only)
-![Entropy-24-Light](https://render.githubusercontent.com/render/math?math=\color{black}2048^{12}=2^264#gh-light-mode-only)
-
- for the 12 and 24 word seed phrase respectively.
+This gives an entropy of  $`\\2048^{12}=2^{132}`$ and $`\\2048^{24}=2^{264}`$ for the 12 and 24 word seed phrase respectively.
 
 
 ### Memorization
@@ -37,24 +30,19 @@ They only need to remember the names of objects from each class  <br>  but has n
 ### Construction 
 So the math works out to
 
-![Total-Combinations-12-Dark](https://render.githubusercontent.com/render/math?math=\color{white}{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^132#gh-dark-mode-only)
+$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{132}`$
 
-![Total-Combinations-12-Light](https://render.githubusercontent.com/render/math?math=\color{black}{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^132#gh-light-mode-only)
+$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{264}`$
 
-![Total-Combinations-24-Dark](https://render.githubusercontent.com/render/math?math=\color{white}{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^264#gh-dark-mode-only)
-
-![Total-Combinations-24-Light](https://render.githubusercontent.com/render/math?math=\color{black}{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^264#gh-light-mode-only)
-
+for the 12 and 24 word seed phrase respectively
 
 where we have <b>m</b> different classes of things to memorize, with
 
-![Num-Classes-Dark](https://render.githubusercontent.com/render/math?math=\color{white}{N(c_{i})}#gh-dark-mode-only) 
-![Num-Classes-Light](https://render.githubusercontent.com/render/math?math=\color{black}{N(c_{i})}#gh-light-mode-only) is the number objects in class i
+$`\\{N(c_{i})}`$ is the number objects in class i
 
 If we assume each class to have the same number of objects, <br>
 
-![All-Classes-Equal-Dark](https://render.githubusercontent.com/render/math?math=\color{white}{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}#gh-dark-mode-only)
-![All-Classes-Equal-Light](https://render.githubusercontent.com/render/math?math=\color{black}{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}#gh-light-mode-only)
+$`\\{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}`$
 
 this table lists how many different classes we will need
 
