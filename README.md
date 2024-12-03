@@ -46,7 +46,7 @@ $`\\{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}`$
 
 this table lists how many different classes we will need
 
-| Number of classes (m)   | <img src="https://render.githubusercontent.com/render/math?math={N(c_{m})}"> for 12 word seed phrase |  <img src="https://render.githubusercontent.com/render/math?math={N(c_{m})}"> for 24 word seed phrase  |
+| Number of classes (m)   | $`\\N(c_{m})`$ for 12 word seed phrase |   $`\\N(c_{m})`$ for 24 word seed phrase  |
 |----------|:-------------:|------:|
 |10|9411|88550677|
 |11|4097|16777217|
