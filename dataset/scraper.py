@@ -479,14 +479,46 @@ def generateTable():
 	f = open('allData.json','r')
 	d = json.load(f)
 	cum = 0
-	print("| Type | Total Elements (N) | Math.floor(log(N)/log(2)) | Cumulative sum | Total Left | \n | ---- | ------------------ | ------------------------- | -------------- | ---------- |")
+	print("| Type      | Total Elements (N) | $$\\lfloor \\log_2(N) \\rfloor$$ | Occupied | 128 - $$\\lfloor \\log_2(N) \\rfloor$$ | \n | ---- | ------------------ | ------------------------- | -------------- | ---------- |")
 	for x in d:
 		numElements = len(d[x])
 		numBinClasses = math.floor(math.log(numElements)/math.log(2))
 		cum = cum+numBinClasses
 		print("|{0}|{1}|{2}|{3} |{4}|".format(x,numElements,numBinClasses,cum,128-cum ))
 
+
+def readBooks():
+	with open("BooksDatasetClean.csv", mode='r', encoding='utf-8') as csv_file:
+		csv_reader = csv.DictReader(csv_file)
+
+		# Read rows into a list of dictionaries
+		data = []
+		for row in csv_reader:
+			print(row)
+			data.append({
+				"Title": row.get("Title"),
+				"Authors": row.get("Authors"),
+				"Description": row.get("Description"),
+				"Category": row.get("Category"),
+				"Publisher": row.get("Publisher"),
+				"Price Starting With ($)": row.get("Price Starting With ($)"),
+				"Publish Date": {
+					"Month": row.get("Publish Date (Month)"),
+					"Year": row.get("Publish Date (Year)")
+				}
+			})
+		return data
+
+
+	# Write to the JSON file
+	# with open(json_file_path, mode='w', encoding='utf-8') as json_file:
+	# 	json.dump(data, json_file, indent=4, ensure_ascii=False)
+
+	# print(f"Data successfully converted to JSON and saved to {json_file_path}")
+
 generateTable()
+# books = readBooks()
+# addToJson("books",books)
 
 # file_path = "movies.txt"
 

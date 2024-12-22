@@ -99,30 +99,11 @@ Contributions are welcome as pull requests or discussions in Github issues.
 
 Feel free to reach out to me at my [website](www.afifahmed.com)
 
-%%{init: {"pie": {"textPosition": 0.75}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-title mermaid pie chart builder
-"A" : 10
-"B" : 20.100000
-"C" : 30
-
-<svg class="line-chart"></svg>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1/dist/chart.xkcd.min.js"></script>
-<script>
-  const svg = document.querySelector('.line-chart')
-
-  const pieChart = new chartXkcd.Pie(svg, {
-  title: 'What Tim is made of', // optional
-  data: {
-    labels: ['a', 'b', 'e', 'f', 'g'],
-    datasets: [{
-      data: [500, 200, 80, 90, 100],
-    }],
-  },
-  options: { // optional
-    innerRadius: 0.5,
-    legendPosition: chartXkcd.config.positionType.upRight,
-  },
-});
-</script>
+| Type      | Total Elements (N) | $$\lfloor \log_2(N) \rfloor$$ | Occupied | 128 - $$\lfloor \log_2(N) \rfloor$$ |
+| --------- | ------------------ | ----------------------------- | -------- | ----------------------------------- |
+| animals   | 27                 | 4                             | 4        | 124                                 |
+| birds     | 61                 | 5                             | 9        | 119                                 |
+| cities    | 76                 | 6                             | 15       | 113                                 |
+| countries | 196                | 7                             | 22       | 106                                 |
+| movies    | 45467              | 15                            | 37       | 91                                  |
+| books     | 103063             | 16                            | 53       | 75                                  |
