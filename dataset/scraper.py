@@ -6,6 +6,7 @@ import shutil
 import math
 import csv
 import json
+import math
 
 PEXELSAPI_KEY = '563492ad6f91700001000001252b83e783bf42e9b16e8907d260f883'
 
@@ -474,13 +475,26 @@ def addToJson(key, array):
 		print(f"An error occurred while writing to the file: {e}")
 
 
-file_path = "movies.txt"
+def generateTable():
+	f = open('allData.json','r')
+	d = json.load(f)
+	cum = 0
+	print("| Type | Total Elements (N) | Math.floor(log(N)/log(2)) | Cumulative sum | Total Left | \n | ---- | ------------------ | ------------------------- | -------------- | ---------- |")
+	for x in d:
+		numElements = len(d[x])
+		numBinClasses = math.floor(math.log(numElements)/math.log(2))
+		cum = cum+numBinClasses
+		print("|{0}|{1}|{2}|{3} |{4}|".format(x,numElements,numBinClasses,cum,128-cum ))
+
+generateTable()
+
+# file_path = "movies.txt"
 
 # Read all lines from the file
-with open(file_path, "r") as file:
-	movies = [line.strip() for line in file if line.strip()]
+# with open(file_path, "r") as file:
+# 	movies = [line.strip() for line in file if line.strip()]
 
-addToJson("movies",movies)
+# addToJson("movies",movies)
 
 # downloadImages('cities')
 # calculateEntropyRatio(classes)
