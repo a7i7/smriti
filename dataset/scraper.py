@@ -5,6 +5,7 @@ import urllib.request
 import shutil
 import math
 import csv
+import json
 
 PEXELSAPI_KEY = '563492ad6f91700001000001252b83e783bf42e9b16e8907d260f883'
 
@@ -443,9 +444,46 @@ def downloadImages(className) :
 		# print(photo_url)
 		# urllib.request.urlretrieve( photo_url, '1.jpeg', headers={'User-Agent': 'Mozilla/5.0'})
 
+def addToJson(key, array):
+	# File path for the JSON file
+	file_path = "allData.json"
+
+	try:
+		# Read the existing data from the JSON file
+		with open(file_path, "r") as file:
+			data = json.load(file)
+
+	except FileNotFoundError:
+		# If the file doesn't exist, initialize an empty dictionary
+		data = {}
+
+	except json.JSONDecodeError:
+		# If the file exists but is not a valid JSON, initialize an empty dictionary
+		data = {}
+
+	# Add the new key-value pair to the data
+	data[key] = array
+
+	try:
+		# Write the updated data back to the file
+		with open(file_path, "w") as file:
+			json.dump(data, file, indent=4)
+		print(f"Successfully added key '{key}' to the file.")
+
+	except Exception as e:
+		print(f"An error occurred while writing to the file: {e}")
+
+
+file_path = "movies.txt"
+
+# Read all lines from the file
+with open(file_path, "r") as file:
+	movies = [line.strip() for line in file if line.strip()]
+
+addToJson("movies",movies)
 
 # downloadImages('cities')
 # calculateEntropyRatio(classes)
-extractMovies()
+# extractMovies()
 
 

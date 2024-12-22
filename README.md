@@ -4,8 +4,7 @@ Smriti is an approach to help you transform your 12 or 24 word seed phrases into
 
 There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
 
-This gives an entropy of  $`\\2048^{12}=2^{132}`$ and $`\\2048^{24}=2^{264}`$ for the 12 and 24 word seed phrase respectively.
-
+This gives an entropy of $`\\2048^{12}=2^{132}`$ and $`\\2048^{24}=2^{264}`$ for the 12 and 24 word seed phrase respectively.
 
 ### Memorization
 
@@ -23,11 +22,12 @@ Remember a song : The Amen Corner
 
 and so on
 
-The list of such classes (Movie, Fruit, Bird etc.) are ordered which reduces a <br> burden of the end user. 
+The list of such classes (Movie, Fruit, Bird etc.) are ordered which reduces a <br> burden of the end user.
 
-They only need to remember the names of objects from each class  <br>  but has no need to maintain the order in their head.
+They only need to remember the names of objects from each class <br> but has no need to maintain the order in their head.
 
-### Construction 
+### Construction
+
 So the math works out to
 
 $`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{132}`$
@@ -46,38 +46,38 @@ $`\\{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}`$
 
 this table lists how many different classes we will need
 
-| Number of classes (m)   | $`\\N(c_{m})`$ for 12 word seed phrase |   $`\\N(c_{m})`$ for 24 word seed phrase  |
-|----------|:-------------:|------:|
-|10|9411|88550677|
-|11|4097|16777217|
-|12|2048|4194304|
-|13|1140|1297851|
-|14|690|474861|
-|15|446|198669|
-|16|305|92682|
-|17|218|47296|
-|18|162|26008|
-|19|124|15232|
-|20|98|9411|
-|21|79|6087|
-|22|65|4097|
-|23|54|2853|
-|24|46|2048|
-|25|39|1510|
-|26|34|1140|
-|27|30|878|
-|28|27|690|
-|29|24|551|
-|30|22|446|
-|31|20|367|
-|32|18|305|
-|33|16|257|
-|34|15|218|
-|35|14|187|
+| Number of classes (m) | $`\\N(c_{m})`$ for 12 word seed phrase | $`\\N(c_{m})`$ for 24 word seed phrase |
+| --------------------- | :------------------------------------: | -------------------------------------: |
+| 10                    |                  9411                  |                               88550677 |
+| 11                    |                  4097                  |                               16777217 |
+| 12                    |                  2048                  |                                4194304 |
+| 13                    |                  1140                  |                                1297851 |
+| 14                    |                  690                   |                                 474861 |
+| 15                    |                  446                   |                                 198669 |
+| 16                    |                  305                   |                                  92682 |
+| 17                    |                  218                   |                                  47296 |
+| 18                    |                  162                   |                                  26008 |
+| 19                    |                  124                   |                                  15232 |
+| 20                    |                   98                   |                                   9411 |
+| 21                    |                   79                   |                                   6087 |
+| 22                    |                   65                   |                                   4097 |
+| 23                    |                   54                   |                                   2853 |
+| 24                    |                   46                   |                                   2048 |
+| 25                    |                   39                   |                                   1510 |
+| 26                    |                   34                   |                                   1140 |
+| 27                    |                   30                   |                                    878 |
+| 28                    |                   27                   |                                    690 |
+| 29                    |                   24                   |                                    551 |
+| 30                    |                   22                   |                                    446 |
+| 31                    |                   20                   |                                    367 |
+| 32                    |                   18                   |                                    305 |
+| 33                    |                   16                   |                                    257 |
+| 34                    |                   15                   |                                    218 |
+| 35                    |                   14                   |                                    187 |
 
 In reality not all the classes will have the same number of objects but the table gives us a rough idea of how easy it will be to create a memorizable set of classes.
 
-For example,  it is very easy to create 30 classes with 446 elements each.
+For example, it is very easy to create 30 classes with 446 elements each.
 
 However memorizing 30 different objects is very hard for the end user.
 
@@ -95,9 +95,34 @@ Here are some suggestions
 - Historical Figures
 - Song / Music
 
-Contributions are welcome as pull requests or discussions in Github issues. 
+Contributions are welcome as pull requests or discussions in Github issues.
 
 Feel free to reach out to me at my [website](www.afifahmed.com)
 
+%%{init: {"pie": {"textPosition": 0.75}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+title mermaid pie chart builder
+"A" : 10
+"B" : 20.100000
+"C" : 30
 
+<svg class="line-chart"></svg>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1/dist/chart.xkcd.min.js"></script>
+<script>
+  const svg = document.querySelector('.line-chart')
+
+  const pieChart = new chartXkcd.Pie(svg, {
+  title: 'What Tim is made of', // optional
+  data: {
+    labels: ['a', 'b', 'e', 'f', 'g'],
+    datasets: [{
+      data: [500, 200, 80, 90, 100],
+    }],
+  },
+  options: { // optional
+    innerRadius: 0.5,
+    legendPosition: chartXkcd.config.positionType.upRight,
+  },
+});
+</script>
