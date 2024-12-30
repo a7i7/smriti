@@ -99,11 +99,14 @@ Contributions are welcome as pull requests or discussions in Github issues.
 
 Feel free to reach out to me at my [website](www.afifahmed.com)
 
-| Type      | Total Elements (N) | $$\lfloor \log_2(N) \rfloor$$ | Occupied | 128 - $$\lfloor \log_2(N) \rfloor$$ |
-| --------- | ------------------ | ----------------------------- | -------- | ----------------------------------- |
-| animals   | 27                 | 4                             | 4        | 124                                 |
-| birds     | 61                 | 5                             | 9        | 119                                 |
-| cities    | 76                 | 6                             | 15       | 113                                 |
-| countries | 196                | 7                             | 22       | 106                                 |
-| movies    | 45467              | 15                            | 37       | 91                                  |
-| books     | 103063             | 16                            | 53       | 75                                  |
+| Type       | Total Elements (N) | $$\lfloor \log_2(N) \rfloor$$ | Occupied | 128 - $$\lfloor \log_2(N) \rfloor$$ |
+| ---------- | ------------------ | ----------------------------- | -------- | ----------------------------------- |
+| boardGames | 10532              | 13                            | 13       | 115                                 |
+| birds      | 11533              | 13                            | 26       | 102                                 |
+| paintings  | 13422              | 13                            | 39       | 89                                  |
+| movies     | 45466              | 15                            | 54       | 74                                  |
+| cities     | 47868              | 15                            | 69       | 59                                  |
+| songs      | 57650              | 15                            | 84       | 44                                  |
+| people     | 88937              | 16                            | 100      | 28                                  |
+| books      | 103063             | 16                            | 116      | 12                                  |
+| recipes    | 2231142            | 21                            | 137      | -9                                  |
