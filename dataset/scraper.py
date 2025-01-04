@@ -690,7 +690,42 @@ def splitAllData():
 		except Exception as e:
 			print(f"An error occurred while writing to the file: {e}")
 
-splitAllData()
+def split_json_file(filename, num_chunks):
+    """
+    Splits a JSON file containing an array of objects into multiple smaller JSON files.
+
+    :param filename: Path to the input JSON file.
+    :param num_chunks: Number of chunks to split the JSON array into.
+    """
+    # Read the JSON file
+    with open(filename, 'r') as file:
+        data = json.load(file)
+    
+    # Ensure the data is a list
+    if not isinstance(data, list):
+        raise ValueError("The JSON file must contain an array of objects.")
+    
+    # Calculate chunk size
+    chunk_size = max(1, len(data) // num_chunks)
+    
+    # Split the data into chunks
+    for i in range(num_chunks):
+        start = i * chunk_size
+        end = None if i == num_chunks - 1 else (i + 1) * chunk_size
+        chunk = data[start:end]
+        
+        # Write each chunk to a new file
+        output_filename = f"{os.path.splitext(filename)[0]}_chunk{i + 1}.json"
+        with open(output_filename, 'w') as outfile:
+            json.dump(chunk, outfile, indent=4)
+        print(f"Chunk {i + 1} saved to {output_filename}")
+
+
+# split_json_file("clean/recipes.json",3)
+
+
+# splitAllData()
+
 # paintings = readPaintings()
 # birds = readBirds()
 
