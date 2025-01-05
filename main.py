@@ -33,7 +33,6 @@ def generate_memory_phrase(entropy_integer):
     classesIndex = 0
     res = []
     while entropy!=0:
-        # f = open(f"dataset/clean/{classes[classesIndex]['files'][0]}", 'r')
         data = loadJsonData(classes[classesIndex]['files'])
         print(len(data))
         print(classes[classesIndex])
@@ -43,19 +42,15 @@ def generate_memory_phrase(entropy_integer):
         print("~~~~~~~~~~~~~~~\n")
         entropy = entropy//len(data)
         classesIndex += 1
-        # f.close()
     print(res)
 
 def generate_entropy_from_memory_phrase(classIndexes):
     entropy = 0
 
     for i in range(len(classIndexes)):
-        # f = open(f"dataset/clean/{classes[len(classIndexes)-i-1]['files'][0]}", 'r')
         data = loadJsonData(classes[len(classIndexes)-i-1]['files'])
-        # data = json.load(f)
         entropy = entropy * len(data)
         entropy += classIndexes[i]
-        # f.close()
     return entropy
     
 # Initialize the BIP-39 library

@@ -2,10 +2,6 @@
 
 Smriti is an approach to help you transform your 12 or 24 word seed phrases into memorizable ones.
 
-There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
-
-This gives an entropy of $`\\2048^{12}=2^{132}`$ and $`\\2048^{24}=2^{264}`$ for the 12 and 24 word seed phrase respectively.
-
 ### Memorization
 
 While it is difficult for someone to memorize a list of 12 / 24 random words in order,<br> it is relatively easy for someone to memorize a number of different classes of things.
@@ -18,21 +14,48 @@ Remember a Fruit : Kiwi
 
 Remember a Bird : Humming bird
 
-Remember a song : The Amen Corner
+Remember a song : Master of Puppets
+
+Remember a recipe : Apple Pie
 
 and so on
 
 The list of such classes (Movie, Fruit, Bird etc.) are ordered which reduces a <br> burden of the end user.
 
 They only need to remember the names of objects from each class <br> but has no need to maintain the order in their head.
+The memorisation can be further solidified by doing an activity of the said object, e.g. Bake the recipe, watch the movie, so it becomes a strong memory.
+
+## How to run
+
+### Prerequisites
+
+- Python 3.7 or higher
+
+### Installation
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/a7i7/smriti.git
+cd smriti
+```
+
+### 2. Create virtual environment (optional but not recommended)
+
+python3 -m venv venv
+source venv/bin/activate # On Windows: venv\Scripts\activate
 
 ### Construction
 
+There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
+
+This gives an entropy of $`\\2048^{12}=2^{128}`$ and $`\\2048^{24}=2^{256}`$ for the 12 and 24 word seed phrase respectively.
+
 So the math works out to
 
-$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{132}`$
+$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{128}`$
 
-$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{264}`$
+$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{256}`$
 
 for the 12 and 24 word seed phrase respectively
 
@@ -48,32 +71,32 @@ this table lists how many different classes we will need
 
 | Number of classes (m) | $`\\N(c_{m})`$ for 12 word seed phrase | $`\\N(c_{m})`$ for 24 word seed phrase |
 | --------------------- | :------------------------------------: | -------------------------------------: |
-| 10                    |                  9411                  |                               88550677 |
-| 11                    |                  4097                  |                               16777217 |
-| 12                    |                  2048                  |                                4194304 |
-| 13                    |                  1140                  |                                1297851 |
-| 14                    |                  690                   |                                 474861 |
-| 15                    |                  446                   |                                 198669 |
-| 16                    |                  305                   |                                  92682 |
-| 17                    |                  218                   |                                  47296 |
-| 18                    |                  162                   |                                  26008 |
-| 19                    |                  124                   |                                  15232 |
-| 20                    |                   98                   |                                   9411 |
-| 21                    |                   79                   |                                   6087 |
-| 22                    |                   65                   |                                   4097 |
-| 23                    |                   54                   |                                   2853 |
-| 24                    |                   46                   |                                   2048 |
-| 25                    |                   39                   |                                   1510 |
-| 26                    |                   34                   |                                   1140 |
-| 27                    |                   30                   |                                    878 |
-| 28                    |                   27                   |                                    690 |
-| 29                    |                   24                   |                                    551 |
-| 30                    |                   22                   |                                    446 |
-| 31                    |                   20                   |                                    367 |
-| 32                    |                   18                   |                                    305 |
-| 33                    |                   16                   |                                    257 |
-| 34                    |                   15                   |                                    218 |
-| 35                    |                   14                   |                                    187 |
+| 10                    |                  7132                  |                               50859009 |
+| 11                    |                  3184                  |                               10134189 |
+| 12                    |                  1626                  |                                2642246 |
+| 13                    |                  921                   |                                 847180 |
+| 14                    |                  566                   |                                 319558 |
+| 15                    |                  371                   |                                 137271 |
+| 16                    |                  256                   |                                  65536 |
+| 17                    |                  185                   |                                  34132 |
+| 18                    |                  139                   |                                  19113 |
+| 19                    |                  107                   |                                  11376 |
+| 20                    |                   85                   |                                   7132 |
+| 21                    |                   69                   |                                   4675 |
+| 22                    |                   57                   |                                   3184 |
+| 23                    |                   48                   |                                   2242 |
+| 24                    |                   41                   |                                   1626 |
+| 25                    |                   35                   |                                   1210 |
+| 26                    |                   31                   |                                    921 |
+| 27                    |                   27                   |                                    715 |
+| 28                    |                   24                   |                                    566 |
+| 29                    |                   22                   |                                    455 |
+| 30                    |                   20                   |                                    371 |
+| 31                    |                   18                   |                                    307 |
+| 32                    |                   16                   |                                    256 |
+| 33                    |                   15                   |                                    217 |
+| 34                    |                   14                   |                                    185 |
+| 35                    |                   13                   |                                    160 |
 
 In reality not all the classes will have the same number of objects but the table gives us a rough idea of how easy it will be to create a memorizable set of classes.
 
