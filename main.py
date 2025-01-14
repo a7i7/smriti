@@ -1,5 +1,6 @@
 from mnemonic import Mnemonic
 import json
+import sys
 
 classes = [
     {"title": "Board Games", "files":["boardGames.json"]},
@@ -52,12 +53,33 @@ def generate_entropy_from_memory_phrase(classIndexes):
         entropy = entropy * len(data)
         entropy += classIndexes[i]
     return entropy
+
+def validateAndCleanSeedphraseArgument(seedPhraseRaw):
+    # Split the raw input into words
+    words = seedPhraseRaw.split()
     
+    # Validate that the seed phrase has exactly 12 words
+    if len(words) != 12:
+        raise ValueError(f"Invalid seed phrase: Expected 12 words, but got {len(words)}.")
+    
+    # Join the words with a single space
+    cleanedSeedPhrase = " ".join(words)
+    
+    return cleanedSeedPhrase
+
+if len(sys.argv) != 2:
+    print("Usage: python your_script.py 'word1 word2 word3 ... word12'")
+    sys.exit(1)
+
+seed_phrase_raw = sys.argv[1]
+
+seed_phrase = validateAndCleanSeedphraseArgument(seed_phrase_raw)
+
 # Initialize the BIP-39 library
 mnemo = Mnemonic("english")
 
 # Seed phrase
-seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
+# seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
 
 # Convert seed phrase to entropy
 entropy = mnemo.to_entropy(seed_phrase)

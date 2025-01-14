@@ -42,8 +42,16 @@ cd smriti
 
 ### 2. Create virtual environment (optional but not recommended)
 
+```
 python3 -m venv venv
 source venv/bin/activate # On Windows: venv\Scripts\activate
+```
+
+### 3. Run the application
+
+```
+python main.py
+```
 
 ### Construction
 
