@@ -404,6 +404,37 @@ classes = {
 
 }
 
+classes = [
+    {"title": "Board Games", "files":["boardGames.json"], "key":"boardGames"},
+    {"title": "Birds", "files":["birds.json"], "key":"birds"},
+    {"title": "Paintings", "files":["paintings.json"], "key":"paintings"},
+    {"title": "Movies", "files":["movies.json"], "key":"movies"},
+	{"title": "Cities", "files":["cities.json"], "key":"cities"},
+	{"title": "Songs", "files":["songs.json"], "key":"songs"},
+	{"title": "People", "files":["people.json"], "key":"people"},
+	{"title": "Books", "files":["books.json"], "key":"books"},
+	{"title": "Recipes", "files":["recipes.json"], "key":"recipes"}
+]
+
+def loadJsonData():
+
+	x = dict()
+	for c in classes:
+		print(c)
+		combined_data = []
+		for file in c["files"]:
+			try:
+				with open(f"clean2/{file}", 'r') as f:
+					data = json.load(f)
+					combined_data.extend(data)  # Merge dictionaries
+			except (json.JSONDecodeError, FileNotFoundError, ValueError) as e:
+				print(f"Error processing file {file}: {e}")
+		x[c["key"]] = combined_data
+	return x
+		
+    
+
+
 def extractMovies():
 	file = open('movies_metadata.csv','r')
 
@@ -501,9 +532,7 @@ def removeFromJson(key):
 	except Exception as e:
 		print(f"An error occurred while writing to the file: {e}")
 
-def generateTable():
-	f = open('allData.json','r')
-	d = json.load(f)
+def generateTable(d):
 	cum = 0
 	print("| Type      | Total Elements (N) | $$\\lfloor \\log_2(N) \\rfloor$$ | Occupied | 128 - $$\\lfloor \\log_2(N) \\rfloor$$ | \n | ---- | ------------------ | ------------------------- | -------------- | ---------- |")
 	for x in sorted(d, key = lambda di : len(d[di])):
@@ -549,16 +578,11 @@ def readSongs():
 		return data
 
 def readRecipes():
-	with open("recipes.csv", mode='r', encoding='utf-8') as csv_file:
-		csv_reader = csv.DictReader(csv_file)
-
-		# Read rows into a list of dictionaries
-		data = []
-		for row in csv_reader:
-			data.append({
-				"title" : row.get("title"),
-				"link" : row.get("link")
-			})
+	f = open('raw/recipes_raw_nosource_ar.json','r')
+	d = json.load(f)
+	data = []
+	for x in d:
+		data.append(d[x])
 	return data
 
 def readBirds():
@@ -720,6 +744,18 @@ def split_json_file(filename, num_chunks):
             json.dump(chunk, outfile, indent=4)
         print(f"Chunk {i + 1} saved to {output_filename}")
 
+
+# recipes = readRecipes()
+
+# with open("clean2/recipes.json", "w") as file:
+# 	json.dump(recipes, file, indent=4)
+
+# for x in recipes:
+# 	print(x)
+# 	time
+data = loadJsonData()
+# print(len(data))
+generateTable(data)
 
 # split_json_file("clean/recipes.json",3)
 

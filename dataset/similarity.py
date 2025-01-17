@@ -76,7 +76,7 @@ classes = [
     {"title": "Recipes", "files":["recipes_chunk1.json","recipes_chunk2.json","recipes_chunk3.json"], "key":"title"}
 ]
 
-INDEX = 5
+INDEX = 8
 
 title = classes[INDEX]['title']
 key = classes[INDEX]['key']
