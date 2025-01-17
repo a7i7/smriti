@@ -135,7 +135,7 @@ Feel free to reach out to me at my [website](www.afifahmed.com)
 | boardGames | 10334              | 13                            | 13       | 115                                 |
 | birds      | 11503              | 13                            | 26       | 102                                 |
 | paintings  | 13140              | 13                            | 39       | 89                                  |
-| recipes    | 39802              | 15                            | 54       | 74                                  |
+| recipes    | 38879              | 15                            | 54       | 74                                  |
 | movies     | 42840              | 15                            | 69       | 59                                  |
 | cities     | 44372              | 15                            | 84       | 44                                  |
 | songs      | 57623              | 15                            | 99       | 29                                  |
