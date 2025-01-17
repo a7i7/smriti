@@ -73,7 +73,7 @@ classes = [
     {"title": "Songs", "files":["songs.json"], "key":"Song"},
     {"title": "People", "files":["people.json"], "key":"name"},
     {"title": "Books", "files":["books.json"], "key":"Title"},
-    {"title": "Recipes", "files":["recipes_chunk1.json","recipes_chunk2.json","recipes_chunk3.json"], "key":"title"}
+    {"title": "Recipes", "files":["recipes.json"], "key":"title"}
 ]
 
 INDEX = 8

@@ -1,75 +1,111 @@
 "use client";
-import React, { useEffect, useState } from "react";
-import LinearProgress from "@mui/material/LinearProgress";
+import React, { useEffect } from "react";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
+import { SubmitHandler, useForm } from "react-hook-form";
 
-import worker_script from "./worker";
-import { CLASSES, FILE_URL } from "./classes";
+import Grid from "@mui/material/Grid2";
+import {
+  Autocomplete,
+  Button,
+  Card,
+  CardActionArea,
+  CardContent,
+  IconButton,
+  LinearProgress,
+  TextField,
+} from "@mui/material";
+import { wordlist } from "@scure/bip39/wordlists/english";
+import * as yup from "yup";
+import { yupResolver } from "@hookform/resolvers/yup";
+import { getEncodedIndexes } from "./brain";
+import * as bip39 from "@scure/bip39";
+import RefreshIcon from "@mui/icons-material/Refresh";
 
-const DatabaseDownloader = () => {
-  const [progressByClass, setProgressByClass] = useState<
-    {
-      [key: string]: "not_started" | "in_progress" | "completed" | "error";
-    }[]
-  >(
-    CLASSES.map((cls) => {
-      return {
-        [cls.title]: "not_started",
-      };
-    })
-  );
+interface SeedPhraseFormValues {
+  phrase0: string;
+  phrase1: string;
+  phrase2: string;
+  phrase3: string;
+  phrase4: string;
+  phrase5: string;
+  phrase6: string;
+  phrase7: string;
+  phrase8: string;
+  phrase9: string;
+  phrase10: string;
+  phrase11: string;
+}
 
-  const [downloadStart, setDownloadStart] = useState(false);
+const seedPhraseSchema = yup.object().shape({
+  phrase0: yup.string().required(),
+  phrase1: yup.string().required(),
+  phrase2: yup.string().required(),
+  phrase3: yup.string().required(),
+  phrase4: yup.string().required(),
+  phrase5: yup.string().required(),
+  phrase6: yup.string().required(),
+  phrase7: yup.string().required(),
+  phrase8: yup.string().required(),
+  phrase9: yup.string().required(),
+  phrase10: yup.string().required(),
+  phrase11: yup.string().required(),
+});
 
-  const updateStatus = (
-    title: string,
-    status: "not_started" | "in_progress" | "completed" | "error"
-  ) => {
-    setProgressByClass((prev) => {
-      return prev.map((item) => {
-        if (Object.keys(item)[0] === title) {
-          return {
-            [title]: status,
-          };
-        }
-        return item;
-      });
+const Encode = () => {
+  const { register, setValue, getValues, watch, handleSubmit } =
+    useForm<SeedPhraseFormValues>({
+      resolver: yupResolver<SeedPhraseFormValues>(seedPhraseSchema),
     });
+
+  const onSubmit: SubmitHandler<SeedPhraseFormValues> = async (
+    data: SeedPhraseFormValues
+  ) => {
+    console.log(data);
+    const seedPhrase = Array.from({ length: 12 })
+      .map((_, i) => data[`phrase${i}`])
+      .join(" ");
+    console.log(seedPhrase);
+    console.log(seedPhrase);
+    console.log(getEncodedIndexes(seedPhrase));
   };
 
+  const cards = [
+    {
+      id: "random",
+      title: "Generate randomly",
+      description: "Roll the dice and generate a seed phrase.",
+    },
+    {
+      id: "manual",
+      title: "Enter your own",
+      description: "If you already have a seed phrase, enter it here.",
+    },
+  ];
+
+  const [selectedCard, setSelectedCard] = React.useState<string | null>(null);
+
+  const [generateSeedPhrase, setGenerateSeedPhrase] = React.useState(false);
+
   useEffect(() => {
-    if (downloadStart) {
-      const worker = new Worker(worker_script);
-
-      worker.onmessage = (event: {
-        data: {
-          title: string;
-          status: "not_started" | "in_progress" | "completed" | "error";
-        };
-      }) => {
-        console.log(event.data);
-        const { title, status } = event.data;
-        updateStatus(title, status);
-      };
-
-      worker.postMessage({
-        CLASSES,
-        FILE_URL,
-        dbName: "MyDatabase",
-        dbVersion: 1,
-      });
-
-      // Cleanup
-      return () => {
-        worker.terminate();
-      };
+    if (generateSeedPhrase) {
+      const words = bip39.generateMnemonic(wordlist).split(" ");
+      for (let i = 0; i < 12; i++) {
+        console.log(words[i]);
+        setValue(`phrase${i}`, words[i]);
+      }
+      setGenerateSeedPhrase(false);
     }
-  }, [downloadStart]);
+  }, [generateSeedPhrase]);
 
   return (
-    <Box display="flex" flexDirection="column" width={"100%"} height={"100vh"}>
+    <Box
+      display="flex"
+      flexDirection="column"
+      width={"100%"}
+      height={"100vh"}
+      padding="24px"
+    >
       <Box
         width="100%"
         height="250px"
@@ -84,60 +120,114 @@ const DatabaseDownloader = () => {
         <Typography variant="h5" gutterBottom>
           Convert your seed phrase into a memorable story
         </Typography>
-      </Box>
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        alignItems={"center"}
-        justifyContent={"center"}
-      >
-        <Button
-          variant="contained"
-          color="primary"
-          size="large"
-          sx={{
-            minWidth: 500,
-          }}
-          onClick={() => {
-            setDownloadStart(true);
-          }}
-        >
-          Start Progress
-        </Button>
         <Box
           sx={{
-            minWidth: 400,
-            mt: 4,
+            gap: 2,
           }}
+          justifyContent={"space-between"}
+          display={"flex"}
+          alignItems={"center"}
+          padding="36px 0px"
         >
-          <LinearProgress
-            variant="indeterminate"
-            sx={{ width: "100%", height: 10 }}
-          />
+          {cards.map((card, index) => (
+            <Card
+              key={index}
+              sx={{
+                maxWidth: "400px",
+              }}
+            >
+              <CardActionArea
+                onClick={() => {
+                  setSelectedCard(card.id);
+                  if (card.id === "random") {
+                    setGenerateSeedPhrase(true);
+                  } else {
+                    new Array(12).fill(0).forEach((_, i) => {
+                      setValue(`phrase${i}`, "");
+                    });
+                  }
+                }}
+                data-active={selectedCard === card.id ? "" : undefined}
+                sx={{
+                  height: "100%",
+                  "&[data-active]": {
+                    backgroundColor: "action.selected",
+                    "&:hover": {
+                      backgroundColor: "action.selectedHover",
+                    },
+                  },
+                }}
+              >
+                <CardContent sx={{ height: "100%" }}>
+                  {/* {card.id === "random" && (
+                    <RefreshIcon sx={{ alignSelf: "end" }} />
+                  )} */}
+                  <Typography variant="h5" component="div">
+                    {card.title}
+                  </Typography>
+                  <Typography variant="body2" color="text.secondary">
+                    {card.description}
+                  </Typography>
+                </CardContent>
+              </CardActionArea>
+            </Card>
+          ))}
         </Box>
-
-        {/* {progressByClass.map((item, index) => {
-          const title = Object.keys(item)[0];
-          const status = Object.values(item)[0];
-          return (
-            <Box key={index} width={"40%"} mb={2}>
-              <Typography variant="h6" gutterBottom>
-                {title}
-              </Typography>
-              <LinearProgress
-                variant={
-                  status === "in_progress" ? "indeterminate" : "determinate"
-                }
-                value={status === "completed" ? 100 : 0}
-                color={status === "error" ? "error" : "success"}
-                sx={{ width: "100%", height: 10 }}
-              />
-            </Box>
-          );
-        })} */}
       </Box>
+      <form onSubmit={handleSubmit(onSubmit)} className="w-full">
+        <Box
+          display={"flex"}
+          flexDirection={"column"}
+          alignItems={"center"}
+          justifyContent={"center"}
+          marginRight={"20%"}
+          marginLeft={"20%"}
+        >
+          {/* {isGeneratingRandom && (
+            <LinearProgress
+              variant="indeterminate"
+              sx={{ height: "10px", width: "300px", mb: 2 }}
+            />
+          )} */}
+
+          <Grid
+            container
+            border="0px solid black"
+            spacing={4}
+            paddingBottom={"36px"}
+          >
+            {new Array(12).fill(0).map((_, i) => {
+              return (
+                <Grid size={6} key={i}>
+                  <Autocomplete
+                    value={(watch(`phrase${i}`) ?? "") as string}
+                    onChange={(e, value) => {
+                      setValue(`phrase${i}`, value ?? "");
+                    }}
+                    options={wordlist}
+                    renderInput={(params) => (
+                      <TextField {...params} label={`${i + 1}.`} />
+                    )}
+                    disabled={selectedCard === "random"}
+                  />
+                </Grid>
+              );
+            })}
+            <Grid
+              size={12}
+              display={"flex"}
+              justifyContent={"center"}
+              alignItems={"center"}
+            >
+              <Button variant="contained" type="submit">
+                Generate memory
+              </Button>
+            </Grid>
+          </Grid>
+        </Box>
+      </form>
     </Box>
   );
 };
 
-export default DatabaseDownloader;
+export default Encode;

@@ -21,8 +21,6 @@ def loadJsonData(files):
         try:
             with open(f"dataset/clean/{file}", 'r') as f:
                 data = json.load(f)
-                print(file)
-                print(len(data))
                 combined_data.extend(data)  # Merge dictionaries
         except (json.JSONDecodeError, FileNotFoundError, ValueError) as e:
             print(f"Error processing file {file}: {e}")
@@ -67,27 +65,46 @@ def validateAndCleanSeedphraseArgument(seedPhraseRaw):
     
     return cleanedSeedPhrase
 
-if len(sys.argv) != 2:
-    print("Usage: python your_script.py 'word1 word2 word3 ... word12'")
-    sys.exit(1)
+def generateMetadata():
+    classesIndex = 0
+    res = []
+    while classesIndex < len(classes):
+        data = loadJsonData(classes[classesIndex]['files'])
+        print(len(data))
+        print(classes[classesIndex])
+        dic = dict()
+        dic["title"]=classes[classesIndex]["title"]
+        dic["length"]=len(data)
+        res.append(dic)
+        classesIndex += 1
+    print(res)
 
-seed_phrase_raw = sys.argv[1]
+# if len(sys.argv) != 2:
+#     print("Usage: python your_script.py 'word1 word2 word3 ... word12'")
+#     sys.exit(1)
 
-seed_phrase = validateAndCleanSeedphraseArgument(seed_phrase_raw)
+# seed_phrase_raw = sys.argv[1]
+
+# seed_phrase = validateAndCleanSeedphraseArgument(seed_phrase_raw)
 
 # Initialize the BIP-39 library
 mnemo = Mnemonic("english")
 
 # Seed phrase
-# seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
+seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
 
 # Convert seed phrase to entropy
 entropy = mnemo.to_entropy(seed_phrase)
 
 
 entropy_integer = int.from_bytes(entropy, byteorder="big")
+print(entropy)
 print(entropy_integer)
-generate_memory_phrase(entropy_integer)
+for byte in entropy:
+    print(byte)
+# generate_memory_phrase(entropy_integer)
 
-print(generate_entropy_from_memory_phrase([3917, 9799, 727, 13396, 11140, 48344, 5305, 13446, 136][::-1]))
+# print(generate_entropy_from_memory_phrase([3917, 9799, 727, 13396, 11140, 48344, 5305, 13446, 136][::-1]))
 
+
+# generateMetadata()

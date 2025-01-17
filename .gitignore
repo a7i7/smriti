@@ -1,4 +1,3 @@
 .DS_Store
 dataset/recipes.json
 dataset/clean/recipes.json
-webapp/

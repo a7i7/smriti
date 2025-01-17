@@ -13,6 +13,7 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@hookform/resolvers": "^3.10.0",
+    "@mui/icons-material": "^6.4.0",
     "@mui/material": "^6.3.1",
     "@mui/material-nextjs": "^6.3.1",
     "@scure/bip39": "^1.5.1",
