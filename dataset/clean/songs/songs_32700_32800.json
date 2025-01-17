@@ -1,0 +1,402 @@
+[
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Resolve"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Rope"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Spill"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Stacked Actors"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Statues"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Still"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Summer's End"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The Colour And The Shape"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The Deepest Blues Are Black"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The Feast And The Famine"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The Last Song"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The One."
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "The Pretender"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "These Days"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Up In Arms"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Virginia Moon"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Walk"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Walking A Line"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Walking After You"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Watershed"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Weenie Beenie"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "What If I Do?"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Wheels"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "Word Forward"
+    },
+    {
+        "Artist": "Foo Fighters",
+        "Song": "X-Static"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "A Love In Vain"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "A Night To Remember"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "All I Need To Know"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "At War With The World"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Back Where You Belong"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Big Dog"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Blinded By Science"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Blue Morning, Blue Day"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Can't Wait"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Cold As Ice"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Counting Every Minute"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Died In Your Arm Tonight"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Dirty White Boy"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Do What You Like"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Don't Let Go"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Double Vision"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Everything That Comes Around"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Face To Face"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Flesh Wound"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Fool For You Anyway"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Girl On The Moon"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Hand On My Heart"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Head Games"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Heart Turns To Stone"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Hole In My Soul"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Hot Blooded"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I Don't Want To Live Without You"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I Have Waited So Long"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I Keep Hoping"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I Need You"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I Want To Know What Love Is"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I'll Fight For You"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I'll Get Even With You"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "I'm Gonna Win"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Inside Information"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Juke Box Hero"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Just Between You And Me"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Lonely Children"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Long, Long Way From Home"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Love Has Taken Its Toll"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Love On The Telephone"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Lowdown And Dirty"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Luanne"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Midnight Blue"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Moment Of Truth"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Night Life"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "No Hiding Place"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Out Of The Blue"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Prisoner Of Love"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Real World"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Rev On The Red Line"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Running The Risk"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Safe In My Heart"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Say You Will"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Seventeen"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "She's Too Tough"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Soul Doctor"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Spellbinder"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Starrider"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "That Was Yesterday"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "The Beat Of My Heart"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "The Damage Is Done"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Two Different Worlds"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Under The Gun"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Until The End Of Time"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Unusual Heat"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Urgent"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Waiting For Girl Like You"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "When It Comes To Love"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Woman Oh Woman"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "Women"
+    },
+    {
+        "Artist": "Foreigner",
+        "Song": "You're All I Am"
+    },
+    {
+        "Artist": "Frank Sinatra",
+        "Song": "A Baby Just Like You"
+    },
+    {
+        "Artist": "Frank Sinatra",
+        "Song": "A Fella With An Umbrella"
+    },
+    {
+        "Artist": "Frank Sinatra",
+        "Song": "A Fellow Needs A Girl"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "name": "\u017delino",
+        "lat": "41.9794",
+        "lng": "21.0619",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Windorah",
+        "lat": "-25.4205",
+        "lng": "142.6544",
+        "country": "Australia"
+    },
+    {
+        "name": "Al \u2018Uqaylah",
+        "lat": "30.2558",
+        "lng": "19.1994",
+        "country": "Libya"
+    },
+    {
+        "name": "Lemsid",
+        "lat": "26.5482",
+        "lng": "-13.8482",
+        "country": "Morocco"
+    },
+    {
+        "name": "Mukhomornoye",
+        "lat": "66.4171",
+        "lng": "173.3333",
+        "country": "Russia"
+    },
+    {
+        "name": "Vorontsovo",
+        "lat": "71.6983",
+        "lng": "83.5642",
+        "country": "Russia"
+    },
+    {
+        "name": "Grytviken",
+        "lat": "-54.2806",
+        "lng": "-36.5080",
+        "country": "South Georgia and South Sandwich Islands"
+    },
+    {
+        "name": "F\u00fczuli",
+        "lat": "39.6003",
+        "lng": "47.1431",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Venado Tuerto",
+        "lat": "-33.7500",
+        "lng": "-61.9667",
+        "country": "Argentina"
+    },
+    {
+        "name": "F\u00e1mjin",
+        "lat": "61.5264",
+        "lng": "-6.8769",
+        "country": "Faroe Islands"
+    },
+    {
+        "name": "Osilnica",
+        "lat": "45.5289",
+        "lng": "14.6983",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Piso Firme",
+        "lat": "-13.6830",
+        "lng": "-61.8666",
+        "country": "Bolivia"
+    },
+    {
+        "name": "Studeni\u010dani",
+        "lat": "41.9158",
+        "lng": "21.5306",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Pag\u0117giai",
+        "lat": "55.1333",
+        "lng": "21.9167",
+        "country": "Lithuania"
+    },
+    {
+        "name": "Savissivik",
+        "lat": "76.0194",
+        "lng": "-65.1139",
+        "country": "Greenland"
+    },
+    {
+        "name": "Adamstown",
+        "lat": "-25.0667",
+        "lng": "-130.1000",
+        "country": "Pitcairn Islands"
+    },
+    {
+        "name": "Samamea",
+        "lat": "-13.9333",
+        "lng": "-171.5333",
+        "country": "Samoa"
+    },
+    {
+        "name": "Cauquenes",
+        "lat": "-35.9667",
+        "lng": "-72.3500",
+        "country": "Chile"
+    },
+    {
+        "name": "Bogovinje",
+        "lat": "41.9233",
+        "lng": "20.9133",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Kovda",
+        "lat": "66.6919",
+        "lng": "32.8708",
+        "country": "Russia"
+    },
+    {
+        "name": "Cuya",
+        "lat": "-19.1597",
+        "lng": "-70.1794",
+        "country": "Chile"
+    },
+    {
+        "name": "Vransko",
+        "lat": "46.1720",
+        "lng": "14.8217",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Zillah",
+        "lat": "28.5489",
+        "lng": "17.5511",
+        "country": "Libya"
+    },
+    {
+        "name": "Chegga",
+        "lat": "25.3733",
+        "lng": "-5.7873",
+        "country": "Mauritania"
+    },
+    {
+        "name": "Djado",
+        "lat": "21.0150",
+        "lng": "12.3075",
+        "country": "Niger"
+    },
+    {
+        "name": "Gaigirgordub",
+        "lat": "9.5586",
+        "lng": "-78.9484",
+        "country": "Panama"
+    },
+    {
+        "name": "Andoas",
+        "lat": "-2.9042",
+        "lng": "-76.4028",
+        "country": "Peru"
+    },
+    {
+        "name": "Puca Urco",
+        "lat": "-2.3328",
+        "lng": "-71.9167",
+        "country": "Peru"
+    },
+    {
+        "name": "Soldado Bartra",
+        "lat": "-2.5161",
+        "lng": "-75.7666",
+        "country": "Peru"
+    },
+    {
+        "name": "G\u00fcepp\u00ed",
+        "lat": "-0.1166",
+        "lng": "-75.2300",
+        "country": "Peru"
+    },
+    {
+        "name": "Matochkin Shar",
+        "lat": "73.2700",
+        "lng": "56.4497",
+        "country": "Russia"
+    },
+    {
+        "name": "Siglan",
+        "lat": "59.0337",
+        "lng": "152.4166",
+        "country": "Russia"
+    },
+    {
+        "name": "Omchak",
+        "lat": "61.6333",
+        "lng": "147.9167",
+        "country": "Russia"
+    },
+    {
+        "name": "Shalaurova",
+        "lat": "73.2204",
+        "lng": "143.1833",
+        "country": "Russia"
+    },
+    {
+        "name": "Khorgo",
+        "lat": "73.4833",
+        "lng": "113.6300",
+        "country": "Russia"
+    },
+    {
+        "name": "Tiyerbes",
+        "lat": "64.3728",
+        "lng": "120.5494",
+        "country": "Russia"
+    },
+    {
+        "name": "Peregrebnoye",
+        "lat": "62.9670",
+        "lng": "65.0859",
+        "country": "Russia"
+    },
+    {
+        "name": "Komsa",
+        "lat": "61.8680",
+        "lng": "89.2577",
+        "country": "Russia"
+    },
+    {
+        "name": "Gyda",
+        "lat": "70.8814",
+        "lng": "78.4661",
+        "country": "Russia"
+    },
+    {
+        "name": "Khakhar",
+        "lat": "57.6666",
+        "lng": "135.4300",
+        "country": "Russia"
+    },
+    {
+        "name": "Menkerya",
+        "lat": "67.9886",
+        "lng": "123.3505",
+        "country": "Russia"
+    },
+    {
+        "name": "Ust\u2019-Nyukzha",
+        "lat": "56.5500",
+        "lng": "121.6000",
+        "country": "Russia"
+    },
+    {
+        "name": "Zv\u00ebzdnyy",
+        "lat": "70.9333",
+        "lng": "-179.6000",
+        "country": "Russia"
+    },
+    {
+        "name": "Pakhachi",
+        "lat": "60.5816",
+        "lng": "169.0500",
+        "country": "Russia"
+    },
+    {
+        "name": "Indiga",
+        "lat": "67.6898",
+        "lng": "49.0166",
+        "country": "Russia"
+    },
+    {
+        "name": "Starorybnoye",
+        "lat": "72.7666",
+        "lng": "104.8000",
+        "country": "Russia"
+    },
+    {
+        "name": "Laryak",
+        "lat": "61.1012",
+        "lng": "80.2514",
+        "country": "Russia"
+    },
+    {
+        "name": "Ulkan",
+        "lat": "55.9004",
+        "lng": "107.7833",
+        "country": "Russia"
+    },
+    {
+        "name": "Strelka",
+        "lat": "61.8670",
+        "lng": "152.2502",
+        "country": "Russia"
+    },
+    {
+        "name": "Chagda",
+        "lat": "60.1000",
+        "lng": "133.9000",
+        "country": "Russia"
+    },
+    {
+        "name": "Sagastyr",
+        "lat": "73.3779",
+        "lng": "126.5924",
+        "country": "Russia"
+    },
+    {
+        "name": "Zemlya Bunge",
+        "lat": "74.8983",
+        "lng": "142.1050",
+        "country": "Russia"
+    },
+    {
+        "name": "Trofimovsk",
+        "lat": "72.5997",
+        "lng": "127.0337",
+        "country": "Russia"
+    },
+    {
+        "name": "Tunguskhaya",
+        "lat": "64.9004",
+        "lng": "125.2500",
+        "country": "Russia"
+    },
+    {
+        "name": "Agapa",
+        "lat": "71.4504",
+        "lng": "89.2500",
+        "country": "Russia"
+    },
+    {
+        "name": "Podkamennaya Tunguska",
+        "lat": "61.5995",
+        "lng": "90.1236",
+        "country": "Russia"
+    },
+    {
+        "name": "Tukchi",
+        "lat": "57.3670",
+        "lng": "139.5000",
+        "country": "Russia"
+    },
+    {
+        "name": "Varnek",
+        "lat": "69.7153",
+        "lng": "60.0600",
+        "country": "Russia"
+    },
+    {
+        "name": "Numto",
+        "lat": "63.6667",
+        "lng": "71.3333",
+        "country": "Russia"
+    },
+    {
+        "name": "Ust\u2019-Olen\u00ebk",
+        "lat": "72.9833",
+        "lng": "119.8167",
+        "country": "Russia"
+    },
+    {
+        "name": "Bol\u2019sheretsk",
+        "lat": "52.4390",
+        "lng": "156.3594",
+        "country": "Russia"
+    },
+    {
+        "name": "Olen\u00ebk",
+        "lat": "68.5000",
+        "lng": "112.4667",
+        "country": "Russia"
+    },
+    {
+        "name": "Utkholok",
+        "lat": "57.5504",
+        "lng": "157.2333",
+        "country": "Russia"
+    },
+    {
+        "name": "Yessey",
+        "lat": "68.4652",
+        "lng": "102.1887",
+        "country": "Russia"
+    },
+    {
+        "name": "Karamken",
+        "lat": "60.2004",
+        "lng": "151.1666",
+        "country": "Russia"
+    },
+    {
+        "name": "Kostel",
+        "lat": "45.5088",
+        "lng": "14.9100",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Puerto Heath",
+        "lat": "-12.5022",
+        "lng": "-68.6500",
+        "country": "Bolivia"
+    },
+    {
+        "name": "Lagunas",
+        "lat": "-20.9829",
+        "lng": "-69.6833",
+        "country": "Chile"
+    },
+    {
+        "name": "Barn\u012bs",
+        "lat": "23.9460",
+        "lng": "35.4842",
+        "country": "Egypt"
+    },
+    {
+        "name": "Gamba",
+        "lat": "-2.7250",
+        "lng": "10.0167",
+        "country": "Gabon"
+    },
+    {
+        "name": "Nord",
+        "lat": "81.7166",
+        "lng": "-17.8000",
+        "country": "Greenland"
+    },
+    {
+        "name": "Timmiarmiut",
+        "lat": "62.5333",
+        "lng": "-42.2167",
+        "country": "Greenland"
+    },
+    {
+        "name": "Ambarchik",
+        "lat": "69.6261",
+        "lng": "162.3039",
+        "country": "Russia"
+    },
+    {
+        "name": "Kingoonya",
+        "lat": "-30.9170",
+        "lng": "135.3147",
+        "country": "Australia"
+    },
+    {
+        "name": "Sabh\u0101",
+        "lat": "27.0389",
+        "lng": "14.4264",
+        "country": "Libya"
+    },
+    {
+        "name": "\u2018Amr\u0101n",
+        "lat": "15.6594",
+        "lng": "43.9439",
+        "country": "Yemen"
+    },
+    {
+        "name": "Al Jab\u012bn",
+        "lat": "14.7040",
+        "lng": "43.5990",
+        "country": "Yemen"
+    },
+    {
+        "name": "Nelspruit",
+        "lat": "-25.4745",
+        "lng": "30.9703",
+        "country": "South Africa"
+    },
+    {
+        "name": "Lupane",
+        "lat": "-18.9315",
+        "lng": "27.8070",
+        "country": "Zimbabwe"
+    },
+    {
+        "name": "Anouv\u00f4ng",
+        "lat": "18.8989",
+        "lng": "103.0919",
+        "country": "Laos"
+    },
+    {
+        "name": "X\u00e9kong",
+        "lat": "15.3503",
+        "lng": "106.7286",
+        "country": "Laos"
+    },
+    {
+        "name": "Ph\u00f4n-H\u00f4ng",
+        "lat": "18.4953",
+        "lng": "102.4153",
+        "country": "Laos"
+    },
+    {
+        "name": "Qacha\u2019s Nek",
+        "lat": "-30.1167",
+        "lng": "28.6833",
+        "country": "Lesotho"
+    },
+    {
+        "name": "Mersch",
+        "lat": "49.7500",
+        "lng": "6.1000",
+        "country": "Luxembourg"
+    },
+    {
+        "name": "Redange-sur-Attert",
+        "lat": "49.7652",
+        "lng": "5.8894",
+        "country": "Luxembourg"
+    },
+    {
+        "name": "Idr\u012b",
+        "lat": "27.4471",
+        "lng": "13.0517",
+        "country": "Libya"
+    },
+    {
+        "name": "Cocieri",
+        "lat": "47.3000",
+        "lng": "29.1167",
+        "country": "Moldova"
+    },
+    {
+        "name": "Lipkovo",
+        "lat": "42.1553",
+        "lng": "21.5875",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Ilinden",
+        "lat": "41.9945",
+        "lng": "21.5800",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Resen",
+        "lat": "41.0893",
+        "lng": "21.0109",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Makedonska Kamenica",
+        "lat": "42.0208",
+        "lng": "22.5876",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Dalandzadgad",
+        "lat": "43.5708",
+        "lng": "104.4250",
+        "country": "Mongolia"
+    },
+    {
+        "name": "Tevragh Zeina",
+        "lat": "18.0994",
+        "lng": "-15.9761",
+        "country": "Mauritania"
+    },
+    {
+        "name": "Santa Lu\u010bija",
+        "lat": "36.0431",
+        "lng": "14.2172",
+        "country": "Malta"
+    },
+    {
+        "name": "Rasdhoo",
+        "lat": "4.2631",
+        "lng": "72.9919",
+        "country": "Maldives"
+    },
+    {
+        "name": "Dhihdhoo",
+        "lat": "6.8874",
+        "lng": "73.1140",
+        "country": "Maldives"
+    },
+    {
+        "name": "Fonadhoo",
+        "lat": "1.8342",
+        "lng": "73.5031",
+        "country": "Maldives"
+    },
+    {
+        "name": "Nilandhoo",
+        "lat": "3.0567",
+        "lng": "72.8900",
+        "country": "Maldives"
+    },
+    {
+        "name": "Thulusdhoo",
+        "lat": "4.3742",
+        "lng": "73.6517",
+        "country": "Maldives"
+    },
+    {
+        "name": "Balaka",
+        "lat": "-14.9889",
+        "lng": "34.9591",
+        "country": "Malawi"
+    }
+]

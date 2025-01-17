@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "207963",
+        "name": "La Seine a Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "207954",
+        "name": "La Seine",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121477",
+        "name": "Le Quai de Bercy",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121561",
+        "name": "Notre Dame of Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121488",
+        "name": "Pont Marie from the Quai Danjou",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121499",
+        "name": "Quai de la Gare",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121589",
+        "name": "Rue de la Scierie Pontcharra",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "206268",
+        "name": "The Banks of the Marne at Charenton",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121521",
+        "name": "The Pont Marie Quay Sully",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121532",
+        "name": "The Seine at Charenton",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121570",
+        "name": "The Valley of the Creuse",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "206281",
+        "name": "Valley of the Sedelle at Pont Charraud, White Frost",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "121579",
+        "name": "View of the Seine Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Armand Guillaumin",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1927"
+        }
+    },
+    {
+        "work_id": "170221",
+        "name": "A Court Interior in an Italian Monastery",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170156",
+        "name": "Doges Palace",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170241",
+        "name": "Italian Town With Figures",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170165",
+        "name": "Monte Pellegrion and Palermo",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170172",
+        "name": "Motif from Norway",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170179",
+        "name": "The Roman Campagna",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170186",
+        "name": "Tivoli, A View of the Villa d'Este",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170193",
+        "name": "View of Ariccia",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170207",
+        "name": "View of Bie",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170214",
+        "name": "View of Ruinerna of Junos Tempel in Girgenti",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170200",
+        "name": "View of Subiaco",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "170232",
+        "name": "View of Valdemarsudde",
+        "style": "",
+        "artist": {
+            "name": "Gustaf Wilhelm Palm",
+            "nationality": "Swiss",
+            "style": "Classicist",
+            "birth": "1810",
+            "death": "1890"
+        }
+    },
+    {
+        "work_id": "3393",
+        "name": "Allegory Tragedy",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3395",
+        "name": "Apple Tree I",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3397",
+        "name": "Approaching Thunderstorm (The Large Poplar II)",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3399",
+        "name": "Attersee",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3401",
+        "name": "Avenue in Schloss Kammer Park",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3403",
+        "name": "Baby (detail)",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3405",
+        "name": "Beech Forest",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "152969",
+        "name": "Beethoven Frieze Secession Vienna",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3407",
+        "name": "Beethoven Frieze",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3409",
+        "name": "Birch Wood",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3443",
+        "name": "Church in Cassone",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3445",
+        "name": "Church in Unterach am Attersee",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3411",
+        "name": "Danae",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3413",
+        "name": "Death and Life",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3417",
+        "name": "Expectation",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3419",
+        "name": "Farm Garden with Crucifix",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3421",
+        "name": "Farm Garden with Sunflowers",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3423",
+        "name": "Farmhouse with Birch Trees",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3425",
+        "name": "Fulfilment",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3427",
+        "name": "Garden Path with Chickens",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3429",
+        "name": "Girlfriends (detail)",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3431",
+        "name": "Girlfriends",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "209770",
+        "name": "Golden Tears",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3435",
+        "name": "Hope (detail)",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3437",
+        "name": "Houses in Unterach on Lake Atter",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3439",
+        "name": "Hygeia",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3441",
+        "name": "Judith I",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3447",
+        "name": "Lady with Hat and Feather Boa",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "3449",
+        "name": "Landscape Garden Meadow in Flower",
+        "style": "Art Nouveau",
+        "artist": {
+            "name": "Gustav Klimt",
+            "nationality": "Austrian",
+            "style": "Art Nouveau",
+            "birth": "1862",
+            "death": "1918"
+        }
+    },
+    {
+        "work_id": "18042",
+        "name": "A Balcony in Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18040",
+        "name": "A Balcony",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18180",
+        "name": "A Garden in Trouville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18044",
+        "name": "Argenteuil, Fairground",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18048",
+        "name": "Boater Pulling in His Perissoire",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18050",
+        "name": "Boathouse in Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18052",
+        "name": "Boating Party",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18054",
+        "name": "Boulevard of Italiens",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18056",
+        "name": "Bouquet of Roses in a Crystal Vase",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18058",
+        "name": "Canoe on the Yerres River",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18060",
+        "name": "Display of Chickens and Game Birds",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18064",
+        "name": "Floor Scrapers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18066",
+        "name": "Fruit Displayed on a Stand",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18068",
+        "name": "Game of Bezique",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18086",
+        "name": "Houses in Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18084",
+        "name": "Mademoiselle Boissiere Knitting",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18088",
+        "name": "Man at His Bath",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18090",
+        "name": "Man in a Smock",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18092",
+        "name": "Melon and Bowl of Figs",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18094",
+        "name": "Norman Landscape",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18096",
+        "name": "Nude on a Couch",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18098",
+        "name": "Oarsmen",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18100",
+        "name": "Orange Trees",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "18102",
+        "name": "Paris Street, Rainy Weather",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Gustave Caillebotte",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1848",
+            "death": "1894"
+        }
+    },
+    {
+        "work_id": "23720",
+        "name": "A Bay with Cliffs",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23722",
+        "name": "A Brook in a Clearing",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23724",
+        "name": "A Gorge in the Jura",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171052",
+        "name": "A Mill in a Rocky Landscape",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171225",
+        "name": "A Pedestrian Bridge and a Mountain Waterfall",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23728",
+        "name": "After the Hunt",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23730",
+        "name": "Alphonse Promayet",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23732",
+        "name": "Autumn Sea",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23734",
+        "name": "Beach in Normandy",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171061",
+        "name": "Beach Scene with a Boat",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23738",
+        "name": "Bonjour Monsieur Courbet",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23740",
+        "name": "Bouquet of Flowers in a Vase",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23742",
+        "name": "Chillon Castle",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171088",
+        "name": "Cliffs at Etretat",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23744",
+        "name": "Cliffs by the Sea in the Snow",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23746",
+        "name": "Coast Scene",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23750",
+        "name": "Deer Running in the Snow",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23752",
+        "name": "Effect of Snow",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171169",
+        "name": "Fagots Carrier in a Snowy Landscape",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23754",
+        "name": "Fishing Boats on the Deauville Beach",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23758",
+        "name": "Fox Caught in a Trap",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23756",
+        "name": "Fox in the Snow",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    }
+]

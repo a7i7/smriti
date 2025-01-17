@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Minamiise",
+        "lat": "34.3500",
+        "lng": "136.7000",
+        "country": "Japan"
+    },
+    {
+        "name": "Sisia",
+        "lat": "25.4539",
+        "lng": "87.4549",
+        "country": "India"
+    },
+    {
+        "name": "Hakone",
+        "lat": "35.1894",
+        "lng": "139.0247",
+        "country": "Japan"
+    },
+    {
+        "name": "Chinnatad\u0101gam",
+        "lat": "11.0816",
+        "lng": "76.8674",
+        "country": "India"
+    },
+    {
+        "name": "Bari\u0101rpur K\u0101ndh",
+        "lat": "25.9391",
+        "lng": "85.4674",
+        "country": "India"
+    },
+    {
+        "name": "Basbiti",
+        "lat": "26.0939",
+        "lng": "86.5289",
+        "country": "India"
+    },
+    {
+        "name": "Madna",
+        "lat": "26.3963",
+        "lng": "86.3884",
+        "country": "India"
+    },
+    {
+        "name": "Wustermark",
+        "lat": "52.5500",
+        "lng": "12.9500",
+        "country": "Germany"
+    },
+    {
+        "name": "Ponteland",
+        "lat": "55.0480",
+        "lng": "-1.7470",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Mossley",
+        "lat": "53.5147",
+        "lng": "-2.0387",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Ferney-Voltaire",
+        "lat": "46.2558",
+        "lng": "6.1081",
+        "country": "France"
+    },
+    {
+        "name": "Hollinwood",
+        "lat": "53.5183",
+        "lng": "-2.1440",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Kuttappatti",
+        "lat": "11.7939",
+        "lng": "77.9225",
+        "country": "India"
+    },
+    {
+        "name": "Pellezzano",
+        "lat": "40.7333",
+        "lng": "14.7667",
+        "country": "Italy"
+    },
+    {
+        "name": "Barberino di Mugello",
+        "lat": "44.0014",
+        "lng": "11.2392",
+        "country": "Italy"
+    },
+    {
+        "name": "Berriozar",
+        "lat": "42.8361",
+        "lng": "-1.6714",
+        "country": "Spain"
+    },
+    {
+        "name": "Tibubeneng",
+        "lat": "-8.6469",
+        "lng": "115.1503",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Wronki",
+        "lat": "52.7000",
+        "lng": "16.3833",
+        "country": "Poland"
+    },
+    {
+        "name": "Gu\u00e9oul",
+        "lat": "15.4833",
+        "lng": "-16.3500",
+        "country": "Senegal"
+    },
+    {
+        "name": "Meliana",
+        "lat": "39.5272",
+        "lng": "-0.3492",
+        "country": "Spain"
+    },
+    {
+        "name": "Sontha",
+        "lat": "26.1861",
+        "lng": "87.7766",
+        "country": "India"
+    },
+    {
+        "name": "Altensteig",
+        "lat": "48.5864",
+        "lng": "8.6047",
+        "country": "Germany"
+    },
+    {
+        "name": "Karlsdorf-Neuthard",
+        "lat": "49.1364",
+        "lng": "8.5439",
+        "country": "Germany"
+    },
+    {
+        "name": "Blitta",
+        "lat": "8.3167",
+        "lng": "0.9833",
+        "country": "Togo"
+    },
+    {
+        "name": "Tizi",
+        "lat": "35.3167",
+        "lng": "0.0667",
+        "country": "Algeria"
+    },
+    {
+        "name": "Prineville",
+        "lat": "44.2985",
+        "lng": "-120.8607",
+        "country": "United States"
+    },
+    {
+        "name": "Arniya",
+        "lat": "25.7150",
+        "lng": "85.5448",
+        "country": "India"
+    },
+    {
+        "name": "Venosa",
+        "lat": "40.9618",
+        "lng": "15.8148",
+        "country": "Italy"
+    },
+    {
+        "name": "Timberlane",
+        "lat": "29.8781",
+        "lng": "-90.0303",
+        "country": "United States"
+    },
+    {
+        "name": "Bueno Brand\u00e3o",
+        "lat": "-22.4500",
+        "lng": "-46.3500",
+        "country": "Brazil"
+    },
+    {
+        "name": "Groa\u00edras",
+        "lat": "-3.8833",
+        "lng": "-40.3833",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rincon",
+        "lat": "32.2947",
+        "lng": "-81.2353",
+        "country": "United States"
+    },
+    {
+        "name": "Kamen\u2019-Rybolov",
+        "lat": "44.7667",
+        "lng": "132.0167",
+        "country": "Russia"
+    },
+    {
+        "name": "Kavakl\u0131dere",
+        "lat": "37.4469",
+        "lng": "28.3633",
+        "country": "Turkey"
+    },
+    {
+        "name": "Kenzingen",
+        "lat": "48.1917",
+        "lng": "7.7683",
+        "country": "Germany"
+    },
+    {
+        "name": "Coste\u015fti",
+        "lat": "46.8678",
+        "lng": "28.7689",
+        "country": "Moldova"
+    },
+    {
+        "name": "Zasechnoye",
+        "lat": "53.1142",
+        "lng": "45.0601",
+        "country": "Russia"
+    },
+    {
+        "name": "Meulebeke",
+        "lat": "50.9500",
+        "lng": "3.2833",
+        "country": "Belgium"
+    },
+    {
+        "name": "Krosno Odrza\u0144skie",
+        "lat": "52.0333",
+        "lng": "15.1000",
+        "country": "Poland"
+    },
+    {
+        "name": "Oued Sebbah",
+        "lat": "35.3725",
+        "lng": "-0.8114",
+        "country": "Algeria"
+    },
+    {
+        "name": "Keila",
+        "lat": "59.3086",
+        "lng": "24.4225",
+        "country": "Estonia"
+    },
+    {
+        "name": "Ogose",
+        "lat": "35.9645",
+        "lng": "139.2942",
+        "country": "Japan"
+    },
+    {
+        "name": "Lehman",
+        "lat": "41.1518",
+        "lng": "-74.9924",
+        "country": "United States"
+    },
+    {
+        "name": "Yairipok",
+        "lat": "24.6779",
+        "lng": "94.0477",
+        "country": "India"
+    },
+    {
+        "name": "Koilakh",
+        "lat": "26.3358",
+        "lng": "86.2010",
+        "country": "India"
+    },
+    {
+        "name": "Roque P\u00e9rez",
+        "lat": "-35.4167",
+        "lng": "-59.3167",
+        "country": "Argentina"
+    },
+    {
+        "name": "Chenango",
+        "lat": "42.1954",
+        "lng": "-75.8989",
+        "country": "United States"
+    },
+    {
+        "name": "Muswellbrook",
+        "lat": "-32.2656",
+        "lng": "150.8886",
+        "country": "Australia"
+    },
+    {
+        "name": "Kh\u0101njah\u0101npur",
+        "lat": "25.6055",
+        "lng": "86.0927",
+        "country": "India"
+    },
+    {
+        "name": "Sangr\u0101m",
+        "lat": "26.3141",
+        "lng": "86.3515",
+        "country": "India"
+    },
+    {
+        "name": "Nishi",
+        "lat": "32.2000",
+        "lng": "130.8333",
+        "country": "Japan"
+    },
+    {
+        "name": "Pocono",
+        "lat": "41.0612",
+        "lng": "-75.3102",
+        "country": "United States"
+    },
+    {
+        "name": "Bobrynets",
+        "lat": "48.0578",
+        "lng": "32.1581",
+        "country": "Ukraine"
+    },
+    {
+        "name": "Osterwieck",
+        "lat": "51.9667",
+        "lng": "10.7167",
+        "country": "Germany"
+    },
+    {
+        "name": "Karik\u0101d",
+        "lat": "10.6917",
+        "lng": "76.0722",
+        "country": "India"
+    },
+    {
+        "name": "Chiltiup\u00e1n",
+        "lat": "13.5833",
+        "lng": "-89.4667",
+        "country": "El Salvador"
+    },
+    {
+        "name": "Gages Lake",
+        "lat": "42.3519",
+        "lng": "-87.9828",
+        "country": "United States"
+    },
+    {
+        "name": "Passa e Fica",
+        "lat": "-6.4358",
+        "lng": "-35.6428",
+        "country": "Brazil"
+    },
+    {
+        "name": "Tarw\u0101ra",
+        "lat": "26.2007",
+        "lng": "84.4874",
+        "country": "India"
+    },
+    {
+        "name": "Minamisanriku",
+        "lat": "38.6793",
+        "lng": "141.4608",
+        "country": "Japan"
+    },
+    {
+        "name": "Imeni Chapayeva",
+        "lat": "40.2778",
+        "lng": "72.6361",
+        "country": "Kyrgyzstan"
+    },
+    {
+        "name": "Bobrovytsia",
+        "lat": "50.7450",
+        "lng": "31.3869",
+        "country": "Ukraine"
+    },
+    {
+        "name": "Xudat",
+        "lat": "41.6281",
+        "lng": "48.6828",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Castel Mella",
+        "lat": "45.5000",
+        "lng": "10.1500",
+        "country": "Italy"
+    },
+    {
+        "name": "Nyakosoba",
+        "lat": "-29.5047",
+        "lng": "27.8692",
+        "country": "Lesotho"
+    },
+    {
+        "name": "Gilbu\u00e9s",
+        "lat": "-9.8333",
+        "lng": "-45.3500",
+        "country": "Brazil"
+    },
+    {
+        "name": "Santo\u00f1a",
+        "lat": "43.4414",
+        "lng": "-3.4575",
+        "country": "Spain"
+    },
+    {
+        "name": "Kodmi\u0101l",
+        "lat": "18.6333",
+        "lng": "78.9000",
+        "country": "India"
+    },
+    {
+        "name": "Manville",
+        "lat": "40.5420",
+        "lng": "-74.5892",
+        "country": "United States"
+    },
+    {
+        "name": "Berthoud",
+        "lat": "40.3071",
+        "lng": "-105.0426",
+        "country": "United States"
+    },
+    {
+        "name": "Alto Rio Doce",
+        "lat": "-21.0333",
+        "lng": "-43.4167",
+        "country": "Brazil"
+    },
+    {
+        "name": "Kiratpur R\u0101j\u0101r\u0101m",
+        "lat": "25.8560",
+        "lng": "85.2850",
+        "country": "India"
+    },
+    {
+        "name": "Haysville",
+        "lat": "37.5648",
+        "lng": "-97.3527",
+        "country": "United States"
+    },
+    {
+        "name": "Soyal\u00f3",
+        "lat": "16.9333",
+        "lng": "-92.9833",
+        "country": "Mexico"
+    },
+    {
+        "name": "Great Harwood",
+        "lat": "53.7860",
+        "lng": "-2.4080",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Hardia",
+        "lat": "26.6184",
+        "lng": "84.8857",
+        "country": "India"
+    },
+    {
+        "name": "Ghanpur",
+        "lat": "17.4989",
+        "lng": "78.2225",
+        "country": "India"
+    },
+    {
+        "name": "Qa\u015fr-e Qomsheh",
+        "lat": "29.7756",
+        "lng": "52.4417",
+        "country": "Iran"
+    },
+    {
+        "name": "Terryville",
+        "lat": "40.9093",
+        "lng": "-73.0486",
+        "country": "United States"
+    },
+    {
+        "name": "Bernardo de Irigoyen",
+        "lat": "-26.2500",
+        "lng": "-53.9833",
+        "country": "Argentina"
+    },
+    {
+        "name": "Wis\u0142a",
+        "lat": "49.6549",
+        "lng": "18.8595",
+        "country": "Poland"
+    },
+    {
+        "name": "Sair\u00e9",
+        "lat": "-8.3333",
+        "lng": "-35.6500",
+        "country": "Brazil"
+    },
+    {
+        "name": "Yacop\u00ed",
+        "lat": "5.4667",
+        "lng": "-74.3333",
+        "country": "Colombia"
+    },
+    {
+        "name": "Langenzenn",
+        "lat": "49.4944",
+        "lng": "10.7947",
+        "country": "Germany"
+    },
+    {
+        "name": "Erstein",
+        "lat": "48.4200",
+        "lng": "7.6600",
+        "country": "France"
+    },
+    {
+        "name": "Fife",
+        "lat": "47.2329",
+        "lng": "-122.3518",
+        "country": "United States"
+    },
+    {
+        "name": "Triangle",
+        "lat": "38.5483",
+        "lng": "-77.3195",
+        "country": "United States"
+    },
+    {
+        "name": "Kandry",
+        "lat": "54.5500",
+        "lng": "54.1000",
+        "country": "Russia"
+    },
+    {
+        "name": "Gottmadingen",
+        "lat": "47.7356",
+        "lng": "8.7767",
+        "country": "Germany"
+    },
+    {
+        "name": "Gl\u00fcckstadt",
+        "lat": "53.7917",
+        "lng": "9.4219",
+        "country": "Germany"
+    },
+    {
+        "name": "Beni Abb\u00e8s",
+        "lat": "30.0800",
+        "lng": "-2.1000",
+        "country": "Algeria"
+    },
+    {
+        "name": "Inverurie",
+        "lat": "57.2800",
+        "lng": "-2.3800",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Gentio do Ouro",
+        "lat": "-11.4167",
+        "lng": "-42.5000",
+        "country": "Brazil"
+    },
+    {
+        "name": "Coroaci",
+        "lat": "-18.6219",
+        "lng": "-42.2858",
+        "country": "Brazil"
+    },
+    {
+        "name": "Yungay",
+        "lat": "-37.1194",
+        "lng": "-72.0189",
+        "country": "Chile"
+    },
+    {
+        "name": "La Puebla de Cazalla",
+        "lat": "37.2222",
+        "lng": "-5.3125",
+        "country": "Spain"
+    },
+    {
+        "name": "Mesyagutovo",
+        "lat": "55.5167",
+        "lng": "58.2667",
+        "country": "Russia"
+    },
+    {
+        "name": "Hammelburg",
+        "lat": "50.1167",
+        "lng": "9.9000",
+        "country": "Germany"
+    },
+    {
+        "name": "Nova Vodolaha",
+        "lat": "49.7192",
+        "lng": "35.8761",
+        "country": "Ukraine"
+    },
+    {
+        "name": "Itarana",
+        "lat": "-19.8739",
+        "lng": "-40.8750",
+        "country": "Brazil"
+    }
+]

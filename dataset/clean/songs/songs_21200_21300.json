@@ -1,0 +1,402 @@
+[
+    {
+        "Artist": "Weezer",
+        "Song": "Automatic"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Cold Dark World"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "December"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Devotion"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Don't Let Go"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Dreamin'"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Falling For You"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Hang On"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Hark! The Herald Angels Sing"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Hash Pipe"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Haunt You Everyday"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Heart Songs"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Hold Me"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "In The Garage"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Living Without You"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Miss Sweeney"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "My Best Friend"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Mykel And Carli"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Perfect Situation"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Pig"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Pork And Beans"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Run Away"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Silent Night"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Simple Pages"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Slave"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Slob"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Smart Girls"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "The First Noel"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Thought I Knew"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Time Flies"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Trainwrecks"
+    },
+    {
+        "Artist": "Weezer",
+        "Song": "Turning Up The Radio"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Addicted To Spuds"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Amish Paradise"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Bob"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Buckingham Blues"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Callin' In Sick"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Canadian Idiot"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Cavity Search"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Close But No Cigar"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Do I Creep You Out"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Dog Eat Dog"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Don't Wear Those Shoes"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Everything You Know Is Wrong"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Frank's"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "George Of The Jungle"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Germs"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "I Lost On Jeopardy"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "I Remember Larry"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "I Want A New Duck"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "It's All About The Pentiums"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Jerry Springer"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Livin' In The Fridge"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Perform This Way"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Polka Party!"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Polkas On 45"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "She Never Told Me She Was A Mime"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Since You've Been Gone"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Slime Creatures From Outer Space"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Smells Like Nirvana"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Stop Draggin' My Car Around"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Stuck In A Closet With Vanna White"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Such A Groovy Guy"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Syndicated Inc."
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "Talk Soup"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "The Brady Bunch"
+    },
+    {
+        "Artist": "Weird Al Yankovic",
+        "Song": "The Weird Al Show Theme"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Amazing"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Angel's Wings"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "beautiful tonight"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Change The World"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Clementine"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Close"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Close Your Eyes"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Closer"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Colour My World"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Come Fly With Me"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Don't Calm The Storm"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Don't Get Me Wrong"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Don't Let Me Go"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Don't Say It's Too Late"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Dreams Come True"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Drive"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Evergreen"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Heal"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Hey Whatever"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Home"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "How To Break A Heart"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "I Did It For You"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "If Your Heart's Not In It"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "I'm Already There"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Let There Be Love"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Love Crime"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Love Takes Two"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Mack The Knife"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Mandy"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Maybe Tomorrow"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Miss You"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "Miss You Nights"
+    },
+    {
+        "Artist": "Westlife",
+        "Song": "No No"
+    }
+]

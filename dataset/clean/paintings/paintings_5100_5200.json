@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "147841",
+        "name": "Les Grands Boulevards, Paris la Nuit",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148778",
+        "name": "Marseilles Quay by Night",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "147852",
+        "name": "Moulin Rouge, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148789",
+        "name": "Nachtliches Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "147907",
+        "name": "Paris by Night",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148822",
+        "name": "Paris Cafe\u00b4 by Night",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "147918",
+        "name": "Paris in Spring",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148583",
+        "name": "Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "137010",
+        "name": "A View of Salzburg",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137019",
+        "name": "Amalfi",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136383",
+        "name": "Arches",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137028",
+        "name": "Autumn Day",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137037",
+        "name": "Autumn on the Islands",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136405",
+        "name": "Autumn Scene with Birch Trees",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136427",
+        "name": "Bethlehem",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136438",
+        "name": "Boats in a Harbour",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137046",
+        "name": "Camel Ride",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136460",
+        "name": "Chioggia",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136471",
+        "name": "Courtyard of the Mosque of Omar in Jerusalem",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136482",
+        "name": "Fireworks, Venice",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136493",
+        "name": "Fisherman in Chioggia",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136504",
+        "name": "Fishing Boats in the Lagoon, Venice",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137165",
+        "name": "Fishing Village, Capri",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136515",
+        "name": "Fortress",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136526",
+        "name": "Grapes, Capri",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "137055",
+        "name": "Harbour, Early Evening",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136548",
+        "name": "Holy Land",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136559",
+        "name": "Hot Day, Anacapri",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136581",
+        "name": "Interior with Bouquet of Summer Flowers",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "136350",
+        "name": "A Coastal Town in Spain",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Konstantin Gorbatov",
+            "nationality": "Russian",
+            "style": "Post-Impressionist",
+            "birth": "1876",
+            "death": "1945"
+        }
+    },
+    {
+        "work_id": "158212",
+        "name": "Diana and Her Nymphs in a Landscape",
+        "style": "Baroque",
+        "artist": {
+            "name": "Laurent de La Hyre",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1606",
+            "death": "1656"
+        }
+    },
+    {
+        "work_id": "23436",
+        "name": "Admiral Alexander Hood, 1st Viscount Bridport",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "23438",
+        "name": "Admiral Sir Peter Parker",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "23440",
+        "name": "Captain John Cooke",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "188017",
+        "name": "Portrait of an Officer in the Uniform of one of the Regiments of Life Guards",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "188026",
+        "name": "Portrait of General James Pattison in Military Uniform",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "188008",
+        "name": "Portrait of James Allen, Merchant of the City of London",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "188035",
+        "name": "Portrait of John Sims Seated at a Writing Table",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "188044",
+        "name": "Portrait of Warren Hastings, Governor-General of Bengal",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "23442",
+        "name": "Rear-Admiral Sir Horatio Nelson",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "23444",
+        "name": "Rear-Admiral Sir Thomas Pasley",
+        "style": "",
+        "artist": {
+            "name": "Lemuel Francis Abbott",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1760",
+            "death": "1803"
+        }
+    },
+    {
+        "work_id": "169860",
+        "name": "A La Fontaine",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31732",
+        "name": "Apple Market, Landerneau, Brittany",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31734",
+        "name": "Foins, Fauchers et Deux Femmes Le Matin",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169869",
+        "name": "Glaneuses en Avant de Vieilles Meules",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31736",
+        "name": "Glaneuses Le Soir",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169931",
+        "name": "La Baignade",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31742",
+        "name": "La Paye Des Moissonneurs (Paying the Harvesters)",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31738",
+        "name": "La Premiere Lecon",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169895",
+        "name": "La Priere, Eglise Saint-Bonnet",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "31740",
+        "name": "Laveuses a la Marne, Le Matin",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169940",
+        "name": "Laveuses a Mezy",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169969",
+        "name": "Laveuses le Matin",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169980",
+        "name": "Le Berger et son Troupeau, Le Soir",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169949",
+        "name": "Le P\u00eacheur a Charteves",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169904",
+        "name": "Les Glaneuses",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169913",
+        "name": "Les Laveuses a Chelles",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169878",
+        "name": "L'Orage en Moisson",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169958",
+        "name": "Maternite or Heureuse Famille",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "169922",
+        "name": "Moisson Pres du ru Chailly",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "205426",
+        "name": "Quai au Sable, Charteves",
+        "style": "Naturalism",
+        "artist": {
+            "name": "L\u00e9on Augustin Lhermitte",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1925"
+        }
+    },
+    {
+        "work_id": "1942",
+        "name": "Ginevra de Benci",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1944",
+        "name": "Hahn's La Belle Ferroniere",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1946",
+        "name": "La Belle Ferroniere (Portrait of a Lady from the Court of Milan)",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1948",
+        "name": "Leda and a Swan",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1950",
+        "name": "Mona Lisa (La Gioconda)",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1952",
+        "name": "Mona Lisa or The Joconde",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "119619",
+        "name": "Salvator Mundi",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1958",
+        "name": "The Lady with an Ermine",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1962",
+        "name": "The Last Supper Mural",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1960",
+        "name": "The Last Supper",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "1964",
+        "name": "The Madonna and Child",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Leonardo Da Vinci",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1452",
+            "death": "1519"
+        }
+    },
+    {
+        "work_id": "136175",
+        "name": "A Caucasian Gorge",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136184",
+        "name": "A Lighthouse",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136283",
+        "name": "Bathing in Crimea",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136166",
+        "name": "Batum",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136211",
+        "name": "Moonlit Night on the Neva River",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136294",
+        "name": "Mountain Pastures",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136305",
+        "name": "Near Ay-Petri in the Crimea",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136229",
+        "name": "Ships on a Calm Sea",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136316",
+        "name": "Steamship on High Seas",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136238",
+        "name": "The Bay in Feodosia",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136256",
+        "name": "The Neva at Dusk, St. Petersburg",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136265",
+        "name": "Transport of Ice",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "136274",
+        "name": "View of the Cathedral of St. John Chrysostom, Yalta",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Lev Feliksovich Lagorio",
+            "nationality": "Russian",
+            "style": "Romantic",
+            "birth": "1827",
+            "death": "1905"
+        }
+    },
+    {
+        "work_id": "29816",
+        "name": "Air Man Space",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29818",
+        "name": "Architectonic Painting",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29820",
+        "name": "Birsk",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29824",
+        "name": "Composition (Blue-Yellow-Black)",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29826",
+        "name": "Composition No. 47",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29828",
+        "name": "Composition (Red-Black-Gold)",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29834",
+        "name": "Construction with White Crescent (Green)",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29832",
+        "name": "Construction with White Crescent",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29830",
+        "name": "Construction",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29836",
+        "name": "Cubist City Landscape",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29838",
+        "name": "Figure, House, Space",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29840",
+        "name": "Objects from the Dyer's Shop",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29844",
+        "name": "Painterly Architectonic II",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29846",
+        "name": "Painterly Architectonic III",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "29848",
+        "name": "Painterly Architectonic IV",
+        "style": "",
+        "artist": {
+            "name": "Liubov Popova",
+            "nationality": "Russian",
+            "style": "Modern Art",
+            "birth": "1889",
+            "death": "1924"
+        }
+    }
+]

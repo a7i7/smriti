@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "144347",
+        "name": "Prefailles, la Sortie du Bain",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144358",
+        "name": "Promenade dans le Jardin",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144369",
+        "name": "Roses dans un Pichet",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143675",
+        "name": "Saint-Jean-de-Monts",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143263",
+        "name": "Saint Tropez, au Jardin en Ete",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144380",
+        "name": "Saint-Tropez, deux Jeunes filles a la Fontaine",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144671",
+        "name": "Saint-Tropez, Femme et Enfants au Soleil",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144391",
+        "name": "Saint-Tropez, Fillettes a la Fontaine",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143252",
+        "name": "Saint Tropez, Le Hamac sous les Pins",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143747",
+        "name": "Saint Tropez, Madame Lebasque et Marthe a la Fontaine",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143274",
+        "name": "St Tropez, Deux Enfants au Bord de L'Eau",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143285",
+        "name": "Sur la Plage",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143296",
+        "name": "Sur la Terrasse a Prefailles",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144413",
+        "name": "The Lunch",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144479",
+        "name": "The Quay at St Pierre in Cannes",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143307",
+        "name": "Trois Baigneuses sur la Plage",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143318",
+        "name": "Trois Femme Cousant dans un Jardin",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143329",
+        "name": "Under the Lamp",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144435",
+        "name": "Vence, La Place Ensoleillee",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144446",
+        "name": "Villefranche sur Mer, Fenetre Ouverte sur le Port",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143340",
+        "name": "Vue D'Antibes",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143351",
+        "name": "Vue de L'Esterel",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144457",
+        "name": "Vue du Parc de Saint Cloud",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "143362",
+        "name": "Vue du Quai de Pamponne",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "144468",
+        "name": "Young Nude Seated on the Edge of a Well",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Lebasque",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "132286",
+        "name": "La Sieste, Jeanne",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133074",
+        "name": "Lac de Bret, Suisse",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132574",
+        "name": "Landscape with Bathers, Colombier",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132787",
+        "name": "Le Golfe de Saint-Tropez depuis l'Oustalet",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132464",
+        "name": "Le Golfe de Saint-Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132453",
+        "name": "Le Golfe (The Gulf)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132475",
+        "name": "Le Jardin de l'Oustalet, Saint Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132486",
+        "name": "Le Mas a` Saint-Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132964",
+        "name": "Le Reflet (nu Dubout Devant le Miroir)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132975",
+        "name": "Le Reflet",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132986",
+        "name": "Les Huitres de Belon",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "207998",
+        "name": "Les Oliviers a Cavali\u00e8re",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "208009",
+        "name": "Les Oliviers a Sanary",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132497",
+        "name": "Les Quinconces a Bordeaux",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132354",
+        "name": "Lying Nude on the Carpet",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132997",
+        "name": "Marie",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "208041",
+        "name": "Model at Rest",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132519",
+        "name": "Nature Morte au Magnolia",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133008",
+        "name": "Nature Morte au Pichet en Cuivre",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132796",
+        "name": "Nature Morte Exotique, Les Pamplemousses",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133019",
+        "name": "Nu a L'Atelier (La Croupe, rue Boursault)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132805",
+        "name": "Nu au Fond Bleu, Odette",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132715",
+        "name": "Nu Debout a` Contre-Jour (Grenouillette)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132823",
+        "name": "Nu Endormi",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132814",
+        "name": "Nude Lying Back",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132332",
+        "name": "Nude Under the Trees, Villa Demi\u00e8re",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133063",
+        "name": "Parrot Tulips",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132585",
+        "name": "Paysage de Saint-Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132596",
+        "name": "Paysage de Suisse au Printemps",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132607",
+        "name": "Peches et Melon",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132343",
+        "name": "Pomegranates and Grapes",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132618",
+        "name": "Pommes, Citrons et Physalis",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132629",
+        "name": "Rade de Villefranche",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132640",
+        "name": "Saint-Paul de Vence",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "208027",
+        "name": "Saint Tropez vu de La Moune",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132651",
+        "name": "Saint-Tropez, View of the Fond du Golfe",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132662",
+        "name": "Six Fours, Sanary",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132724",
+        "name": "Small Standing Nude",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132541",
+        "name": "Still Life, Quinces, Pomegranates and Grapes",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132673",
+        "name": "Temps Gris a` Saint-Paul-de-Vence",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132778",
+        "name": "The Farm in the Gulf of Saint-Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "208034",
+        "name": "The Prints",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132442",
+        "name": "The Suresnes Dam",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133030",
+        "name": "Torse de Femme, Jeanne",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133041",
+        "name": "Torse de Vanina",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132684",
+        "name": "Toulon, the Avisos",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "133052",
+        "name": "Tulipes et Renoncules",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132695",
+        "name": "Vue sur la Ponche, Saint-Tropez",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "132887",
+        "name": "Wildflowers",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "24948",
+        "name": "Woman on the Seashore Morning",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Henri Manguin",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1874",
+            "death": "1949"
+        }
+    },
+    {
+        "work_id": "207257",
+        "name": "Outskirts of Paris",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195502",
+        "name": "Portrait of a Woman in a Landscape",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20634",
+        "name": "Portrait of Joseph Brummer",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20636",
+        "name": "Portrait of Leon-Paul Fargue",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20638",
+        "name": "Portrait of Monsieur X. Pierre Loti",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195592",
+        "name": "Scouts Attacked by a Tiger",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20640",
+        "name": "Self-Portrait with a Lamp",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20642",
+        "name": "St. George Slaughtering the Dragon",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195524",
+        "name": "Study for View of the Pont de Se`vres",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20644",
+        "name": "Suburban Scene",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20646",
+        "name": "Surprise!",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20648",
+        "name": "The Avenue in the Park at Saint-Cloud",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195659",
+        "name": "The Canal and Landscape with Tree Trunks",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20650",
+        "name": "The Chair Factory",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20652",
+        "name": "The Customs House",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20656",
+        "name": "The Flamingos",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20658",
+        "name": "The Football Players",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195616",
+        "name": "The Laundry Boat of Pont de Charenton",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20660",
+        "name": "The Merry Jesters",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20664",
+        "name": "The Muse Inspiring the Poet",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20666",
+        "name": "The Painter and His Wife",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195649",
+        "name": "The Past and the Present, or Philosophical Thought",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20668",
+        "name": "The Poultry Yard",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "20670",
+        "name": "The Quarry",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    },
+    {
+        "work_id": "195627",
+        "name": "The Rabbit's Meal",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Henri Rousseau",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1844",
+            "death": "1910"
+        }
+    }
+]

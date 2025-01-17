@@ -1,0 +1,1202 @@
+[
+    {
+        "Title": "Java Performance Tuning",
+        "Authors": "By Shirazi, Jack",
+        "Description": "No matter what language they're programming in, developers always wish  things would run faster! Especially when writing mission-critical  applications, no one wants to be limited by the programming environment.Java Performance Tuning provides all the details you need to know  to \"performance tune\" any type of Java program and make Java code run  significantly faster.Java Performance Tuning contains step-by-step instructions on all  aspects  of the performance tuning process, right from such early considerations as  setting goals, measuring performance, and choosing a compiler.  Extensive examples for tuning many parts of an application are described in  detail, and any pitfalls are identified. The book also provides performance  tuning checklists that enable developers to make their tuning as  comprehensive as possible.Java Performance Tuning is a book to help you \"roll up  your sleeves\" and examine your code in detail in order to apply different  tuning techniques to produce the best possible result.The book shows you how to:Create and plan a tuning strategyAvoid performance penalties from inefficient codeMinimize the number of objects a program createsImprove the behavior of loops and switchesUse threads effectively",
+        "Category": " Computers , Programming Languages , Java",
+        "Publisher": "O'Reilly Media",
+        "Price Starting With ($)": "6.37",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "The Vanishing American",
+        "Authors": "By Grey, Zane",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Harper & Brothers",
+        "Price Starting With ($)": "12.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1925"
+        }
+    },
+    {
+        "Title": "Faith Seeking Understanding: An Introduction to Christian Theology",
+        "Authors": "By Migliore, Daniel L.",
+        "Description": "Daniel Migliore's Faith Seeking Understanding has been a standard introduction to Christian theology for more than a decade. The book's presentation of traditional doctrine in contemporary ways, its concern to hear and engage new voices in theology, and its creative and accessible style have kept it one of the most stimulating, balanced, and readable guides to theology available.",
+        "Category": "",
+        "Publisher": "Wm. B. Eerdmans Publishing Company",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1991"
+        }
+    },
+    {
+        "Title": "Pocket Reference for ECGs Made Easy",
+        "Authors": "By Aehlert, Barbara",
+        "Description": "Featuring full color illustrations throughout, this concise pocket reference provides quick access to information needed when interpreting electrocardiograms. It is included as a companion reference with the ECGs Made Easy textbook, but is also sold separately. Early chapters review basic anatomy, physiology, and electrophysiology. Others deal with specific types of rhythms (i.e., atrial, junctional). It concludes with an introduction to the 12-lead ECG. Aehlert is affiliated with Southwest EMS Education, Inc. Annotation \u00a92006 Book News, Inc., Portland, OR (booknews.com)",
+        "Category": " Medical , Cardiology",
+        "Publisher": "Mosby/JEMS",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "A Treasury of Christmas Stories (A Treasury of Stories)",
+        "Authors": "By Aldous, Kate (ILT) and Hardy, Sian",
+        "Description": "A collection of Christmas stories by such authors as Carolyn Haywood, Joan Aiken, and Roger Duvoisin.",
+        "Category": " Juvenile Fiction , General",
+        "Publisher": "Kingfisher",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "1994"
+        }
+    },
+    {
+        "Title": "Massage: A Flowmotion\u0099 Book: Discover Health, Wholeness, and Well-Being With This Time-Honored Healing Art",
+        "Authors": "By Harness, Rosie Linda and Weidemann, Nuro",
+        "Description": "With the best techniques, the utmost expertise, and the greatest sensitivity, Flowmotion shows how to give a restorative, relaxing, full-body massage. With this revolutionary photographic system, it's easy to see exactly how to do each stroke, each form of gentle kneading, each method of petrissage, effleurage, and circular friction. Try soft knuckles gently pressing into the flesh; a cupping stroke over the whole leg; stretching out the sacrum; giving thumb friction on either side of the spine; kneading up beside the shinbone; and much more. Just follow the pictures to develop your skills and reach new heights of excellence. No matter whether the lucky recipient is sitting for a quick shoulder and back rub; lying down for the full treatment, or receiving a facial massage: every subtle delicate movement that's needed is caught on the page.",
+        "Category": " Health & Fitness , Massage & Reflexotherapy",
+        "Publisher": "Sterling",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2003"
+        }
+    },
+    {
+        "Title": "New Blood",
+        "Authors": "By Jonathan Maberry, Neal Levin, William H. Horner III, Terri Osborne, Hildy Silverman, T. L. Randleman, Bernie Mojzes, K.T. Pinto",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Padwolf Publishing Inc.",
+        "Price Starting With ($)": "15.19",
+        "Publish Date": {
+            "Month": "June",
+            "Year": "2010"
+        }
+    },
+    {
+        "Title": "The Complete Pregnancy and Baby Book: A Guide to Prenatal, Infant, and Toddler Care (Plume)",
+        "Authors": "By Lansky, Vicki",
+        "Description": "A sourcebook for parents-to-be, covering prenatal care, preparing the home, budgeting, delivery and recovery, diet, the child's development, and the family environment",
+        "Category": " Family & Relationships , General",
+        "Publisher": "Plume",
+        "Price Starting With ($)": "6.24",
+        "Publish Date": {
+            "Month": "June",
+            "Year": "1991"
+        }
+    },
+    {
+        "Title": "American Heart Association Meals in Minutes Cookbook: Over 200 All-New Quick and Easy Low-Fat Recipes",
+        "Authors": "By American Heart Association",
+        "Description": "If homemade meals at your house are being replaced by fat-filled takeout or microwaveables in front of the TV, you'll want American Heart Association Meals in Minutes on your cookbook shelf. More than 200 delicious low-fat, low-cholesterol recipes nourish your appetite for good food while respecting your hectic schedule. Whether you're balancing work and family, putting in overtime at the office, or simply wanting to restore the joys of home cooking to your table, here are terrific dishes you can put together without a lot of fuss and bother--and in 20 minutes or less.With everything from appetizers, snacks, soups, salads, and sandwiches to main courses (including plenty of vegetarian options), vegetables, breads, breakfast dishes, and of course desserts, the emphasis is on ease of preparation and great taste. You can prepare many of these dishes with ingredients you probably already have on hand, making mealtime even more stress-free. In addition to one-dish and microwaveable recipes, there are four special \"super saver\" recipe types for when you're extra rushed to get dinner on the table. \"New Classics\" are basic main dishes that will become your new standbys, ready to dress up or down as you see fit. \"Planned-Overs\" are recipe \"twofers\" that use last night's leftovers in a creative new way for tonight's meal. \"Shopping Cart\" recipes require no more than six common ingredients and get you in and out of the kitchen in no time. \"Express-ipes\" are the quickest of the quick, taking merely 25 minutes or less for all the preparation and all the cooking.Tempting dishes include:Stacked Mushroom NachosMini Cinnamon StackupsPortobello Pizza with Peppery GreensChicken Fajita Pasta with Chipotle Alfredo SauceScallops Proven\u00e7alBroccoli with Sweet-and-Sour Tangerine SauceChocolate Hazelnut Angel Food Cake with BananasDevil's Food Cake with Caramel DrizzlesNo-Chop StewBlue Cheese Beef and FriesTurkey PotstickersLemongrass Chicken with Snow Peas and Jasmine RiceGreen and Petite Pea Salad with FetaPasta Frittata",
+        "Category": " Cooking , Methods , Quick & Easy",
+        "Publisher": "Harmony",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "2002"
+        }
+    },
+    {
+        "Title": "Pro Spring",
+        "Authors": "By Harrop, Rob and Machacek, Jan",
+        "Description": "Intended for experienced Java developers, this guide introduces the Spring lightweight framework for building Java applications, and offers advice on aspect-oriented programming, accessing data, managing transactions, integrating with J2EE, scheduling jobs, enabling remote services, and using the MVC architecture to build web applications. A sample blog application runs throughout the book showing how the different Spring features work together. Annotation \u00a92006 Book News, Inc., Portland, OR (booknews.com)",
+        "Category": " Computers , Programming , General",
+        "Publisher": "Apress",
+        "Price Starting With ($)": "7.48",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "Wreaths 'Round the Year: More than Ninety Inspiring Wreaths to Make and Enjoy",
+        "Authors": "By Dawn Cusick, Rob Pulleyn",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Sterling Pub. Co",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1990"
+        }
+    },
+    {
+        "Title": "Joey Green's Amazing Kitchen Cures: 1,150 Ways to Prevent and Cure Common Ailments with Brand-Name Products",
+        "Authors": "By",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Unknown",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2007"
+        }
+    },
+    {
+        "Title": "God's Little Devotional Book for Boys",
+        "Authors": "By Freeman, W. B.",
+        "Description": "Are you ready for an adventure with God?It only takes a few minutes every day to discover the God who loves you. He   knows you and wants the very best for you. These pages are filled with fun devotions   and stories along with powerful scriptures for boys just like you. This cool   book will help you find the road to an exciting power-packed life with God!",
+        "Category": " Juvenile Nonfiction , Religious , Christian , Devotional & Prayer",
+        "Publisher": "David C Cook",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "Lonely Planet Portugal",
+        "Authors": "By Beech, Charlotte and Hole, Abigail",
+        "Description": "",
+        "Category": " Travel , Europe , Spain & Portugal",
+        "Publisher": "Lonely Planet Publications",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "We've Got to Start Meeting Like This: A Guide to Successful Meeting Management",
+        "Authors": "By Nelson, Robert B. and Mosvick, Roger K.",
+        "Description": "",
+        "Category": " Business & Economics , Management",
+        "Publisher": "Park Avenue Productions",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "May",
+            "Year": "1996"
+        }
+    },
+    {
+        "Title": "Birds do the strangest things, (Step-up books)",
+        "Authors": "By Hornblow, Leonora",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Random House",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1965"
+        }
+    },
+    {
+        "Title": "Lonely Planet Netherlands",
+        "Authors": "By Gray, Jeremy and Ver Berkmoes, Ryan",
+        "Description": "",
+        "Category": " Travel , Europe , Western",
+        "Publisher": "Lonely Planet",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2001"
+        }
+    },
+    {
+        "Title": "Too Young to Die: Boy Soldiers of the Union Army 1861-1865",
+        "Authors": "By Keesee, Dennis M.",
+        "Description": "",
+        "Category": " History , United States , Civil War Period (1850-1877)",
+        "Publisher": "Blue Acorn Pr",
+        "Price Starting With ($)": "28.5",
+        "Publish Date": {
+            "Month": "May",
+            "Year": "2001"
+        }
+    },
+    {
+        "Title": "Eisenstaedt: Martha's Vineyard",
+        "Authors": "By Eisenstaedt, Alfred and Burroughs, Polly",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Oxmoor House",
+        "Price Starting With ($)": "9.89",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "1988"
+        }
+    },
+    {
+        "Title": "Happy Birthday: A Novel",
+        "Authors": "By Steel, Danielle",
+        "Description": "In this beguiling new novel, Danielle Steel tells the story of three very different people, each of whom, on the same day, reaches a crucial turning point in life\u2014a rite both bittersweet and full of hope, a time to blow out the candles, say goodbye to the past, and make a wish for the future. Valerie Wyatt is the queen of gracious living and the arbiter of taste. Since her long-ago divorce, she\u2019s worked hard to reach the pinnacle of her profession and to create a camera-ready life in her Fifth Avenue penthouse. So why is she so depressed? All the hours with her personal trainer, the careful work of New York\u2019s best hairdressers, cosmetic surgeons, and her own God-given bone structure and great looks can\u2019t fudge the truth or her lies about it: Valerie is turning sixty. Valerie\u2019s daughter, April, has no love life, no rest, and no prospect of that changing in the foreseeable future. Her popular one-of-a-kind restaurant in downtown New York, where she is chef and owner, consumes every ounce of her attention and energy. Ready or not, though, April\u2019s life is about to change, in a tumultuous transformation that begins the morning it hits her: She\u2019s thirty. And what does she have to show for it? A restaurant, no man, no kids.Jack Adams once threw a football like a guided missile. Twelve years after retiring from the NFL, he is the most charismatic sports analyst on TV, a man who has his pick of the most desirable twentysomething women. But after a particularly memorable Halloween party, Jack wakes up on his fiftieth birthday, his back thrown out of whack, feeling every year his age. A terrifying act of violence, an out-of-the-blue blessing, and two extremely unlikely love affairs soon turn lives inside out and upside down. In a novel brimming with warmth and insight, beginning on one birthday and ending on another, Valerie, April, and Jack discover that life itself can be a celebration\u2014and that its greatest gifts are always a surprise.",
+        "Category": " Fiction , Women",
+        "Publisher": "Delacorte Press",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "July",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "Collector's Encyclopedia of Cookie Jars",
+        "Authors": "By Roerig, Fred and Roerig, Joyce Herndon",
+        "Description": "A comprehensive encyclopedia of cookie jars offers a retrospective of this popular pottery form with thousands of plates depicting a wide variety of jars",
+        "Category": " Antiques & Collectibles , Pottery & Ceramics",
+        "Publisher": "Collector Books",
+        "Price Starting With ($)": "9.88",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1997"
+        }
+    },
+    {
+        "Title": "Developing and Administering a Child Care Center",
+        "Authors": "By Sciarra, Dorothy June and Dorsey, Anne G.",
+        "Description": "Readers are introduced to the total range of administrative demands in different types of early childhood education centers.",
+        "Category": " Education , Elementary",
+        "Publisher": "Cengage Learning",
+        "Price Starting With ($)": "6.29",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "1994"
+        }
+    },
+    {
+        "Title": "Pink Princess Cookbook",
+        "Authors": "By Beery, Barbara",
+        "Description": "Expert cooking instructor and cookbook author Barbara Beery has created a book that will delight girls around the world! Perfect for tea parties, rainy days, themed birthday parties and other celebrations, or any creative afternoon playtime, the Pink Princess Cookbook features treats such as the signature Pink Princess Cake, Chocolate Chip-Peppermint Scones, Enchanted Unicorn Horns, and Fairy Berry Tea. These recipes are simple to make, have just a few ingredients, and teach children valuable kitchen skills while engaging their imaginations.",
+        "Category": " Juvenile Nonfiction , Cooking & Food",
+        "Publisher": "Gibbs Smith",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "The Complete Illustrated Guide to Massage: A Step-by-Step Approach to the Healing Art of Touch",
+        "Authors": "By Stewart Mitchell and Mitchell, Stewart",
+        "Description": "",
+        "Category": " Health & Fitness , Massage & Reflexotherapy",
+        "Publisher": "Element Books Ltd",
+        "Price Starting With ($)": "6.07",
+        "Publish Date": {
+            "Month": "December",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "The Secret Desires of a Governess (The Hallaway Sisters, 2)",
+        "Authors": "By Clare, Tiffany",
+        "Description": "From the moment Abby meets her new employer\u2014the mysterious, brooding Earl of Brendall\u2014she is appalled by his brutish manner\u2026and even more so by her own attraction to him. Has she lost her senses? As a governess, Abby has no choice but to play by the rules. But as a woman, she cannot deny the fiery sensations he ignites--or the fantasies he inspires\u2026From the moment Elliott lays eyes on his new young governess, he knows he's in trouble. Abby is intelligent, defiant, and utterly captivating, but Elliott must do his very best to resist her. But as the two grow closer, the passion burns hotter. In this historical romance from Tiffany Clare, author of The Surrender of a Lady, the only thing that can destroy their love is the darkest secret of his past\u2014and the secret desires of a governess\u2026",
+        "Category": " Fiction , Romance , Historical , General",
+        "Publisher": "St. Martin's Paperbacks",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "May",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "The Dictionary of Misinformation",
+        "Authors": "By Burnam, Tom",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Ballantine Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "December",
+            "Year": "1980"
+        }
+    },
+    {
+        "Title": "Search and rescue (A Perspectives book)",
+        "Authors": "By Mullin, Penn",
+        "Description": "A member of a rescue team comes to grips with his fears and insecurities as he helps search for a small boy lost on a mountain in a howling thunderstorm.Rick's fear of lightening hinders his efforts to help the rescue squad find a young boy lost in the wilderness",
+        "Category": "",
+        "Publisher": "Academic Therapy Publications",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1982"
+        }
+    },
+    {
+        "Title": "500 Tips for Trainers",
+        "Authors": "By Race, Phil and Smith, Brenda D.",
+        "Description": "'500 Tips for Trainers' is a treasure trove of more than 500 enlightening, practical suggestions. all are easy to read and simple to use. This handbook is great as a quick reference when it's time to:*organize the venue* create flip charts and handouts* motivate the participants* fill five minutes until coffee!This entertaining book is packed with good ideas, creative techniques, and extensive appendices available for photocopying. It is a basic handbook for trainers in areas such as industry, government, and healthcare, as well as for personnel and HRD staff, and staff development officers in education.Phil Race, an open and flexible learning specialist, conducts staff development workshops on learning, teaching, and assessment throughout the world. He has co-authored many books, including '500 Tips for Tutors', '500 Tips for Teachers' and 'Assess Your Own Teaching Quality'.Brenda Smith is teaching and learning quality manager at Nottingham Trent University. She facilitates seminars and is co-editor of 'Research, Teaching and Learning in Higher Education'.",
+        "Category": " Business & Economics , Human Resources & Personnel Management",
+        "Publisher": "Gulf Professional Publishing",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1996"
+        }
+    },
+    {
+        "Title": "How to Coach an Effective Team: Leadership That Gets Results (Sixty-Minute Training Series)",
+        "Authors": "By Micki Holliday, Joe Gilliam",
+        "Description": "",
+        "Category": "",
+        "Publisher": "National Press Publications",
+        "Price Starting With ($)": "14.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "Secrets to the Grave (Oak Knoll Series)",
+        "Authors": "By Hoag, Tami",
+        "Description": "A second violent crime shocks the small town of Oak Knoll in this \u201cchilling\u201d (USA Today) thriller from #1 New York Times bestselling author Tami Hoag.California, 1986\u2014A\u00a0911 call from a small child sends the idyllic town of Oak Knoll into a tailspin. Then a brutal crime scene is discovered: the body of Marissa Fordham with her young daughter, Haley, injured but alive. \u00a0 Sheriff\u2019s detective Tony Mendez faces a puzzle with nothing but pieces that won\u2019t fit. To assist with his witness, Haley, he calls teacher-turned-child advocate Anne Leone, who\u2019s already the star witness in a sensational murder trial. \u00a0 As Tony and Anne begin to peel back the layers of Marissa Fordham\u2019s life, they find a clue fragment here, another there. And just when it seems Marissa has taken her secrets to the grave, they uncover a fact that puts Anne and Haley directly in the sights of a killer: Marissa Fordham never existed.",
+        "Category": " Fiction , Thrillers , General",
+        "Publisher": "Dutton",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "V is for Vengeance: A Kinsey Millhone Novel",
+        "Authors": "By Grafton, Sue",
+        "Description": "A spiderweb of dangerous relationships lies at the heart of V is for Vengeance, Sue Grafton's daring new Kinsey Millhone novel.A woman with a murky past who kills herself-or was it murder? A spoiled kid awash in gambling debt who thinks he can beat the system. A lovely woman whose life is about to splinter into a thousand fragments. A professional shoplifting ring working for the Mob, racking up millions from stolen goods. A wandering husband, rich and ruthless. A dirty cop so entrenched on the force he is immune to exposure. A sinister gangster, conscienceless and brutal. A lonely widower mourning the death of his lover, desperate for answers, which may be worse than the pain of his loss. A private detective, Kinsey Millhone, whose thirty-eighth-birthday gift is a punch in the face that leaves her with two black eyes and a busted nose.And an elegant and powerful businessman whose dealings are definitely outside the law: the magus at the center of the web.V: Victim. Violence. Vengeance.",
+        "Category": " Fiction , Mystery & Detective , Women Sleuths",
+        "Publisher": "Marian Wood Books/Putnam",
+        "Price Starting With ($)": "10.99",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "Hawaiian Quilting: Instructions and Full-Size Patterns for 20 Blocks (Dover Quilting)",
+        "Authors": "By Root, Elizabeth",
+        "Description": "Hawaiian quilts, dating back to the influence of nineteenth-century missionaries, are more than objects of practical necessity. A form of artistic expression, they beautifully reflect not only the spirit of a people but their culture and environment as well.For this modestly priced sourcebook, noted needlework designer Elizabeth Root offers 20 Hawaiian quilt blocks. Unique in construction \u2014 and typical of Hawaiian quilt motifs \u2014 the designs are cut in one piece and appliqued to a contrasting color background fabric. In this delightful collection, the designs for the 18-inch squares are named after the lush and exotic island vegetation that inspired them: Blue Jade, Tuberose, Trumpet Vine, Anthurium, Kukui, Protea, Hoya, Angel's Trumpet, Calla Lily, Plumeria, Iris, Pineapple, Breadfruit, Hibiscus, Crown Flower, Orchid, Red Ginger, Wood Rose, Maile, and Water Lily. Blocks are worked in very bright colors \u2014 blue on green, red on yellow, green on white \u2014 but of course, quilters may select colors of their own choice.An introduction provides fascinating background information about the origins and composition of Hawaiian quilts. Full-size patterns, an abundance of illustrations, and detailed, step-by-step instructions make it easy for even beginning quilters to re-create visually delightful Hawaiian treasures.",
+        "Category": " Crafts & Hobbies , Quilts & Quilting",
+        "Publisher": "Dover Publications",
+        "Price Starting With ($)": "4.89",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1989"
+        }
+    },
+    {
+        "Title": "School Smarts Homework Survival Guide (American Girl Library)",
+        "Authors": "By McGuinness, Tracy (ILT) and Falligant, Erin",
+        "Description": "",
+        "Category": " Juvenile Nonfiction , School & Education",
+        "Publisher": "Amer Girl",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "May",
+            "Year": "2007"
+        }
+    },
+    {
+        "Title": "Quinn: A Novel (Eve Duncan, 13)",
+        "Authors": "By Johansen, Iris",
+        "Description": "#1 New York Times bestselling author Iris Johansen explores the darkest corners of the human heart as forensic sculptor Eve Duncan closes in on the killer who stole her daughter so many years ago.  As a former Navy SEAL turned cop, Joe Quinn has seen the face of evil and knows just how deadly it can be. When he first met Eve, he never expected to fall in love with a woman whose life would be defined by her dual desires to bring home her missing daughter and discover the truth behind her disappearance\u2014no matter how devastating. With the help of CIA agent Catherine Ling, Quinn makes a shocking discovery that sheds new light on young Bonnie's abduction and puts him squarely in the crosshairs of danger. Eve's first love, John Gallo, a soldier supposedly killed in the line of duty, is very much alive\u2014and very much a threat. Now, as their search takes them deeper and deeper into a web of murder and madness, Joe and Eve must confront their most primal fears\u2026and test their resolve to uncover the ultimate bone-chilling truth.",
+        "Category": " Fiction , Thrillers , General",
+        "Publisher": "St. Martin's Paperbacks",
+        "Price Starting With ($)": "7.29",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "Why I Believe in a Personal God: The Credibility of Faith in a Doubting Culture",
+        "Authors": "By Carey, George",
+        "Description": "Is the Universe on our side?\"My own investigations over a period of many years have given me a quiet assurance that there is a God who has given us sufficient clues in life, nature, human thought, beauty and art to satisfy the genuine inquirer that he exists, and that he has expressed himself most meaningfully in Jesus Christ.\u00a0 However, you may come to a different conclusion at the end of this book and that is your right as a thinking responsible person.\u00a0 All I can do is to invite you to join me in looking at the arguments again...\"Writing in a popular style but with careful reasoning, George Carey explains the traditional message of Christianity in its stark confrontation with modern unbelief and indifference.\u00a0 Here is a brief, aggressive, but always warm and generous appeal to faith for modern readers.",
+        "Category": " Religion , Christian Living , General",
+        "Publisher": "Shaw Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "The Future of the Race",
+        "Authors": "By Gates, Henry Louis and West, Cornel",
+        "Description": "Almost one-hundred years ago, W.E.B. Du Bois proposed the notion of the \"talented tenth,\" an African American elite that would serve as leaders and models for the larger black community. In this unprecedented collaboration, Henry Louis Gates, Jr., and Cornel West--two of Du Bois's most prominent intellectual descendants--reassess that relationship and its implications for the future of black Americans. If the 1990s are the best of times for the heirs of the Talented Tenth, they are unquestionably worse for the growing black underclass. As they examine the origins of this widening gulf and propose solutions for it, Gates and West combine memoir and biography, social analysis and cultural survey into a book that is incisive and compassionate, cautionary and deeply stirring. \"Today's most public African American intellectual voices...West and Gates have made a valuable contribution.\"--Julian Bond, Philadelphia Inquirer\"Brilliant...a social, cultural and political blueprint...that attempts to illumine the future path for blacks and American democracy.\"--New York Daily News\"Henry Louis Gates., Jr., and Cornel West are among the most renowned American intellectuals of our time.\"--New York Times Book Review",
+        "Category": " Social Science , Ethnic Studies , African American Studies",
+        "Publisher": "Vintage",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1997"
+        }
+    },
+    {
+        "Title": "Taking Sides: Clashing Views on Controversial Global Issues",
+        "Authors": "By Harf, James E. (EDT) and Lombardi, Mark Owen (EDT)",
+        "Description": "This debate-style reader is designed to introduce students to controversies in global issues through readings that reflect a variety of viewpoints. Each issue is framed with an issue summary, an issue introduction, and a postscript. The Taking Sides readers feature annotated listings of selected World Wide Web sites. Taking Sides is supported by our student website, Dushkin Online (www.dushkin.com/online/).",
+        "Category": " Political Science , International Relations , General",
+        "Publisher": "McGraw-Hill/Dushkin",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "The Kalahari Typing School for Men (No. 1 Ladies Detective Agency 4)",
+        "Authors": "By McCall Smith, Alexander",
+        "Description": "'Ex-CID, Ex-New York. Ex-cellent' reads the sign outside the Satisfaction Guaranteed Detective Agency. Cephas Buthelezi certainly talks the talk, Precious discovers, but would he have the wherewithal to deal with her current case - a man who has been attacked by ostrich rustlers, and is eager to reassess his life?",
+        "Category": " Fiction , General",
+        "Publisher": "Time Warner Books Uk",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "The California-American Cookbook: Innovations on American Regional Dishes",
+        "Authors": "By Ferrary, Jeannette, Fiszer, Louise, and Prato, Rodica (ILT)",
+        "Description": "Adapting regional American cookery to the new California style, the authors present a collection of original, elegant recipes, together with suggested menus, commentaries, and helpful preparation hints",
+        "Category": " Cooking , General",
+        "Publisher": "Fireside",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1989"
+        }
+    },
+    {
+        "Title": "Technology for Teaching",
+        "Authors": "By Norton, Priscilla and Sprague, Debra",
+        "Description": "This book focuses on the major software categories and applications available to educators.This text emphasizes using the full range of available technologies to promote teaching and learning. It covers all major software application categories and helps readers focus on the concept each category or application represents. The unique functions and features of each application are identified. Then, each chapter emphasizes why that application is a useful educational tool and how educators can design instruction to maximize the application's potential.For technology educators.",
+        "Category": " Education , Computers & Technology",
+        "Publisher": "Pearson",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "Jesus Died for This?: A Satirist's Search for the Risen Christ",
+        "Authors": "By Garrison, Becky",
+        "Description": "Who is Jesus, really, and what\u2019s he up to these days?Becky Garrison invites you to laugh and ponder in her self-proclaimed \u201ctravelogue of a religious satirist\u2019s search for the risen Christ.\u201d These days, it seems, Jesus doesn\u2019t always show up where we expect to find him. In a series of provocatively titled essay-like chapters, Garrison offers snapshots that take you from her evangelical press trip to the Promised Land in January, 2007, to the Presidential Promised Land, a.k.a. the 2008 elections. You will be treated to thoughtful, well-placed jabs at the shallow, self-reflective, self-righteous finger-pointing of those modern Christians who bend Heaven and theology to make Jesus into someone just like them. Along the way, Garrison captures glimpses of God as she spots both ordinary radicals operating below the spiritual radar and those extraordinary individuals who actually walk the walk.     At the crux of this sojourn is thoughtful and articulate consideration of how we \u201clost\u201d Jesus in the first place, and why we might want to stand face to face with him if we\u2019re going to truly model ourselves after him. Garrison suggests that real spiritual discernment involves looking Jesus up rather than serving him up.",
+        "Category": " Religion , Christian Life , Spiritual Growth",
+        "Publisher": "Zondervan",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2010"
+        }
+    },
+    {
+        "Title": "A Treasured Friendship (Miriam's Journal #4)",
+        "Authors": "By Bender, Carrie",
+        "Description": "<p>With Nate and their four children, Miriam revels in the seasons and interactions on their Amish farm. However, some of her friendships are strained. Friend Gloria is miffed because Miriam won't try her miracle diet powder. A trail of trouble follows a schoolteacher lodging in Miriam's home, disrupting the household. Meanwhile, Miriam tries bookish tips to improve her relationship with her husband, with mixed results.</p><p>Through it all, Miriam treasures the words of faith and learns the power of words to wound and to heal.</p>",
+        "Category": " Fiction , Religious",
+        "Publisher": "Herald Pr",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "1996"
+        }
+    },
+    {
+        "Title": "Bible Prayers for Bedtime (Bedtime Bible Stories)",
+        "Authors": "By Landreth, Jane",
+        "Description": "For spiritual \"quality time\" with your five - to eight-year-old children, check out Bible Prayers for Bedtime-going a step beyond the traditional Bible story book! More than five-dozen Bible prayers are included, in fun, easy-to-understand stories that your kids will love. From \"The First Prayers\" of Genesis 4, through the prayers of Moses, Deborah, David, Daniel, Jesus, Peter, and Paul, Bible Prayers for Bedtime explains prayer in ways that young hearts can grasp. Each chapter is accompanied by full-color illustration and design, making Bible Prayers for Bedtime an ideal book for learning and fun.",
+        "Category": " Juvenile Nonfiction , Religious , Christian , Devotional & Prayer",
+        "Publisher": "Barbour Books",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "2008"
+        }
+    },
+    {
+        "Title": "Peru Before the Incas",
+        "Authors": "By LANNING (Edward)",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Prentice Hall",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1967"
+        }
+    },
+    {
+        "Title": "Science 101: Physics",
+        "Authors": "By Parker, Barry",
+        "Description": "This new series will explain major areas of science in an interesting, visually compelling, and accessible manner. The \"101\" in the title refers not only to an introductory course but also to the 101 key facts and topics presented in each book. These books will fill the need for popular reference on all aspects of science and technology.",
+        "Category": " Science , Physics , Astrophysics",
+        "Publisher": "Harper Perennial",
+        "Price Starting With ($)": "5.09",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2007"
+        }
+    },
+    {
+        "Title": "The monster at the end of this book: Featuring Grover, a Jim Henson Muppet, as performed on Sesame Street by Frank Oz (A Little golden book)",
+        "Authors": "By Stone, Jon",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Western Pub. Co",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1971"
+        }
+    },
+    {
+        "Title": "Worlds Most Dangerous Places (ROBERT YOUNG  PELTON THE WORLD'S MOST DANGEROUS PLACES)",
+        "Authors": "By Pelton, Robert Young and Aral, Coskun",
+        "Description": "Describes dangerous places around the world, including war zones and centers of terrorist activity, and offers advice about safety, crime, wilderness survival, disease, and political repression",
+        "Category": " Travel , General",
+        "Publisher": "Fielding Worldwide",
+        "Price Starting With ($)": "5.97",
+        "Publish Date": {
+            "Month": "June",
+            "Year": "1995"
+        }
+    },
+    {
+        "Title": "Speech-less: Tales of a White House Survivor",
+        "Authors": "By Latimer, Matt",
+        "Description": "From a top speechwriter to President George W. Bush and Donald Rumsfeld, this may be the most deliciously candid memoir ever written about official Washington\u2014a laugh-out-loud cri de coeur that shows what can happen to idealism in a town driven by self-interest.\u00a0 \u00a0Despite being raised by reliably liberal parents, Matt Latimer is, from an early age, lured by the upbeat themes of the Reagan Revolution and, in the tradition of Mary Tyler Moore, sets off from the Midwest for the big city, determined to \"make it after all.\"\u00a0 In Matt's glory-filled daydreams, he will champion smaller government and greater self-sufficiency, lower taxes and stronger defense\u2014and, by the force of his youthful passion, eradicate do-nothing boondoggleism and lead America to new heights of greatness.But first he has to find a job.\u00a0Like an inside-the-Beltway Dante, Matt chronicles his descent into Washington, D.C., hell, as he snares a series of increasingly lofty\u2014but unsatisfying\u2014jobs with powerful figures on Capitol Hill. One boss can't remember basic facts. Another appears to hide from his own staff, barricading himself in his office. When Fate offers Matt a job as chief speechwriter for Secretary of Defense Donald Rumsfeld and Matt finds he actually admires the man (causing his liberal friends to shake their heads in dismay), his youthful passion is renewed. But Rummy soon becomes a pi\u00f1ata for the press, and the Department of Defense is revealed as alarmingly dysfunctional.\u00a0Eventually, Matt lands at the White House, his heart aflutter with the hope that, here at last, he can fulfill his dream of penning words that will become part of history\u2014and maybe pick up some cool souvenirs. But reality intrudes once again. More like The Office than The West Wing, the nation's most storied office building is a place where the staffers who run the country are in way over their heads, and almost everything the public has been told about the major players\u2014Bush, Cheney, Rice, Rumsfeld, Rove\u2014is wrong.\u00a0Both a rare behind-the-scenes account that boldly names the fools and scoundrels, and a poignant lament for the principled conservatism that disappeared during the Bush presidency, Speech-less will forever change the public's view of our nation's capital and the people who joust daily for its power.",
+        "Category": " Biography & Autobiography , Presidents & Heads of State",
+        "Publisher": "Crown",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "2009"
+        }
+    },
+    {
+        "Title": "Dear Mr. Jefferson: Letters from a Nantucket Gardener",
+        "Authors": "By Simon, Laura",
+        "Description": "Ms. Simon, looking for a way to express the gardening thrall she'd found herself in, wanted to talk shop, to discuss soil tilth and tillage, to compare varieties of carrots, and to analyze the relative merits of manure. One evening, while the author was sitting by her wood stove, feet buried beneath her dog and a stack of seed catalogs by her side, she wondered, \"Why isn't there a 'Thomas Jefferson' around I can talk to?\" After all, continued her musing, popular history has it that it was Thomas Jefferson who, at the dawn of our republic, convinced his countrymen that tomatoes weren't poisonous. So began the imagined conversations with Thomas Jefferson. Ms. Simon, whose previous books were historical romances, now finds inspiration from her peppers and peas. Dear Mr. Jefferson is a passionate, sometimes whimsical, always fascinating narrative, construed as letters to Thomas Jefferson. In these letters she tells him of the trials and tribulations of growing vegetables and flowers while relaying Jefferson's own gardening stories and passions as if she were having a dialogue with him. The book's charm and humor is heightened with personal anecdotes borne out of the author's attempt to explain the conundrums and advances of modernity to the eighteenth-century renaissance man.",
+        "Category": " Gardening , General",
+        "Publisher": "Crown Publishers",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "1998"
+        }
+    },
+    {
+        "Title": "The System: the Misgovernment of Modern Britain [Hardcover]",
+        "Authors": "By Max Nicholson",
+        "Description": "",
+        "Category": "",
+        "Publisher": "McGraw-Hill Book Company",
+        "Price Starting With ($)": "8.31",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1967"
+        }
+    },
+    {
+        "Title": "Harvard Business Review on Teams That Succeed (Harvard Business Review Paperback Series)",
+        "Authors": "By Jon R. Katzenbach, David A. Garvin, Etienne C. Wenger",
+        "Description": "This collection of articles explores teamwork from a variety of angles, including emotional intelligence, creativity, and decision making, to offer insight on how to create and manage teams that work efficiently, effectively, and collaboratively. Each article is preceded by a summary. Contributors come from areas of organizational behavior, business administration, and management. Annotation \u00a92004 Book News, Inc., Portland, OR (booknews.com)",
+        "Category": " Business & Economics , Development , Business Development",
+        "Publisher": "Harvard Business Press",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "Psychology and Life 12e/Working with Psychology and Life-Study Gu",
+        "Authors": "By",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Addison-Wesley Publishing Company",
+        "Price Starting With ($)": "6.41",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1998"
+        }
+    },
+    {
+        "Title": "The Struts Framework: Practical Guide for Java Programmers (The Practical Guides)",
+        "Authors": "By Spielman, Sue (EDT)",
+        "Description": "Struts is an open-source framework that integrates with standard Java technologies and lets developers build web applications quickly and effectively.  In much the same way that Java has overtaken C++, Struts is well poised to become the framework for web application development because of its ability to address the types of issues engineers face when building large-scale web applications.The Struts Framework: Practical Guide for Java Programmers meets the needs of this large audience--estimated today at 2.5 million Java programmers and growing.   It provides the systematic exploration required by newcomers as well as the step-by-step instruction for more experienced readers eager to exploit Struts to the fullest.  Devoted to the latest version of the framework (v. 1.1) and vividly illustrated with a thorough sample application throughout, this book is an essential resource for all programmers who want to be part of the next stage in the evolution of the web.* Hard-to-find, practical coverage from a highly visible figure in the Java development world.* Among the first books to cover the latest release of Struts, version 1.1.* Reviews all the technologies comprising Struts, including JavaServer Pages, Servlets, XML, Custom Tags, and web and application servers.* Teaches readers the development practices-including design, debugging, internationalization, and implementation-essential to Struts development.* Via a companion web site, provides downloadable sample code and data for use in a Struts-based database application.",
+        "Category": " Computers , Programming Languages , Java",
+        "Publisher": "Morgan Kaufmann",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "2002"
+        }
+    },
+    {
+        "Title": "Virginia Curiosities, 2nd: Quirky Characters, Roadside Oddities & Other Offbeat Stuff (Curiosities Series)",
+        "Authors": "By Cavileer, Sharon",
+        "Description": "This completely revised and updated edition of Virginia Curiosities is your round-trip ticket to the wildest, wackiest, most outrageous people, places, and things the Old Dominion State has to offer. Writer Sharon Cavileer has again combed Virginia for one-of-a-kind gems that make her home state truly unique.You'll meet a pet ham that's one hundred years old and find out where the presidential Thanksgiving turkey spends his days after the photo-ops at the White House are over.Whether you were born and raised in Virginia or are a recent transplant, Cavileer's home-grown humor will have you laughing out loud as she introduces you to the neighbors you never knew you had and take you to the places you never knew existed--right in your own backyard.",
+        "Category": " Travel , United States , South , East South Central (AL, KY, MS, TN)",
+        "Publisher": "Globe Pequot",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "The Pressured Child: Freeing Our Kids from Performance Overdrive and Helping Them Find Success in School and Life",
+        "Authors": "By Thompson, Michael and Barker, Teresa",
+        "Description": "The push for students to excel at school and get into the best colleges has never been more intense. In this invaluable new book, the bestselling co-author of Raising Cain addresses America\u2019s performance-driven obsession with the accomplishments of its kids\u2013and provides a deeply humane response.\u201cHow was school?\u201d These three words contain a world of desire on the part of parents to know what their children are learning and experiencing in school each day. Children may not divulge much, but psychologist Michael Thompson suggests that the answers are there if we know how to read the clues and\u2013equally important\u2013if we remember our own school days.School, Thompson reminds us, occupies more waking hours than kids spend at home; and school is full not just of studies but of human emotion\u2013excitement, fear, envy, love, anger, sexuality, boredom, competitiveness. Through richly detailed interviews, case histories, and student e-mail journals, including those of his own children, Thompson illuminates the deeper psychological journey that school demands, a journey that all children must take in order to grow and develop, whether they are academic aces or borderline dropouts. Most of us remember this journey, if we are honest with ourselves, but our children must experience it in their own way, for better or worse.In stories that are by turns poignant, shocking, uplifting, and inspiring, we see students grapple with the textured reality of their lives, devising their own unique strategies to survive and thrive in school. For parents, this book reveals the hidden emotional landscape of the school day and points toward the answers we both desire and dread as we seek to help our children find success in school and beyond.Bridging the worlds of the growing and the grown-up, and told in Thompson\u2019s compassionate voice as both psychologist and father, The Pressured Child shows us how to listen for the truth of our children\u2019s experience\u2013and how to trust, love, and ultimately let go of a child. It is a crucial book for our stressful age\u2013and an ideal resource for families struggling to survive it.",
+        "Category": " Education , Parent Participation",
+        "Publisher": "Ballantine Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "Florence and Tuscany (Eyewitness Travel Guides)",
+        "Authors": "By Catling, Christopher",
+        "Description": "Three-dimensional cutaway illustrations and floor plans of key landmarks complement these richly illustrated, fully updated travel handbooks that also include enhanced maps, street-by-street guides, background information on a host of popular sights, and an expanded traveler's survival guide providing tips on hotels, restaurants, local customs, transportation, medical services, museums, entertainment, and more.",
+        "Category": " Travel , Europe , Italy",
+        "Publisher": "DK Travel",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "Posing Techniques for Photographers and Models",
+        "Authors": "By Cheyenne",
+        "Description": "Gives practical advice on selecting the best poses for showing clothing and commercial products, and shows examples of good and poor poses",
+        "Category": " Photography , General",
+        "Publisher": "Amphoto",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1984"
+        }
+    },
+    {
+        "Title": "in pictures Crater Lake: The Continuing Story (English and French Edition)",
+        "Authors": "By Gnass, Jeff (PHT) and Mark, Stephen R.",
+        "Description": "",
+        "Category": " Travel , Pictorials",
+        "Publisher": "KC Publications, Inc.",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "1996"
+        }
+    },
+    {
+        "Title": "Viewbook Island of Oahu",
+        "Authors": "By Peebles, Douglas",
+        "Description": "",
+        "Category": " Travel , Pictorials",
+        "Publisher": "Hawaiian Resources Co Ltd",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "May",
+            "Year": "1989"
+        }
+    },
+    {
+        "Title": "A Sleeping Life",
+        "Authors": "By Rendell, Ruth",
+        "Description": "Rhoda Comfrey's death seemed unremarkable; the real mystery was her life.In A Sleeping Life, master mystery writer Ruth Rendell unveils an elaborate web of lies and deception painstakingly maintained by a troubled soul. A wallet found in Comfrey's handbag leads Inspector Wexford to Mr. Grenville West, a writer whose plots revel in the blood, thunder, and passion of dramas of old; whose current whereabouts are unclear; and whose curious secretary--the plain Polly Flinders--provides the Inspector with more questions than answers. And when a second Grenville West comes to light, Wexford faces a dizzying array of possible scenarios--and suspects--behind the Comfrey murder. Brilliantly entertaining, exceptionally crafted, A Sleeping Life evokes the dark realities, half-truths, and flights of fancy that constitute a life.",
+        "Category": " Fiction , Mystery & Detective , General",
+        "Publisher": "Vintage Crime/Black Lizard",
+        "Price Starting With ($)": "4.89",
+        "Publish Date": {
+            "Month": "July",
+            "Year": "2000"
+        }
+    },
+    {
+        "Title": "Deadly Errors",
+        "Authors": "By Wyler, Allen R., M.D.",
+        "Description": "Brain surgeon Allen Wyler has written a thriller on the bleeding edge of new-millennium hospital technology.When a brain surgeon discovers that a revolutionary computerized medical-records system is responsible for a series of patient deaths---and threatens many more---he must navigate a treacherous maze of conspiracy. And risk his life to expose it.* A comatose man is given a fatal dose of insulin in the Emergency Room---even though he isn't diabetic.* An ulcer patient dies of hemolytic shock after receiving a transfusion---of the wrong blood type.* A recovering heart patient receives a double dose of the same medication---triggering a fatal cardiac arrest.When the doctors and nurses at Seattle's prestigious Maynard Medical Center start making preventable drug and treatment errors that kill their patients, neurosurgeon Dr. Tyler Mathews suspects that something is murderously wrong with the hospital's highly touted new \"Med-InDx\" electronic medical record. But when he airs his concerns to the hospital's upper management, he's met with stonewalling, skepticism---and threats.Millions of dollars, and the future of Med-InDx, are at stake. And powerful corporate forces aren't about to let their potential profits evaporate. Tyler soon finds that his career, his marriage, and his very life are in jeopardy---along with the lives of countless innocent patients.",
+        "Category": " Fiction , Thrillers , General",
+        "Publisher": "Forge Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "PLAINSONG.",
+        "Authors": "By Haruf, Kent",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Alfred A. Knopf",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1999"
+        }
+    },
+    {
+        "Title": "There Is Greatness Within You, My Son (Blue Mountain Arts Collection)",
+        "Authors": "By Blue Mountain Arts Collection (EDT)",
+        "Description": "",
+        "Category": " Poetry , Australian & Oceanian",
+        "Publisher": "Blue Mountain Arts",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "1994"
+        }
+    },
+    {
+        "Title": "Christian Weddings: Resources to Make Your Ceremony Unique",
+        "Authors": "By Langford, Andy",
+        "Description": "This exciting resource will help engaged couples design a unique and meaningful wedding service.  With guidance from their pastor, the couple can select the different elements of their wedding liturgy from a menu of choices in ceremonies from over twenty denominational traditions from around the world.  Some of the twenty-one resources include: * The United Methodist Book of Worship * Sacramentary (Roman Catholic) * Alternative Services (Anglican Church of Canada) * The Book of Worship (African Methodist Episcopal) * The Methodist Service Book (England) * The Alternative Service Book (1980, England) * The Book of Common Prayer (Episcopal) * The Book of Worship (United Church of Christ) * Uniting in Worship (Australia) * The Lutheran Book of Worship * Book of Common Worship (Presbyterian Church U.S.A.) * The Church of South India Book of Common Worship (Anglican) * The Book of Common Order (Church of Scotland) and more.",
+        "Category": " Religion , Christian Education , General",
+        "Publisher": "Abingdon Press",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "1995"
+        }
+    },
+    {
+        "Title": "Codes, Ciphers and Secret Writing (Dover Children's Activity Books)",
+        "Authors": "By Gardner, Martin",
+        "Description": "\"A fascinating, challenging book.\" \u2015 A.L.A. BooklistLearn to use the most important codes and methods of secret communication in use since ancient times. Cipher and decipher codes used by spies. Explore the famous codes that changed the fate of nations and political leaders. And enjoy hours of fun experimenting with cryptography\u00a0\u2015 the science of secret writing. Beginning with simple letter substitutions and transposition ciphers, world-famous science writer Martin Gardner explains how to break complicated polyalphabetical ciphers and codes worked with grids, squares, triangles, and charts. You'll learn codes that are keyed to typewriters and telephone dials . . . even codes that use playing cards, knots, and swizzle sticks. Experiment with invisible writing \u2015 inks that glow in black light and turn red under heat \u2015 and explore the possibilities of sending messages through outer space to unknown worlds. Using this book, you can solve the historically famous Playfair Cipher used by Australia in World War II, the Pigpen Cipher used by Confederate soldiers during the Civil War, Thomas Jefferson's Wheel Cipher, the Beaufort system used by the British Royal Navy, codes devised by authors for heroes in literature \u2015 Sherlock Holmes, Captain Kidd, and the Shadow. And you will enjoy experimenting with bizarre methods of message sending \u2015 the Dot Code, Knot Code, Swizzle Code, and more. Young cryptanalysts, cipher fans, and puzzlists of all ages will find hours of intrigue and challenge in Codes, Ciphers and Secret Writing. \"A stimulating must for the intermediate cryptographer.\" \u2015 The Kirkus Reviews",
+        "Category": " Juvenile Nonfiction , Language Arts , General",
+        "Publisher": "Dover Publications",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "1984"
+        }
+    },
+    {
+        "Title": "Skylark DuQuesne",
+        "Authors": "By Edward E. Doc Smith",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Pyramid Books",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1973"
+        }
+    },
+    {
+        "Title": "Christmas Cooking From the Heart (Better Homes and Gardens, 10)",
+        "Authors": "By Lisa Kingsley (Editor)",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Meredith",
+        "Price Starting With ($)": "5.7",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "American History Pop Quiz",
+        "Authors": "By solomon m skolnick",
+        "Description": "",
+        "Category": "",
+        "Publisher": "MJF Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "Follow the Roar: Tailing Tiger for All 604 Holes of His Most Spectacular Season",
+        "Authors": "By Smiley, Bob",
+        "Description": "TV writer and contributor to ESPN.com Bob Smiley followed a dream in 2008\u2014trailing Tiger Woods, arguably the greatest pro golfer ever, for the entire PGA season. In Follow the Roar, Smiley reports from the gallery at every hole on every tournament course in a year that would turn out to be the most monumental so far in Tiger Wood\u2019s already illustrious career. Including a new update on Tiger\u2019s magnificent return to the game in 2009, Follow the Roar is exhilarating, funny, engaging, and inspiring\u2014604 holes in the life of a golf legend.",
+        "Category": " Sports & Recreation , Golf",
+        "Publisher": "Harper",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "2008"
+        }
+    },
+    {
+        "Title": "Gardening with Roses: A Practical and Inspirational Guide",
+        "Authors": "By Taylor, Patrick",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Pavilion",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1995"
+        }
+    },
+    {
+        "Title": "The Prophecy",
+        "Authors": "By Kuzneski, Chris",
+        "Description": "The next exciting, action-packed thriller from the national bestselling author.  Michel de Nostredame, the French apothecary commonly known as Nostradamus, has gained a cult-like following, a loyal band of enthusiasts who credit him with predicting numerous world events-the Great Fire of London, the rise of Napoleon and Hitler, and the nuclear destruction of Hiroshima. However, his most important collection of prophetic verses has remained hidden...until now. In the year 2009, a letter was mailed to a woman who does not understand why she has received the puzzling correspondence, written in a series of codes and ancient languages. She enlists the help of Jonathon Payne and David Jones. Relentlessly hunted by those determined to protect the secret, the duo has no choice but to fight back. In an adventure that spans two continents and several centuries, Payne and Jones must locate the sacred text that may change everything we know about the future.",
+        "Category": " Fiction , Thrillers , General",
+        "Publisher": "G.P. Putnam's Sons",
+        "Price Starting With ($)": "5.47",
+        "Publish Date": {
+            "Month": "July",
+            "Year": "2010"
+        }
+    },
+    {
+        "Title": "A taste of Tuscany: Classic recipes from the heart of Italy",
+        "Authors": "By Forbes, Leslie",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Little, Brown",
+        "Price Starting With ($)": "10.0",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1985"
+        }
+    },
+    {
+        "Title": "Dictionary Of Disagreeable English: A Curmudgeon's Compendium of Excruciatingly Correct Grammar",
+        "Authors": "By Fiske, Robert Hartwell",
+        "Description": "The Dictionary of Disagreeable English provides writers with the tools they need to identify tricky grammar and usage problems and to correct them instantly, with ease. This accessible and humorous guide is:  * Easy to use, with no previous knowledge of grammar needed, allowing writers to find mistakes and fix them quickly  * Packed with useful tips and sidebars that include helpful Q&As, common grammar pitfalls, and top ten lists of need-to-know information  * Written by the Grumbling Grammarian, Robert Hartwell Fiske, whose witty and grouchy tone will engage both novices and word mavens  With its handy size, writers will be hard-pressed to find a more entertaining and useful grammar guide.",
+        "Category": " Reference , Dictionaries",
+        "Publisher": "Writers Digest Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "Doors Open",
+        "Authors": "By Rankin, Ian",
+        "Description": "Three friends descend upon an art auction in search of some excitement. Mike Mackenzie-retired software mogul, bachelor and fine art enthusiast-wants something that money can't buy. Fellow art-lover Allan Cruickshank is bored with his banking career and burdened by a painful divorce. And Robert Gissing, an art professor, is frustrated that so many paintings stay hidden in corporate boardrooms, safes and private apartments. After the auction-and a chance encounter with crime boss Chib Calloway-Robert and Allan suggest the \"liberation\" of several paintings from the National Gallery, hoping Mike will dissuade them. Instead, he hopes they are serious.As enterprising girlfriends, clever detectives, seductive auctioneers and a Hell's Angel named Hate enter the picture, Ian Rankin creates a highly-charged thriller, a faced-past story of second guesses and double crosses that keep changing the picture, right until the harrowing finish.",
+        "Category": " Fiction , Thrillers , General",
+        "Publisher": "Back Bay Books",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "2010"
+        }
+    },
+    {
+        "Title": "Breakfast and Brunch Cookbook (Favorite All Time Recipes Series)",
+        "Authors": "By NOT STATED",
+        "Description": "",
+        "Category": " Cooking , General",
+        "Publisher": "Pubns Intl Ltd",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "June",
+            "Year": "1993"
+        }
+    },
+    {
+        "Title": "The Audubon Society Book of Wild Cats",
+        "Authors": "By Line, Les",
+        "Description": "Examines and illustrates the dramatic lifestyles of thirty-five species of wild cats taken by the world's finest wildlife photographers and a comprehensive text by prominent naturalists",
+        "Category": " Science , General",
+        "Publisher": "Harry N Abrams Inc",
+        "Price Starting With ($)": "8.6",
+        "Publish Date": {
+            "Month": "October",
+            "Year": "1985"
+        }
+    },
+    {
+        "Title": "Jell-o & Coolwhip Summer Desserts",
+        "Authors": "By",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Publications International",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2007"
+        }
+    },
+    {
+        "Title": "Probability and statistics for engineering and the sciences",
+        "Authors": "By Devore, Jay L.",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Brooks/Cole Pub Co",
+        "Price Starting With ($)": "7.04",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1987"
+        }
+    },
+    {
+        "Title": "Walking and Running: The Complete Guide (Fitness, Health and Nutrition)",
+        "Authors": "By Time Life",
+        "Description": "",
+        "Category": " Medical , General",
+        "Publisher": "Time Life Education",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "April",
+            "Year": "1990"
+        }
+    },
+    {
+        "Title": "Collectible Cars",
+        "Authors": "By Consumer Guide",
+        "Description": "A look at collectible cars discusses what makes a classic American car, why some cars are in demand, and which cars are smart investments, and profiles over one hundred fifty models favored by collectors",
+        "Category": " Science , General",
+        "Publisher": "Crescent",
+        "Price Starting With ($)": "10.99",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "1991"
+        }
+    },
+    {
+        "Title": "Terrific 2 X 4 Furniture",
+        "Authors": "By Henderson, Stevie",
+        "Description": "Designed for the beginning and the experienced woodworker alike, a book of detailed plans for twenty furniture projects using stock lumber and ready-made parts",
+        "Category": " Technology & Engineering , Construction , General",
+        "Publisher": "Lark Books",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "1998"
+        }
+    },
+    {
+        "Title": "Super Bowl And NFL Records",
+        "Authors": "By Buckley, James, Jr.",
+        "Description": "From AFL to Peyton Manning to Zebras, everything young fans ever wanted to know about the biggest game in sports is presented in a colorful and fact-filled title. Original.",
+        "Category": " Juvenile Nonfiction , Sports & Recreation , Football",
+        "Publisher": "Scholastic Inc.",
+        "Price Starting With ($)": "142.99",
+        "Publish Date": {
+            "Month": "August",
+            "Year": "2008"
+        }
+    },
+    {
+        "Title": "Freshen Your Paintings With New Ideas",
+        "Authors": "By Lehrman, Lewis Barrett",
+        "Description": "",
+        "Category": " Art , Techniques , General",
+        "Publisher": "North Light Books",
+        "Price Starting With ($)": "6.06",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1995"
+        }
+    },
+    {
+        "Title": "Houghton Mifflin Reading: Horizons, Level 3.2: The Nation's Choice: Student Edition  2003 (Houghton Mifflin Reading: The Nation's Choice)",
+        "Authors": "By Cooper, David J.",
+        "Description": "",
+        "Category": " Juvenile Nonfiction , Language Arts , General",
+        "Publisher": "Houghton Mifflin",
+        "Price Starting With ($)": "8.12",
+        "Publish Date": {
+            "Month": "April",
+            "Year": "2002"
+        }
+    },
+    {
+        "Title": "Christmas Cooking From the Heart (Volume 5)",
+        "Authors": "By",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Meredith",
+        "Price Starting With ($)": "5.64",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "Freshwater Game Fish of North America",
+        "Authors": "By Schaffner, Herbert A.",
+        "Description": "Presents the major freshwater game fish of North America, from bass to whitefish, and provides information on fishing for each species, including tips on the best lures, bait, flies, and tackle",
+        "Category": " Sports & Recreation , General",
+        "Publisher": "Gallery Books",
+        "Price Starting With ($)": "6.06",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "1990"
+        }
+    },
+    {
+        "Title": "Luckey's Hummel Figurines and Plates: Identification and Value Guide (Luckey's Hummel Figurines & Plates)",
+        "Authors": "By Luckey, Carl F.",
+        "Description": "Offers descriptions, mold numbers, photographs, and current values for various Hummel figurines, plates, jewelry, and music boxes",
+        "Category": " Antiques & Collectibles , Figurines",
+        "Publisher": "Krause Publications",
+        "Price Starting With ($)": "5.82",
+        "Publish Date": {
+            "Month": "February",
+            "Year": "1998"
+        }
+    },
+    {
+        "Title": "Christmas Cooking From the Heart, Vol. 6 (Better Homes and Gardens)",
+        "Authors": "By Saari, Jessica",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Meredith Books",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2007"
+        }
+    },
+    {
+        "Title": "Listen Up! Questions and Answers You Need to Know About Your Money",
+        "Authors": "By Suze Orman",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Penguin Audio",
+        "Price Starting With ($)": "6.48",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "PRIME TIME:THE LIFE OF EDWARD R. MURROW",
+        "Authors": "By",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Little Brown & Co",
+        "Price Starting With ($)": "5.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "1969"
+        }
+    },
+    {
+        "Title": "Campbell's 4 Ingredients or Less Cookbook",
+        "Authors": "By n/a",
+        "Description": "",
+        "Category": "",
+        "Publisher": "PIL",
+        "Price Starting With ($)": "10.99",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2004"
+        }
+    },
+    {
+        "Title": "Bernard Fall: Memories of a Soldier-Scholar",
+        "Authors": "By Halberstam, David (FRW) and Fall, Dorothy",
+        "Description": "Bernard Fall wrote the classics Street Without Joy and Hell in a Very Small Place, which detailed the French experience in Vietnam. One of the first (and the best-informed) Western observers to say that the United States could not win there either, he was killed in Vietnam in 1967 while accompanying a Marine platoon. Written by his widow Dorothy, Bernard Fall: Memories of a Soldier-Scholar tells the story of this courageous and influential Frenchman, who experienced many of the major events of the twentieth century. His mother perished at Auschwitz, his father was killed by the Gestapo, and he himself fought in the Resistance. It focuses, however, on Vietnam and on two love stories. The first details Fall\u2019s love for Vietnam and his efforts to save the country from destruction and the United States from disaster.  The second shows a husband and father dedicated to a cause that continuously lured him away from those he loved. With a foreword by the late David Halberstam.",
+        "Category": " Biography & Autobiography , Editors, Journalists, Publishers",
+        "Publisher": "Potomac Books",
+        "Price Starting With ($)": "19.96",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "2006"
+        }
+    },
+    {
+        "Title": "Shiva in Steel (Berserker Series/Fred Saberhagen)",
+        "Authors": "By Saberhagen, Fred",
+        "Description": "Fred Saberhagen returns to the riveting saga of the Berserkers, a race of intelligent machines devoted to exterminating all organic life.In a sector of the galaxy occupied by Earth-descended people, one Berserker computer has suddenly and mysteriously developed a tactical strategy unlike anything the human opposition has seen before. Shiva, like the Hindu god of destruction after which it was named, annihilates entire colonies with the help of its fiendish subordinates. Commander Claire Normandy struggles to prepare for Shiva's attacks, while Pilot Harry Silver realizes that he must deal with his own demons in order to help her. When the Berserkers approach, a decision is made to destroy the destroyer, whatever the cost. Neither side, however, is prepared for the incredible risks that emerge as the attack becomes imminent. Can Normandy, Silver, and their forces face the possibility that something wholly unexpected yet eerily familiar lies gnarled within the steel?",
+        "Category": " Fiction , General",
+        "Publisher": "St Martins Pr",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "1998"
+        }
+    },
+    {
+        "Title": "The Infinite Sea (Chaos Chronicles)",
+        "Authors": "By Carver, Jeffrey A",
+        "Description": "Since John Bandicut saved Earth from collision with a comet in Neptune Crossing and saved Shipworld from the boojum of Strange Attractors, his life has become one confrontation with chaos after another.No sooner has he survived a harrowing escape from Shipworld than he and his eclectic band of aliens find themselves struggling to survive beneath the waves of a distant ocean world. They quickly discover they are not alone. A race of deep-sea humanoid amphibians, the Neri, are in trouble of their own. Long under attack by beings from the surface, they now face an even greater peril from the seafloor depths, a powerful force known as the Maw of the Abyss.If Bandicut cannot solve the riddle of the Maw, the Neri's beleaguered world will die. And Bandicut and his friends will die with it.",
+        "Category": " Fiction , Science Fiction , General",
+        "Publisher": "Tor Science Fiction",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "September",
+            "Year": "1997"
+        }
+    },
+    {
+        "Title": "The All-Seasons Garden",
+        "Authors": "By Kelly, John",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Viking Adult",
+        "Price Starting With ($)": "5.47",
+        "Publish Date": {
+            "Month": "April",
+            "Year": "1987"
+        }
+    },
+    {
+        "Title": "How to Dress a Naked Window",
+        "Authors": "By Babylon, Donna",
+        "Description": "Gives instructions for making thirty-two different window treatments, including Roman shades, valances, and formal drapes, with a chapter on basic terms and techniques",
+        "Category": " House & Home , Decorating & Furnishings",
+        "Publisher": "Krause Pubns Inc",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "April",
+            "Year": "1997"
+        }
+    },
+    {
+        "Title": "Christmas Sweets and Treats",
+        "Authors": "By \"Better Homes and Gardens\"",
+        "Description": "",
+        "Category": "",
+        "Publisher": "Meredith",
+        "Price Starting With ($)": "5.53",
+        "Publish Date": {
+            "Month": "January",
+            "Year": "2005"
+        }
+    },
+    {
+        "Title": "We Are the Children: A Celebration of Unicef's First Forty Years",
+        "Authors": "By Spiegelman, Judith M. and UNICEF",
+        "Description": "Examines the organization that has rescued millions of children throughout the world from sickness, hunger, and death, with first-person accounts from volunteers",
+        "Category": " Law , General",
+        "Publisher": "Atlantic Monthly Pr",
+        "Price Starting With ($)": "5.47",
+        "Publish Date": {
+            "Month": "November",
+            "Year": "1986"
+        }
+    },
+    {
+        "Title": "The Declaration of Independents: How Libertarian Politics Can Fix What's Wrong with America",
+        "Authors": "By Gillespie, Nick and Welch, Matt",
+        "Description": "Everywhere in America, the forces of digitization, innovation, and personalization are expanding our options and bettering the way we live. Everywhere, that is, except in our politics. There we are held hostage to an eighteenth century system, dominated by two political parties whose ever-more-polarized rhetorical positions mask a mutual interest in maintaining a stranglehold on power.The Declaration of Independents is a compelling and extremely entertaining manifesto on behalf of a system better suited to the future--one structured by the essential libertarian principles of free minds and free markets. Gillespie and Welch profile libertarian innovators, identify the villains propping up the ancien regime, and take aim at do-something government policies that hurt most of those they claim to protect. Their vision will resonate with a wide swath of frustrated citizens and young voters, born after the Cold War's end, to whom old tribal allegiances, prejudices, and hang-ups about  everything from hearing a foreign language on the street to gay marriage to drug use simply do not make sense.",
+        "Category": " Political Science , Political Ideologies , General",
+        "Publisher": "PublicAffairs",
+        "Price Starting With ($)": "4.99",
+        "Publish Date": {
+            "Month": "June",
+            "Year": "2011"
+        }
+    },
+    {
+        "Title": "On the Steamy Side (Recipe for Love)",
+        "Authors": "By Edwards, Louisa",
+        "Description": "When Lilah Jane Tunkle fled her dull life in Virginia for the bright lights of New York City, she didn't expect to wind up a nanny to a gorgeous celebrity chef's ten-year-old son. Working for the delectable Devon Sparks is a sure-fire recipe for disaster, especially after Lilah gets a tantalizing taste of his perfectly seasoned kisses \u2026Devon's not sure he can handle one more surprise ingredient in his life--he quit his popular TV show, his culinary reputation is on the line, and now the son he barely knows is back for seconds. Lilah's Southern sass is supposed to keep the boy in line, but soon enough she's teaching Devon a thing or two about homespun food\u2026and turning up the heat.",
+        "Category": " Fiction , Romance , General",
+        "Publisher": "St. Martin's Paperbacks",
+        "Price Starting With ($)": "5.29",
+        "Publish Date": {
+            "Month": "March",
+            "Year": "2010"
+        }
+    }
+]

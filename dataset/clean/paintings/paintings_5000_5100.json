@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "20130",
+        "name": "Femenine Wave",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20132",
+        "name": "Fishing by Torchlight in Kai Province, From Oceans of Wisdom",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20134",
+        "name": "Five Fans",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20136",
+        "name": "Fuji Seen Through the Mannen Bridge at Fukagawa",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20138",
+        "name": "Fujimi Fuji View Field in the Owari Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20140",
+        "name": "Hodogaya on the Tokaido",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20142",
+        "name": "Honjo Tatekawa, the Timber Yard at Honjo",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20144",
+        "name": "Inume Pass in the Kai Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20146",
+        "name": "Kajikazawa in Kai Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20148",
+        "name": "Lake Suwa in the Shinano Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20150",
+        "name": "Masculine Wave",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20152",
+        "name": "Mishima Pass in Kai Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20154",
+        "name": "Mitsui Shop on Suruga Street in Edo",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20156",
+        "name": "Mount Fuji in Clear Weather",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20158",
+        "name": "Nakahara in the Sagami Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20160",
+        "name": "Nihonbashi Bridge in Edo",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20162",
+        "name": "Ocean Waves",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20164",
+        "name": "Ono Shindon in the Suraga Province",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "20166",
+        "name": "Poenies and Butterfly",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Katsushika Hokusai",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1760",
+            "death": "1849"
+        }
+    },
+    {
+        "work_id": "138441",
+        "name": "A Finger on Her Cheek",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138315",
+        "name": "Anita en Alme\u00b4e",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "139124",
+        "name": "Au Casino de Deauville",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138139",
+        "name": "Au Cirque Me\u00b4drano",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138117",
+        "name": "Au Desert Egyptien ou Scene Orientale",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138452",
+        "name": "Cafe\u00b4 Florian, Venise",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138463",
+        "name": "Cavalieres Au Bois",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138474",
+        "name": "Ceres",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138128",
+        "name": "Chanteurs de Rues",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138485",
+        "name": "Chat Jouant avec des Aromes",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138324",
+        "name": "Chinagami (Danseuse)",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138496",
+        "name": "Corn Poppy, Le Coquelicot",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138150",
+        "name": "Deauville, Joie de Vivre",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138507",
+        "name": "Deux Anges",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138518",
+        "name": "Deux Yeux",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138529",
+        "name": "Dolly en Costume Marin",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138540",
+        "name": "Dolly Sisters",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138551",
+        "name": "Egyptienne au Collier de Perles",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138562",
+        "name": "Espagnole a la Mantille",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138573",
+        "name": "Fatimah Ismael de Louxor",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138584",
+        "name": "Femme a` la Blouse Blanche",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138595",
+        "name": "Femme a` la Toilette",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138606",
+        "name": "Femme au Chapeau Fleuri",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138628",
+        "name": "Femme au Collier",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "139151",
+        "name": "Femme aux Deux Colliers",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138639",
+        "name": "Fillette au Bois, Le Petit Cheval Rose",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138333",
+        "name": "Jeune Femme au Petit Bouquet",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138161",
+        "name": "L'avenue des Acacias",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "138650",
+        "name": "L'Echarpe Verte",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Kees Van Dongen",
+            "nationality": "Dutch",
+            "style": "Fauvist",
+            "birth": "1877",
+            "death": "1968"
+        }
+    },
+    {
+        "work_id": "124367",
+        "name": "At The Time of Japonism",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124458",
+        "name": "Bathing In Cold Water",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124376",
+        "name": "Beauties",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124386",
+        "name": "Deeply Hidden Love",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124395",
+        "name": "Geisha Walking through the Snow at Night",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "25156",
+        "name": "Girl with a Mirror",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124404",
+        "name": "Hairdresser",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124413",
+        "name": "Kobikicho Arayashiki Koiseya Ochie",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124422",
+        "name": "Kushi Comb",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124431",
+        "name": "Moatside Prostitute",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124440",
+        "name": "The Courtesan Ichikawa",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "124449",
+        "name": "Three Beauties of the Present Day",
+        "style": "Japanese Art",
+        "artist": {
+            "name": "Kitagawa Utamaro",
+            "nationality": "Japanese",
+            "style": "Ukiyo-e",
+            "birth": "1754",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "148213",
+        "name": "A Bustling Street in Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148224",
+        "name": "A Group of Three Russian Views",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148235",
+        "name": "A Lady in White Seated in a Garden",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148257",
+        "name": "A Pair of Winter Landscapes",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148268",
+        "name": "A Quiet Parisian Street",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148279",
+        "name": "A Village in Winter",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148943",
+        "name": "After the Ball",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148301",
+        "name": "Autumn in a Russian Village",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148323",
+        "name": "Bastille",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148334",
+        "name": "Black Sea Coastal Scene",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148345",
+        "name": "Boulevard a` Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148701",
+        "name": "Boulevard de Sebastopol",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148367",
+        "name": "By the Window",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148712",
+        "name": "Cafe\u00b4 d'Angleterre",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148378",
+        "name": "Cafe\u00b4 de la Paix, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148510",
+        "name": "Cafe\u00b4 in a French Port",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148389",
+        "name": "Cafe\u00b4 la Marine, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148400",
+        "name": "Costume Design for the Little Humpbacked Horse",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148411",
+        "name": "Crimean Landscape",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148422",
+        "name": "Dacha in the Country",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148433",
+        "name": "Dachas on the River Bank",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148519",
+        "name": "Design for Rusalka",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148528",
+        "name": "Environs de Nice",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148723",
+        "name": "Evening Duet",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148444",
+        "name": "Evening in Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148734",
+        "name": "Evening Serenade",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148537",
+        "name": "Fardmstead, Ostrovno",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148455",
+        "name": "Farmstead",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148961",
+        "name": "Fishermen in Okhotino",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148546",
+        "name": "Fishes, Wine, Fruit",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148466",
+        "name": "Furaev's Tavern, Muromsk County",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148477",
+        "name": "Grands Boulevards, Richelieu-Drouot",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148745",
+        "name": "Gurzuf Landscape",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148756",
+        "name": "House in Gurzuf with a Candlelit Interior",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148564",
+        "name": "La Gare Saint Lazare",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148488",
+        "name": "La Porte Saint-Denis a\u00b4 Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148767",
+        "name": "La Porte Saint Denis",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148499",
+        "name": "La Tour Saint Jacques",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "147830",
+        "name": "Late Winter",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "148573",
+        "name": "Les Grands Boulevards a` Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Konstantin A. Korovin",
+            "nationality": "Russian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1939"
+        }
+    }
+]

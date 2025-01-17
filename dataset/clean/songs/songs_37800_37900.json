@@ -1,0 +1,402 @@
+[
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Room Full Of Mirrors"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "She's So Fine"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Somewhere"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Spanish Castle Magic"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Star Spangled Banner (Live)"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Still Raining, Still Dreaming"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Stone Fire"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Stone Free"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Stone Free (Alternate Take)"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Straight Ahead"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Sunshine Of Your Love"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "The Stars That Play With Laughing Sam's Dice"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Them Changes"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Trash Man"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Voodoo Child"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Voodoo Child (Slight Return)"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Wait Until Tomorrow"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "We Gotta Live Together"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Who Knows"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Wild Thing"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "Woodstock Festival"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "You Got Me Floatin'"
+    },
+    {
+        "Artist": "Jimi Hendrix",
+        "Song": "You've Got Me Floating"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "A Lot To Drink About"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "A Love Song"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "A Mile High In Denver"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "A Pirate Looks At 40"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "African Friend"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Ain't He A Genius?"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "All The Ways I Want You"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Altered Boy"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Another Saturday Night"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Anything, Anytime, Anywhere"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Ballad Of Skip Wiley"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Bank Of Bad Habits"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Barometer Soup"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Beach House On The Moon"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Bend A Little"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Beyond The End"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Big Rig"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Bigger Than The Both Of Us"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Biloxi"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Blue Heaven Rendezvous"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Boats To Build"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Bob Robert's Society Band"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Boomerang Love"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Brahma Fear"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Brand New Country Star"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Breathe In, Breathe Out, Move On"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Bring Back The Magic"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Buffet Hotel"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Burn That Bridge"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Captain America"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Changing Channels"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Christmas In The Caribbean"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Cinco De Mayo In Memphis"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Cliches"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Colour Of The Sun"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Come Monday"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Countin' The Cows Every Day"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Cowboy In The Jungle"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Creola"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Cuban Crime Of Passion"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Cultural Infidel"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Death Valley Lives"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Defying Gravity"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Delaney Talks To Statues"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Diamond As Big As The Ritz"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Dickhead"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Domino College"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Don't Chu-know"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Dreamsicle"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Duke's On Sunday"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Ellis Dee"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Elvis Presley Blues"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "England"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Everlasting Moon"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Everybody's On The Phone"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Everybody's On The Run"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Far Side Of The World"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Fifteen Gears"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "First Look"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "God Don't Own A Car"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "God's Own Drunk"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Grapefruit-juicy Fruit"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Gravity Storm"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Homemade Music"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Honey Do"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "Hula Girl At Heart"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Can't Be Your Hero Today"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Don't Know And I Don't Care"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Have Found Me A Home"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Heard I Was In Town"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Used To Have Money One Time"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Will Play For Gumbo"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "I Wish Lunch Could Last Forever"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "If I Could Just Get It On Paper"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "If It All Falls Down"
+    },
+    {
+        "Artist": "Jimmy Buffett",
+        "Song": "If The Phone Doesn't Ring, It's Me"
+    }
+]

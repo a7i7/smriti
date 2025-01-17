@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "189387",
+        "name": "The Holy Family with Saints",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Benvenuto Garofalo",
+            "nationality": "Italian",
+            "style": "Renaissance",
+            "birth": "1481",
+            "death": "1559"
+        }
+    },
+    {
+        "work_id": "189377",
+        "name": "The Vision of Saint Augustine",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Benvenuto Garofalo",
+            "nationality": "Italian",
+            "style": "Renaissance",
+            "birth": "1481",
+            "death": "1559"
+        }
+    },
+    {
+        "work_id": "27141",
+        "name": "Chasing Butterflies",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27143",
+        "name": "Child in the Rose Garden",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "205085",
+        "name": "Daffodils",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27145",
+        "name": "Eugene Manet on the Isle of Wight",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27147",
+        "name": "Girl in Straw Hat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27149",
+        "name": "Hanging the Laundry Out to Dry",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27151",
+        "name": "Hide and Seek",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27153",
+        "name": "In a Villa at the Seaside",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27155",
+        "name": "Lady at Her Toilet",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27157",
+        "name": "Lady with a Fan",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27159",
+        "name": "Le Port de Nice",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27161",
+        "name": "Lilacs at Maurecourt",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27163",
+        "name": "Nice Beach",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27165",
+        "name": "Paule Gobillard in Prom Dress",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27167",
+        "name": "Pink Anemones",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27169",
+        "name": "Portrait of Madame Pontillon",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27171",
+        "name": "Reading (Portrait of Edma Morisot)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27173",
+        "name": "Reclining Nude Shepherdess",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27177",
+        "name": "The Artist's Daughter, Julie, with Her Nanny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27179",
+        "name": "The Artist's Sister at a Window",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27181",
+        "name": "The Basket Chair",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27183",
+        "name": "The Cradle",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27185",
+        "name": "The Harbor at Lorient",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27187",
+        "name": "The Mother and Sister of the Artist",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27189",
+        "name": "The Port of Nice",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27191",
+        "name": "The Psyche (The Cheval Glass)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27193",
+        "name": "Two Girls",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27195",
+        "name": "Winter (Woman with a Muff)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Berthe Morisot",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1895"
+        }
+    },
+    {
+        "work_id": "27113",
+        "name": "Delphic Sibyl",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27115",
+        "name": "Erithraiesche Sibylle",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27117",
+        "name": "Ezekiel",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27119",
+        "name": "Ignudo",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27121",
+        "name": "Jesaja",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27127",
+        "name": "Libyan Sibyl",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27129",
+        "name": "The Creation of Man",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27131",
+        "name": "The Entombment",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "27135",
+        "name": "The Manchester Madonna",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Buonarroti Michelangelo",
+            "nationality": "Italian",
+            "style": "High Renaissance",
+            "birth": "1475",
+            "death": "1564"
+        }
+    },
+    {
+        "work_id": "160348",
+        "name": "A Young Woman Warming Her Hands Over a Brazier",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "160356",
+        "name": "Elisabeth Van Kessel (1640-1717), Wife of Willem Jacobsz Baert",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "160925",
+        "name": "Girl in a Large Hat",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "160364",
+        "name": "Pan and Syrinx",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "157116",
+        "name": "Vertumnus and Pomona",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "160743",
+        "name": "Willem Jacobsz Baert (1636-84), Burgomaster of Alkmaar and Amsterdam",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "160372",
+        "name": "Woman Praying",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caesar Van Everdingen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1616",
+            "death": "1678"
+        }
+    },
+    {
+        "work_id": "30172",
+        "name": "A Nude Woman Sitting",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30174",
+        "name": "An Old Mansion in Perigueux",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30176",
+        "name": "At the Bar",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30178",
+        "name": "At the Brothel",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30180",
+        "name": "Mario Fratellino and Little Walter",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30182",
+        "name": "Nude",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "30184",
+        "name": "The Athlete",
+        "style": "Avant-Garde",
+        "artist": {
+            "name": "Camille Bombois",
+            "nationality": "French",
+            "style": "Avant-Garde",
+            "birth": "1883",
+            "death": "1970"
+        }
+    },
+    {
+        "work_id": "6018",
+        "name": "A Cowherd at Valhermeil, Auvers-sur-Oise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6020",
+        "name": "A Creek with Palm Trees",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "202259",
+        "name": "A Path in the Woods, Pontoise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6022",
+        "name": "A Washerwoman at \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6024",
+        "name": "Afternoon Sunshine, Pont Neuf",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6026",
+        "name": "Apple Harvest at \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6028",
+        "name": "Apple Picking",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6030",
+        "name": "Apple Tree in the Meadow, \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6206",
+        "name": "Apple Trees and Tedders, \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6032",
+        "name": "Autumn, Poplars, \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6034",
+        "name": "Avenue de l'Op\u00e9ra: Morning Sunshine",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6036",
+        "name": "Avenue de l'Op\u00e9ra, Snow Effect",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6038",
+        "name": "Banks of the Oise at Pontoise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6040",
+        "name": "Banks of the Oise, the Countryside Near Pontoise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6042",
+        "name": "Barges at Pontoise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6044",
+        "name": "Bather in the Woods",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6046",
+        "name": "Boulevard des Italiens, Morning, Sunlight",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6050",
+        "name": "Boulevard Montmartre, Afternoon Sunlight",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6052",
+        "name": "Boulevard Montmartre, Morning, Cloudy Weather",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6054",
+        "name": "Boulevard Montmartre, Night Effect",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6056",
+        "name": "Boulevard Montmartre, Spring",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6058",
+        "name": "Boulevard Montmartre, Winter Morning",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6200",
+        "name": "Carrousel Square, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6198",
+        "name": "Characters Chatting by a Path",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6062",
+        "name": "Charing Cross Bridge, London",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6074",
+        "name": "Children Seated in the Garden at \u00c9ragny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6064",
+        "name": "Cliffs at Petites-Dalles",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6066",
+        "name": "Conversation",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6068",
+        "name": "C\u00f4te des Grouettes, Near Pontoise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "6070",
+        "name": "Cove with Sailboat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Camille Pissarro",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1830",
+            "death": "1903"
+        }
+    },
+    {
+        "work_id": "24159",
+        "name": "A Regatta on the Grand Canal",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24161",
+        "name": "Arrival of the French Ambassador in Venice",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24163",
+        "name": "Campo di Rialto",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24167",
+        "name": "Capriccio, River Landscape with a Column, a Ruined Roman Arch, and Reminiscences of England",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24171",
+        "name": "Capriccio, Ruins and Classic Buildings",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24177",
+        "name": "Capriccio, The Horses of S. Marco in the Piazzetta",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24179",
+        "name": "Capriccio with a View of the Thames and St. Paul's",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24185",
+        "name": "Entrance of the Grand Canal, from the West End of the Molo",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24187",
+        "name": "Entrance to the Grand Canal, from the Piazzetta",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24189",
+        "name": "Entrance to the Grand Canal, Looking West",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24197",
+        "name": "Grand Canal, Looking South-West from the Palazzo Grimani to the Palazzo Foscari",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "198595",
+        "name": "Grand Canal San Geremia and the Entrance to the Cannaregio",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119315",
+        "name": "Grand Canal, San Geremia and the Entrance to the Cannaregio",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24205",
+        "name": "Greenwich Hospital from the North Bank of the Thames",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24215",
+        "name": "London, The Thames and the City of London from Richmond House",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24223",
+        "name": "London, Westminster Bridge from the North on Lord Mayor's Day",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24227",
+        "name": "London, Whitehall and the Privy Garden from Richmond House",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    }
+]

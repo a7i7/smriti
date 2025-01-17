@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "190531",
+        "name": "Rue au Clair de Lune, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190642",
+        "name": "Sailing Boats on the Meuse",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190651",
+        "name": "Sainte Adresse",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190660",
+        "name": "Skating in Holland",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190669",
+        "name": "The Boulevard de Port Royal Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190542",
+        "name": "The Pavilion Close to the Frederick Park, near Haarlem, the Netherlands",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190553",
+        "name": "Voiliers sur l'Escaut pres d'Anvers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190564",
+        "name": "Windmill on the Water, Holland",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190758",
+        "name": "A Brigantine in a Calm Sea",
+        "style": "",
+        "artist": {
+            "name": "John Cleveley",
+            "nationality": "English",
+            "style": "Marine Art",
+            "birth": "1712",
+            "death": "1777"
+        }
+    },
+    {
+        "work_id": "190740",
+        "name": "St. Albans Floated Out at Deptford",
+        "style": "",
+        "artist": {
+            "name": "John Cleveley",
+            "nationality": "English",
+            "style": "Marine Art",
+            "birth": "1712",
+            "death": "1777"
+        }
+    },
+    {
+        "work_id": "190729",
+        "name": "The Royal Caroline",
+        "style": "",
+        "artist": {
+            "name": "John Cleveley",
+            "nationality": "English",
+            "style": "Marine Art",
+            "birth": "1712",
+            "death": "1777"
+        }
+    },
+    {
+        "work_id": "190749",
+        "name": "The Royal George at Deptford Showing the Launch of the Cambridge",
+        "style": "",
+        "artist": {
+            "name": "John Cleveley",
+            "nationality": "English",
+            "style": "Marine Art",
+            "birth": "1712",
+            "death": "1777"
+        }
+    },
+    {
+        "work_id": "184069",
+        "name": "A View of Salisbury Cathedral",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "184076",
+        "name": "A Winter Landscape with Figures on a Path, a Footbridge and Windmills Beyond",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "184085",
+        "name": "Beaching a Boat, Brighton",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "184058",
+        "name": "Nude Study",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "184047",
+        "name": "Portrait of Elizabeth, Lady Croft",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24371",
+        "name": "Portrait of Master Crosby",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24373",
+        "name": "Salisbury Cathedral and Leadenhall from the River Avon",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "184103",
+        "name": "Salisbury Cathedral from the Meadows",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24375",
+        "name": "Stratford Mill",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24377",
+        "name": "The Cornfield",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24379",
+        "name": "The Hay Wain",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "24381",
+        "name": "Weymouth Bay",
+        "style": "Romanticism",
+        "artist": {
+            "name": "John Constable",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1776",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "29758",
+        "name": "Boy of the Crossfield Family",
+        "style": "American Art",
+        "artist": {
+            "name": "John Durand",
+            "nationality": "American",
+            "style": "Colonial",
+            "birth": "1731",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "135784",
+        "name": "Portrait of a Gentleman in Blue Coat",
+        "style": "American Art",
+        "artist": {
+            "name": "John Durand",
+            "nationality": "American",
+            "style": "Colonial",
+            "birth": "1731",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "135804",
+        "name": "Portrait of a Man Holding a Telescope",
+        "style": "American Art",
+        "artist": {
+            "name": "John Durand",
+            "nationality": "American",
+            "style": "Colonial",
+            "birth": "1731",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "29760",
+        "name": "Susannah or Mary Bontecou",
+        "style": "American Art",
+        "artist": {
+            "name": "John Durand",
+            "nationality": "American",
+            "style": "Colonial",
+            "birth": "1731",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "27515",
+        "name": "A Souvenir of Velazquez",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27521",
+        "name": "Christ in the House of His Parents",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187793",
+        "name": "Christmas Eve",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187826",
+        "name": "Countess de Pourtales, the Former Mrs Sebastian Schlesinger",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27523",
+        "name": "Ducklings",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27525",
+        "name": "Hearts Are Trumps",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27527",
+        "name": "James Wyatt and His Granddaughter Mary",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187804",
+        "name": "John Wycliffe Taylor, at the Age of Five",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27529",
+        "name": "Leisure Hours",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27531",
+        "name": "Lorenzo and Isabella",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27533",
+        "name": "Louise Jopling",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27535",
+        "name": "Mariana in the Moated Grange",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27537",
+        "name": "Mary Chamberlain",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27543",
+        "name": "My First Sermon",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187835",
+        "name": "Nina, Daughter of Frederick Lehmann, ESQ.",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27547",
+        "name": "North-West Passage",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27549",
+        "name": "Portia",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187844",
+        "name": "Portrait of Dorothy Lawson",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187853",
+        "name": "Portrait of Kate Perugini, Daughter of Charles Dickens",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187862",
+        "name": "Portrait of Lady Campbell",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187815",
+        "name": "Portrait of Miss Davison",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27551",
+        "name": "Portrait of Mrs. James Wyatt",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "187871",
+        "name": "Red Riding Hood",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27553",
+        "name": "Ruling Passion",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27563",
+        "name": "The Blind Girl",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27567",
+        "name": "The Captive",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27571",
+        "name": "The Martyr of the Solway",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "27573",
+        "name": "The Ransom",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "John Everett Millais",
+            "nationality": "English",
+            "style": "Romantic",
+            "birth": "1829",
+            "death": "1896"
+        }
+    },
+    {
+        "work_id": "28319",
+        "name": "Admiral William Parry",
+        "style": "",
+        "artist": {
+            "name": "John Francis Rigaud",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1742",
+            "death": "1810"
+        }
+    },
+    {
+        "work_id": "28321",
+        "name": "Captain Horatio Nelson",
+        "style": "",
+        "artist": {
+            "name": "John Francis Rigaud",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1742",
+            "death": "1810"
+        }
+    },
+    {
+        "work_id": "28323",
+        "name": "Captain Robert Man",
+        "style": "",
+        "artist": {
+            "name": "John Francis Rigaud",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1742",
+            "death": "1810"
+        }
+    },
+    {
+        "work_id": "28325",
+        "name": "Portrait of Captain Peacock",
+        "style": "",
+        "artist": {
+            "name": "John Francis Rigaud",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1742",
+            "death": "1810"
+        }
+    },
+    {
+        "work_id": "28327",
+        "name": "The Money Brothers: William Taylor, James, Robert",
+        "style": "",
+        "artist": {
+            "name": "John Francis Rigaud",
+            "nationality": "English",
+            "style": "Portraitist",
+            "birth": "1742",
+            "death": "1810"
+        }
+    },
+    {
+        "work_id": "152064",
+        "name": "A Change of Horses Waiting for the Arrival of a Coach Outside an Inn",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152325",
+        "name": "A Clydesdale Stallion",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151536",
+        "name": "A Dark Bay Racehorse in a Stall",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151547",
+        "name": "A Grey Pony in a Stable with Ducks",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152082",
+        "name": "A Halt Outside the Bulls Head",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152020",
+        "name": "A Peaceful Farmstead",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152473",
+        "name": "A Pheasant Cock and Hen",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151558",
+        "name": "A Soldier with an Officers Charger",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152334",
+        "name": "A White Cat",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151569",
+        "name": "Actaeon",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152343",
+        "name": "Alice Hawthorn",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151580",
+        "name": "Attila in a Stable",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151591",
+        "name": "Beeswing in Stable",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152352",
+        "name": "Bessy Bedlam Bay Racehorse with Jockey Up",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151602",
+        "name": "Black and Tan Terrier with a Retrieved Rabbit",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151613",
+        "name": "Black Horse in a Stable",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151624",
+        "name": "Black Hunter in a Landscape",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151635",
+        "name": "Blacklock with Jockey Up",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151646",
+        "name": "Bloomsbury",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151657",
+        "name": "Blue Bonnet the Winner of the 1842 St. Leger",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152100",
+        "name": "Cattle Pigs Ducks Chickens and Horses in a Farmyard",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151668",
+        "name": "Cotherstone a Bay Colt in a Stall",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151679",
+        "name": "Emilius",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152031",
+        "name": "Exercising the Royal Horses",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152109",
+        "name": "Farmyard Friends",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152118",
+        "name": "Flying Dutchman with Charles Marlow",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "152127",
+        "name": "Flying Dutchman",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "151690",
+        "name": "Fortitude",
+        "style": "Realism",
+        "artist": {
+            "name": "John Frederick Herring",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1795",
+            "death": "1865"
+        }
+    },
+    {
+        "work_id": "27856",
+        "name": "A Foggy Sky",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "199973",
+        "name": "Almy's Pond, Newport",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "207586",
+        "name": "An October Day in the White Mountains",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27858",
+        "name": "Gathering Storm on Long Island Sound",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27860",
+        "name": "Hudson River Scene",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27864",
+        "name": "Lake George, Free Study",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27866",
+        "name": "Newport Rocks",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27868",
+        "name": "October in the Marshes",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27870",
+        "name": "Passing Off of the Storm",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27872",
+        "name": "Summer Day on Conesus Lake",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    },
+    {
+        "work_id": "27874",
+        "name": "Sunset",
+        "style": "",
+        "artist": {
+            "name": "John Frederick Kensett",
+            "nationality": "American",
+            "style": "Hudson River School",
+            "birth": "1816",
+            "death": "1872"
+        }
+    }
+]

@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "2356",
+        "name": "Spring by the Seine",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "205477",
+        "name": "Spring Flowers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2358",
+        "name": "Spring Fruit Trees in Bloom",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "208200",
+        "name": "Stack of Wheat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2144",
+        "name": "Stacks of Wheat (End of Summer)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2142",
+        "name": "Stacks of Wheat (Sunset, Snow Effect)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2366",
+        "name": "Still Life with Grapes and Apples",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2368",
+        "name": "Still Life with Pheasants and Plovers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2384",
+        "name": "Storm, Cotes de Belle-\u00cele",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2340",
+        "name": "Street of Bavole, Honfleur",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2374",
+        "name": "Sunrise (Marine)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2376",
+        "name": "Sunset at Lavacourt",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2382",
+        "name": "Taking a Walk Near Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2388",
+        "name": "The Artist's Garden at V\u00e9theuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2390",
+        "name": "The Artist's House at Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2394",
+        "name": "The Basin at Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "198791",
+        "name": "The Beach at Honfleur",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2404",
+        "name": "The Boardwalk on the Beach at Trouville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2406",
+        "name": "The Boat Studio",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2408",
+        "name": "The Bodmer Oak, Fontainebleau Forest",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2228",
+        "name": "The Boulevard of Capucines",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2410",
+        "name": "The Break-up of the Ice",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2414",
+        "name": "The Bridge at Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2416",
+        "name": "The Bridge at Bougival",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2418",
+        "name": "The Bridge Over the Water-Lily Pond",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2420",
+        "name": "The Chailly Highway",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2422",
+        "name": "The Church at Varengeville, Effect of Morning",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2424",
+        "name": "The Church of Varengeville, Cloudy Weather",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2426",
+        "name": "The Cliff at Fecamp",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2428",
+        "name": "The Cliff at Grainval Near Fecamp",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2430",
+        "name": "The Cliff at the Porte d'Aval",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2432",
+        "name": "The Cliff of Aval, \u00c9tretat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2434",
+        "name": "The Coalman",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2216",
+        "name": "The Corniche Near Monaco",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2436",
+        "name": "The Cour d'Albane",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "208263",
+        "name": "The Customs House at Varengeville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2438",
+        "name": "The Customs Officer's Cabin at Varengeville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "208256",
+        "name": "The Departure of the Boats, E\u00b4tretat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2236",
+        "name": "The Ducal Palace",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2440",
+        "name": "The Fisherman's Cottage at Varengeville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "192395",
+        "name": "The Flowered Garden (40\" x 40\")",
+        "style": "",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2442",
+        "name": "The Flowered Garden",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2444",
+        "name": "The Footbridge Over the Water-Lily Pond",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2230",
+        "name": "The Frost at Giverny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2446",
+        "name": "The Garden at Argenteuil (The Dahlias)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2450",
+        "name": "The Garden, Gladioli",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2456",
+        "name": "The Grand Canal and Santa Maria della Salute",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2454",
+        "name": "The Grand Canal",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "208324",
+        "name": "The Grande Creuse at Pont de Vervy",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2232",
+        "name": "The Gulf Juan",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2234",
+        "name": "The Haven",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2458",
+        "name": "The Hoschedes Garden at Montgeron",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2460",
+        "name": "The House Among the Roses",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2462",
+        "name": "The House of the Artist, View of the Rose Garden",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2464",
+        "name": "The Iris Garden at Giverny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2468",
+        "name": "The Japanese Bridge II",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2470",
+        "name": "The Japanese Bridge III",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2474",
+        "name": "The Japanese Bridge at Giverny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2466",
+        "name": "The Japanese Bridge",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2476",
+        "name": "Japanese Footbridge and the Water Lily Pool, Giverny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2478",
+        "name": "The Jetty at Le Havre",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2480",
+        "name": "The Lindens of Poissy",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2484",
+        "name": "The Luncheon II",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "192393",
+        "name": "The Luncheon (36\" x 29\")",
+        "style": "",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2486",
+        "name": "The Magpie",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2488",
+        "name": "The Manne-Porte near \u00c9tretat",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2490",
+        "name": "The Manne-Porte at High Tide",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2494",
+        "name": "The Needle and the Porte d'Aval",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2496",
+        "name": "The Needle Seen Through the Porte d'Aval",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2500",
+        "name": "The Parc Monceau, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2498",
+        "name": "The Parc Monceau",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2502",
+        "name": "The Path at La Cavee, Pourville",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2504",
+        "name": "The Path Through the Irises",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2506",
+        "name": "The Path Under the Rose Trellises, Giverny",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "208230",
+        "name": "The Petite Creuse River",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2220",
+        "name": "The Point of the Heve at Low Tide",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2508",
+        "name": "The Port Coton Pyramids",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2510",
+        "name": "The Portal in the Sun",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2512",
+        "name": "The Portal of Rouen Cathedral at Midday",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2514",
+        "name": "The Portal of Rouen Cathedral in Morning Light",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2516",
+        "name": "The Railroad Bridge in Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "205491",
+        "name": "The Red Kerchief",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2518",
+        "name": "The Road Bridge at Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2520",
+        "name": "The Road to V\u00e9theuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2522",
+        "name": "The Saint-Lazare Station",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2524",
+        "name": "The Seine at V\u00e9theuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2526",
+        "name": "The Sheltered Path",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2222",
+        "name": "The Street Montorgueil, Decked Out with Flags, 30 June 1878",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2528",
+        "name": "The Stroller, Suzanne Hoschede",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2452",
+        "name": "The Train Station Saint-Lazare",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2532",
+        "name": "The Valley of the Nervia",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2534",
+        "name": "The Walk, Argenteuil",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2538",
+        "name": "The Water-Lily Pond",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "192384",
+        "name": "The Water-Lily Pond (40\" x 20\")",
+        "style": "",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "192385",
+        "name": "The Water-Lily Pond (48\" x 24\")",
+        "style": "",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "192386",
+        "name": "The Water-Lily Pond, Japanese Bridge (36\" x 36\")",
+        "style": "",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2540",
+        "name": "The Water-Lily Pond (Japanese Bridge)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2542",
+        "name": "The Windmill on the Obekende Canal",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2544",
+        "name": "The Young Ladies of Giverny, Sun Effect",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "2546",
+        "name": "The Zuiderkerk, Amsterdam (Looking up the Groenburgwal)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Claude Monet",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1840",
+            "death": "1926"
+        }
+    }
+]

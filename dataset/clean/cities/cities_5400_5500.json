@@ -1,0 +1,602 @@
+[
+    {
+        "name": "C\u00e1diz",
+        "lat": "36.5350",
+        "lng": "-6.2975",
+        "country": "Spain"
+    },
+    {
+        "name": "Pompano Beach",
+        "lat": "26.2428",
+        "lng": "-80.1312",
+        "country": "United States"
+    },
+    {
+        "name": "Colatina",
+        "lat": "-19.5389",
+        "lng": "-40.6308",
+        "country": "Brazil"
+    },
+    {
+        "name": "Bou Saada",
+        "lat": "36.7667",
+        "lng": "4.5833",
+        "country": "Algeria"
+    },
+    {
+        "name": "Bou Sa\u00e2da",
+        "lat": "35.2083",
+        "lng": "4.1739",
+        "country": "Algeria"
+    },
+    {
+        "name": "Bend",
+        "lat": "44.0563",
+        "lng": "-121.3095",
+        "country": "United States"
+    },
+    {
+        "name": "Alkmaar",
+        "lat": "52.6333",
+        "lng": "4.7500",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Recklinghausen",
+        "lat": "51.5850",
+        "lng": "7.1619",
+        "country": "Germany"
+    },
+    {
+        "name": "Mawanella",
+        "lat": "7.2534",
+        "lng": "80.4466",
+        "country": "Sri Lanka"
+    },
+    {
+        "name": "Daet",
+        "lat": "14.1142",
+        "lng": "122.9564",
+        "country": "Philippines"
+    },
+    {
+        "name": "Nova Lima",
+        "lat": "-19.9858",
+        "lng": "-43.8469",
+        "country": "Brazil"
+    },
+    {
+        "name": "Arax\u00e1",
+        "lat": "-19.5928",
+        "lng": "-46.9408",
+        "country": "Brazil"
+    },
+    {
+        "name": "Laoag",
+        "lat": "18.1978",
+        "lng": "120.5936",
+        "country": "Philippines"
+    },
+    {
+        "name": "Miami Gardens",
+        "lat": "25.9433",
+        "lng": "-80.2426",
+        "country": "United States"
+    },
+    {
+        "name": "Chil\u00f3n",
+        "lat": "17.1167",
+        "lng": "-92.2833",
+        "country": "Mexico"
+    },
+    {
+        "name": "Chiquimula",
+        "lat": "14.7833",
+        "lng": "-89.5333",
+        "country": "Guatemala"
+    },
+    {
+        "name": "Sabara Bangou",
+        "lat": "15.1177",
+        "lng": "1.9960",
+        "country": "Niger"
+    },
+    {
+        "name": "Costa Mesa",
+        "lat": "33.6667",
+        "lng": "-117.9135",
+        "country": "United States"
+    },
+    {
+        "name": "Baleraja",
+        "lat": "-6.5167",
+        "lng": "107.9169",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Montreuil",
+        "lat": "48.8611",
+        "lng": "2.4436",
+        "country": "France"
+    },
+    {
+        "name": "Villa Mercedes",
+        "lat": "-33.6667",
+        "lng": "-65.4667",
+        "country": "Argentina"
+    },
+    {
+        "name": "Sioux City",
+        "lat": "42.4959",
+        "lng": "-96.3901",
+        "country": "United States"
+    },
+    {
+        "name": "Ghotki",
+        "lat": "28.1000",
+        "lng": "69.1900",
+        "country": "Pakistan"
+    },
+    {
+        "name": "Jawhar",
+        "lat": "2.7833",
+        "lng": "45.5000",
+        "country": "Somalia"
+    },
+    {
+        "name": "Santamesa",
+        "lat": "14.6000",
+        "lng": "121.0167",
+        "country": "Philippines"
+    },
+    {
+        "name": "Kasempa",
+        "lat": "-13.4550",
+        "lng": "25.8350",
+        "country": "Zambia"
+    },
+    {
+        "name": "Champdani",
+        "lat": "22.8020",
+        "lng": "88.3460",
+        "country": "India"
+    },
+    {
+        "name": "S\u00e3o Louren\u00e7o da Mata",
+        "lat": "-8.0019",
+        "lng": "-35.0178",
+        "country": "Brazil"
+    },
+    {
+        "name": "\u1e28ara\u1e11",
+        "lat": "24.1456",
+        "lng": "49.0653",
+        "country": "Saudi Arabia"
+    },
+    {
+        "name": "Jena",
+        "lat": "50.9272",
+        "lng": "11.5861",
+        "country": "Germany"
+    },
+    {
+        "name": "Gafsa",
+        "lat": "34.4225",
+        "lng": "8.7842",
+        "country": "Tunisia"
+    },
+    {
+        "name": "Ariquemes",
+        "lat": "-9.9161",
+        "lng": "-63.0408",
+        "country": "Brazil"
+    },
+    {
+        "name": "Kasuga",
+        "lat": "33.5333",
+        "lng": "130.4667",
+        "country": "Japan"
+    },
+    {
+        "name": "Kamyshin",
+        "lat": "50.0833",
+        "lng": "45.4000",
+        "country": "Russia"
+    },
+    {
+        "name": "Nsukka",
+        "lat": "6.8567",
+        "lng": "7.3958",
+        "country": "Nigeria"
+    },
+    {
+        "name": "Kintampo",
+        "lat": "8.0522",
+        "lng": "-1.7347",
+        "country": "Ghana"
+    },
+    {
+        "name": "Nandurbar",
+        "lat": "21.3700",
+        "lng": "74.2500",
+        "country": "India"
+    },
+    {
+        "name": "Purwa Utar",
+        "lat": "26.0680",
+        "lng": "83.1840",
+        "country": "India"
+    },
+    {
+        "name": "Kaiyun",
+        "lat": "27.2399",
+        "lng": "112.8639",
+        "country": "China"
+    },
+    {
+        "name": "Namur",
+        "lat": "50.4667",
+        "lng": "4.8667",
+        "country": "Belgium"
+    },
+    {
+        "name": "Khushab",
+        "lat": "32.2986",
+        "lng": "72.3508",
+        "country": "Pakistan"
+    },
+    {
+        "name": "Everett",
+        "lat": "47.9525",
+        "lng": "-122.1669",
+        "country": "United States"
+    },
+    {
+        "name": "Puerto Barrios",
+        "lat": "15.7133",
+        "lng": "-88.5899",
+        "country": "Guatemala"
+    },
+    {
+        "name": "Fas\u0101",
+        "lat": "28.9483",
+        "lng": "53.6336",
+        "country": "Iran"
+    },
+    {
+        "name": "Gilroy",
+        "lat": "37.0046",
+        "lng": "-121.5854",
+        "country": "United States"
+    },
+    {
+        "name": "Kiffa",
+        "lat": "16.6300",
+        "lng": "-11.4000",
+        "country": "Mauritania"
+    },
+    {
+        "name": "Al A\u1e29ad al Mas\u0101ri\u1e29ah",
+        "lat": "16.7097",
+        "lng": "42.9550",
+        "country": "Saudi Arabia"
+    },
+    {
+        "name": "As Salam\u012byah",
+        "lat": "35.0118",
+        "lng": "37.0525",
+        "country": "Syria"
+    },
+    {
+        "name": "Sorriso",
+        "lat": "-12.5450",
+        "lng": "-55.7108",
+        "country": "Brazil"
+    },
+    {
+        "name": "Franceville",
+        "lat": "-1.6333",
+        "lng": "13.5833",
+        "country": "Gabon"
+    },
+    {
+        "name": "San Antonio Enchisi",
+        "lat": "19.7072",
+        "lng": "-99.7867",
+        "country": "Mexico"
+    },
+    {
+        "name": "Qu\u00edbor",
+        "lat": "9.9311",
+        "lng": "-69.6247",
+        "country": "Venezuela"
+    },
+    {
+        "name": "Socop\u00f3",
+        "lat": "8.2322",
+        "lng": "-70.8206",
+        "country": "Venezuela"
+    },
+    {
+        "name": "Ahuachap\u00e1n",
+        "lat": "13.9167",
+        "lng": "-89.8500",
+        "country": "El Salvador"
+    },
+    {
+        "name": "Manzini",
+        "lat": "-26.4833",
+        "lng": "31.3667",
+        "country": "Eswatini"
+    },
+    {
+        "name": "Masindi",
+        "lat": "1.6836",
+        "lng": "31.7222",
+        "country": "Uganda"
+    },
+    {
+        "name": "Muktsar",
+        "lat": "30.4743",
+        "lng": "74.5166",
+        "country": "India"
+    },
+    {
+        "name": "Mart\u00ednez de la Torre",
+        "lat": "20.0667",
+        "lng": "-97.0500",
+        "country": "Mexico"
+    },
+    {
+        "name": "San Buenaventura",
+        "lat": "34.2741",
+        "lng": "-119.2314",
+        "country": "United States"
+    },
+    {
+        "name": "Changbang",
+        "lat": "30.4555",
+        "lng": "120.4433",
+        "country": "China"
+    },
+    {
+        "name": "Empangeni",
+        "lat": "-28.7500",
+        "lng": "31.9000",
+        "country": "South Africa"
+    },
+    {
+        "name": "Ferozepore",
+        "lat": "30.9166",
+        "lng": "74.6000",
+        "country": "India"
+    },
+    {
+        "name": "B\u0101neh",
+        "lat": "35.9969",
+        "lng": "45.8853",
+        "country": "Iran"
+    },
+    {
+        "name": "Itele",
+        "lat": "6.7667",
+        "lng": "4.0625",
+        "country": "Nigeria"
+    },
+    {
+        "name": "Rochdale",
+        "lat": "53.6100",
+        "lng": "-2.1600",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Jeonghae",
+        "lat": "35.5667",
+        "lng": "126.8500",
+        "country": "Korea, South"
+    },
+    {
+        "name": "Shirayamamachi",
+        "lat": "36.5166",
+        "lng": "136.5656",
+        "country": "Japan"
+    },
+    {
+        "name": "Temecula",
+        "lat": "33.4928",
+        "lng": "-117.1315",
+        "country": "United States"
+    },
+    {
+        "name": "Tubar\u00e3o",
+        "lat": "-28.4667",
+        "lng": "-49.0069",
+        "country": "Brazil"
+    },
+    {
+        "name": "Sugar Land",
+        "lat": "29.5935",
+        "lng": "-95.6358",
+        "country": "United States"
+    },
+    {
+        "name": "\u014cmuta",
+        "lat": "33.0303",
+        "lng": "130.4458",
+        "country": "Japan"
+    },
+    {
+        "name": "Chico",
+        "lat": "39.7578",
+        "lng": "-121.8161",
+        "country": "United States"
+    },
+    {
+        "name": "Msaken",
+        "lat": "35.7333",
+        "lng": "10.5833",
+        "country": "Tunisia"
+    },
+    {
+        "name": "Tinaquillo",
+        "lat": "9.9167",
+        "lng": "-68.3000",
+        "country": "Venezuela"
+    },
+    {
+        "name": "Bridgetown",
+        "lat": "13.0975",
+        "lng": "-59.6167",
+        "country": "Barbados"
+    },
+    {
+        "name": "Wythenshawe",
+        "lat": "53.3920",
+        "lng": "-2.2640",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Mancher\u0101l",
+        "lat": "18.8714",
+        "lng": "79.4443",
+        "country": "India"
+    },
+    {
+        "name": "Qal\u2018at Sukkar",
+        "lat": "31.8589",
+        "lng": "46.0772",
+        "country": "Iraq"
+    },
+    {
+        "name": "Pisco",
+        "lat": "-13.7167",
+        "lng": "-76.2000",
+        "country": "Peru"
+    },
+    {
+        "name": "Retalhuleu",
+        "lat": "14.5333",
+        "lng": "-91.6833",
+        "country": "Guatemala"
+    },
+    {
+        "name": "Bernal",
+        "lat": "-34.7000",
+        "lng": "-58.2833",
+        "country": "Argentina"
+    },
+    {
+        "name": "Sutton Coldfield",
+        "lat": "52.5630",
+        "lng": "-1.8220",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Vicenza",
+        "lat": "45.5500",
+        "lng": "11.5500",
+        "country": "Italy"
+    },
+    {
+        "name": "Doncaster",
+        "lat": "53.5231",
+        "lng": "-1.1339",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Winterthur",
+        "lat": "47.4989",
+        "lng": "8.7286",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Rotherham",
+        "lat": "53.4300",
+        "lng": "-1.3570",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Dera Ismail Khan",
+        "lat": "31.8314",
+        "lng": "70.9019",
+        "country": "Pakistan"
+    },
+    {
+        "name": "Esteban Echeverr\u00eda",
+        "lat": "-34.8167",
+        "lng": "-58.4667",
+        "country": "Argentina"
+    },
+    {
+        "name": "Quezon",
+        "lat": "7.7306",
+        "lng": "125.1000",
+        "country": "Philippines"
+    },
+    {
+        "name": "Aguachica",
+        "lat": "8.3167",
+        "lng": "-73.6333",
+        "country": "Colombia"
+    },
+    {
+        "name": "Naujan",
+        "lat": "13.3233",
+        "lng": "121.3028",
+        "country": "Philippines"
+    },
+    {
+        "name": "Glan",
+        "lat": "5.8200",
+        "lng": "125.2000",
+        "country": "Philippines"
+    },
+    {
+        "name": "Bayugan",
+        "lat": "8.7100",
+        "lng": "125.7500",
+        "country": "Philippines"
+    },
+    {
+        "name": "Eau Claire",
+        "lat": "44.8197",
+        "lng": "-91.4948",
+        "country": "United States"
+    },
+    {
+        "name": "Brovary",
+        "lat": "50.5111",
+        "lng": "30.7900",
+        "country": "Ukraine"
+    },
+    {
+        "name": "Gualeguaych\u00fa",
+        "lat": "-33.0167",
+        "lng": "-58.5167",
+        "country": "Argentina"
+    },
+    {
+        "name": "Delft",
+        "lat": "52.0117",
+        "lng": "4.3592",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Walthamstow",
+        "lat": "51.5840",
+        "lng": "-0.0210",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Drammen",
+        "lat": "59.7378",
+        "lng": "10.2050",
+        "country": "Norway"
+    },
+    {
+        "name": "Medenine",
+        "lat": "33.3547",
+        "lng": "10.5053",
+        "country": "Tunisia"
+    }
+]

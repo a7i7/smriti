@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "21711",
+        "name": "The Return from the Boating Trip",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21713",
+        "name": "The Shop Girl",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21721",
+        "name": "The Widower",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21723",
+        "name": "Too Early",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21725",
+        "name": "Type of Beauty (Kathleen Newton)",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21727",
+        "name": "Waiting for the Ferry",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21729",
+        "name": "Women in Paris, The Circus Lover",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "21731",
+        "name": "Young Lady in a Boat",
+        "style": "Classicism",
+        "artist": {
+            "name": "James Tissot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1902"
+        }
+    },
+    {
+        "work_id": "1424",
+        "name": "Young Woman Standing at a Virginal",
+        "style": "Baroque",
+        "artist": {
+            "name": "Johannes Vermeer",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1632",
+            "death": "1675"
+        }
+    },
+    {
+        "work_id": "1426",
+        "name": "Young Woman with a Water Pitcher",
+        "style": "Baroque",
+        "artist": {
+            "name": "Johannes Vermeer",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1632",
+            "death": "1675"
+        }
+    },
+    {
+        "work_id": "18595",
+        "name": "Goatherds on the Borromean Islands",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18597",
+        "name": "Gypsy Girl at a Fountain",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18599",
+        "name": "Hagar in the Wilderness",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18601",
+        "name": "Honfleur, Calvary",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18603",
+        "name": "Horseman at the Entrance of the Forest",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18605",
+        "name": "House and Factory of Monsieur Henry",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18607",
+        "name": "Houses Near Orleans",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18609",
+        "name": "In the Vicinity of Geneva",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18611",
+        "name": "Interrupted Reading",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18613",
+        "name": "Italian Landscape (Site d'Italie, Soleil Levant)",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18615",
+        "name": "La Cervara, the Roman Countryside",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18617",
+        "name": "Landscape at Arleux-du-Nord",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18619",
+        "name": "Landscape with Lake and Boatman",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18621",
+        "name": "Meadow with Two Large Trees",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "198206",
+        "name": "Melancholy Italian Woman (Rome)",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "198217",
+        "name": "Mme de Larochenoire, Wife of the Painter",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "198237",
+        "name": "Mme Lemaistre, ne\u00b4e Blanche Sennegon, Niece of Corot",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18623",
+        "name": "Monsieur Pivot on Horseback",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18627",
+        "name": "Mother and Child on a Beach",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18629",
+        "name": "Mother Protecting Her Child",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18633",
+        "name": "Old Bridge at Limay, on the Seine",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18635",
+        "name": "Orpheus Leading Eurydice from the Underworld",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18637",
+        "name": "Pastorale",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18639",
+        "name": "Peasant Woman Pasturing a Cow on the Edge of a Wood",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18641",
+        "name": "Peasants Under the Trees at Dawn",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18643",
+        "name": "Plains Near Beauvais",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18645",
+        "name": "Pollard Willows",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18647",
+        "name": "Pond at Ville d'Avray, with Leaning Trees",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "204487",
+        "name": "Pond at Ville d'Avray",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18649",
+        "name": "Pond with a Large Tree",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18651",
+        "name": "Pond with Dog",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18653",
+        "name": "Portrait of a Child",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18655",
+        "name": "Portrait of a Standing Woman",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18657",
+        "name": "Return of the Hayers to Marcoussis",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18661",
+        "name": "River with a Distant Tower",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18663",
+        "name": "Seascape with Figures on Cliffs",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18665",
+        "name": "Sibylle",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18667",
+        "name": "Smyrne-Bornabat",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18671",
+        "name": "Souvenir of a Journey to Coubron",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18673",
+        "name": "Souvenir of Italy",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18669",
+        "name": "Souvenir of Mortefontaine",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18675",
+        "name": "Souvenir of Palluel",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18677",
+        "name": "Souvenir of Riva",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18679",
+        "name": "Summer Morning",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18681",
+        "name": "The Banks of the Seine at Conflans",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18683",
+        "name": "The Belfry of Douai",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18685",
+        "name": "The Boat Leaving the Shore",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18687",
+        "name": "The Boatmen of Mortefontaine",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18689",
+        "name": "The Burning of Sodom",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18691",
+        "name": "The Curious Little Girl",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18693",
+        "name": "The Environs of Paris",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18695",
+        "name": "The Ferryman",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18697",
+        "name": "The Leaning Tree Trunk",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18701",
+        "name": "The Moored Boat",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18703",
+        "name": "The Muse, History",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18705",
+        "name": "The Oak in the Valley",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18707",
+        "name": "The Roman Campagna, with the Claudian Aqueduct",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18709",
+        "name": "The Seine Near Rouen",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18711",
+        "name": "The Sin-le-Noble Road Near Douai",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18715",
+        "name": "The Wagon (Souvenir of Saintry)",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18717",
+        "name": "The Wood Gatherer",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18719",
+        "name": "Toussaint Lemaistre",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18721",
+        "name": "Un Moulin a Vent Etretat",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18723",
+        "name": "Under Trees, Marcoussy",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18725",
+        "name": "Venus at Her Bath",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18727",
+        "name": "View in Holland",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18731",
+        "name": "View of Genzano with a Rider and Peasant",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18729",
+        "name": "View of Genzano",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18735",
+        "name": "Ville d'Avray",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18737",
+        "name": "Ville d'Avray, the Large Pond and Villas",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18733",
+        "name": "Ville-d'Avray",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18739",
+        "name": "Wall, Cotes-du-Nord, Brittany",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18741",
+        "name": "Waterfall at Terni",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "204464",
+        "name": "Willows and Farmhouse at Sainte-Catherine-les-Arras",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18743",
+        "name": "Willows on the Banks of the Scarpe",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18747",
+        "name": "Woman Picking Flowers in a Pasture",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18749",
+        "name": "Woman Reading in a Landscape",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18751",
+        "name": "Woman with a Pearl",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18753",
+        "name": "Women in a Field of Willows",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "18755",
+        "name": "Wooded Path Near Ville d'Avray",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Jean-Baptiste-Camille Corot",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1796",
+            "death": "1875"
+        }
+    },
+    {
+        "work_id": "176309",
+        "name": "Portrait of a Young Woman with White Headscarf",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "176329",
+        "name": "Portrait of Madame Van Westrenen of Tremaat",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "26400",
+        "name": "Portrait of Nicolas-Pierre-Baptiste Anselme",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "176339",
+        "name": "Portrait of the Comtesse du Barry",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "176387",
+        "name": "The Awakening",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "176367",
+        "name": "The Bust of a Young Girl, called Virginie",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "26404",
+        "name": "The Guitarist",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "26406",
+        "name": "The Laundress (La Blanchisseuse)",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "26408",
+        "name": "The Spoiled Child",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    },
+    {
+        "work_id": "176395",
+        "name": "Two Children and a Dog",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Baptiste Greuze",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1725",
+            "death": "1805"
+        }
+    }
+]

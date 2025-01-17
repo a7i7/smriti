@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "24235",
+        "name": "Piazza San Marco Looking South and West",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24237",
+        "name": "Piazza San Marco, Looking Southeast",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24241",
+        "name": "Piazza San Marco with the Basilica",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24243",
+        "name": "Reception of the Ambassador in the Doge's Palace",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24247",
+        "name": "Rome, Ruins of the Forum, Looking Towards the Capital",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24251",
+        "name": "Rome, The Arch of Titus",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24255",
+        "name": "S. Maria Zobenigo",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119288",
+        "name": "San Geremia and the Entrance to the Cannaregio",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119190",
+        "name": "Santa Maria Della Salute",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119325",
+        "name": "St. Paul's Cathedral",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119220",
+        "name": "The Bucintoro Returning to the Molo on Ascension Day",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "119238",
+        "name": "The Canal Grande",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "24271",
+        "name": "The Grand Canal from Campo S. Vio towards the Bacino",
+        "style": "Rococo",
+        "artist": {
+            "name": "Canaletto",
+            "nationality": "Italian",
+            "style": "Rococo",
+            "birth": "1697",
+            "death": "1768"
+        }
+    },
+    {
+        "work_id": "23452",
+        "name": "Alof de Vignacourt and His Page",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23454",
+        "name": "Amor Victorious",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23458",
+        "name": "Boy Bitten by a Lizard",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23460",
+        "name": "Boy with a Basket of Fruit",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23462",
+        "name": "Christ at the Column",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23464",
+        "name": "Conversion on the Way to Damascus",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23466",
+        "name": "David and Goliath",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23468",
+        "name": "David with the Head of Goliath",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23470",
+        "name": "Ecce Homo",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23474",
+        "name": "John the Baptist",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23476",
+        "name": "Judith Beheading Holofernes",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23478",
+        "name": "Madonna with the Serpent",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23480",
+        "name": "Martha and Mary Magdalene",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "128845",
+        "name": "Narcissus",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23484",
+        "name": "Portrait of Pope Urban VIII (Maffeo Barberini)",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23486",
+        "name": "Rest on the Flight into Egypt",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23490",
+        "name": "Saint Francis in Prayer",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23498",
+        "name": "Saint Gerome Writing",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23492",
+        "name": "Saint Jerome in His Study",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23500",
+        "name": "Saint John the Baptist",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23863",
+        "name": "Salome Receives the Head of Saint John the Baptist",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23502",
+        "name": "Supper at Emmaus",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23504",
+        "name": "The Beheading of Saint John the Baptist",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23506",
+        "name": "The Calling of Saint Matthew",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23508",
+        "name": "The Cardsharps",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23510",
+        "name": "The Crowning with Thorns",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "23512",
+        "name": "The Crucifixion of Saint Andrew",
+        "style": "Baroque",
+        "artist": {
+            "name": "Caravaggio",
+            "nationality": "Italian",
+            "style": "Baroque",
+            "birth": "1571",
+            "death": "1610"
+        }
+    },
+    {
+        "work_id": "26227",
+        "name": "A Young Man in a Fur Cap and a Cuirass",
+        "style": "Baroque",
+        "artist": {
+            "name": "Carel Fabritius",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1622",
+            "death": "1654"
+        }
+    },
+    {
+        "work_id": "199618",
+        "name": "Mercury, Argus, and Io",
+        "style": "Baroque",
+        "artist": {
+            "name": "Carel Fabritius",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1622",
+            "death": "1654"
+        }
+    },
+    {
+        "work_id": "26231",
+        "name": "Portrait of Van Abraham de Potter",
+        "style": "Baroque",
+        "artist": {
+            "name": "Carel Fabritius",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1622",
+            "death": "1654"
+        }
+    },
+    {
+        "work_id": "26233",
+        "name": "The Goldfinch",
+        "style": "Baroque",
+        "artist": {
+            "name": "Carel Fabritius",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1622",
+            "death": "1654"
+        }
+    },
+    {
+        "work_id": "179241",
+        "name": "A Fairy (Kersti in the Meadow)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179249",
+        "name": "Birch Trees",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179192",
+        "name": "Congratulations from Kattegat",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179199",
+        "name": "Holiday Reading",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179206",
+        "name": "Lisbeth by the Birch Tree",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179265",
+        "name": "Mirror Image with Brita",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179213",
+        "name": "My Country Cottage in Winter, Sundborn",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179257",
+        "name": "Portrait of Dora Lamm",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179182",
+        "name": "Self-Portrait in the New Studio",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179220",
+        "name": "Siblings",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179227",
+        "name": "Ta La Campagne",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179273",
+        "name": "The Letter",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "179234",
+        "name": "The Workshop",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Carl Larsson",
+            "nationality": "Swiss",
+            "style": "Post-Impressionist",
+            "birth": "1853",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "192414",
+        "name": "A Blustery Winter Day",
+        "style": "",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23357",
+        "name": "Bay of Naples",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23359",
+        "name": "Capri from Sorrento",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23361",
+        "name": "Fishing Boats in the Lagoon of Venice",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23363",
+        "name": "Les Grands Boulevards, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23365",
+        "name": "Napoli via Toledo",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23367",
+        "name": "Porta Nolana",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23369",
+        "name": "The Kiosk, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23371",
+        "name": "Tuileries Gardens, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23373",
+        "name": "Venetian Canal",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23375",
+        "name": "View of Sorrento",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23379",
+        "name": "View of the Bay of Naples II",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "23377",
+        "name": "View of the Bay of Naples",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Carlo Brancaccio",
+            "nationality": "Italian",
+            "style": "Impressionist",
+            "birth": "1861",
+            "death": "1920"
+        }
+    },
+    {
+        "work_id": "187164",
+        "name": "Corenno Plinio",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187175",
+        "name": "Forte dei Marmi",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "30108",
+        "name": "Lot's Daughters",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187219",
+        "name": "Marina",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187241",
+        "name": "Marina con Casa Colonica",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187197",
+        "name": "Photography",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187138",
+        "name": "The Brunekkeschi Church",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187186",
+        "name": "The Gulf",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "30112",
+        "name": "The Metaphysical Muse",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187274",
+        "name": "Umbrian Landscape",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187285",
+        "name": "Venetian View",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "187296",
+        "name": "Venice",
+        "style": "",
+        "artist": {
+            "name": "Carlo Carra",
+            "nationality": "Italian",
+            "style": "Futurist",
+            "birth": "1881",
+            "death": "1966"
+        }
+    },
+    {
+        "work_id": "19093",
+        "name": "A Walk at Dusk",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19095",
+        "name": "Boats in the Harbour at Evening",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "184185",
+        "name": "Bushes in the Snow",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "184194",
+        "name": "Caspar David Friedrich in His Studio",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19097",
+        "name": "Chalk Cliffs on Rugen",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19099",
+        "name": "Dolmen in the Snow",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19101",
+        "name": "Easter Morning",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19105",
+        "name": "Evening Landscape with Two Men",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19103",
+        "name": "Evening",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19107",
+        "name": "Flat Countryside",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19109",
+        "name": "Gazebo in Greifswald",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19111",
+        "name": "Graveyard Under Snow",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19113",
+        "name": "Greifswald in Moonlight",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19115",
+        "name": "Hill and Ploughed Field Near Dresden",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19117",
+        "name": "Hutten's Tomb",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19119",
+        "name": "Man and Woman Contemplating the Moon",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19121",
+        "name": "Meadows Near Greifwald",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    },
+    {
+        "work_id": "19123",
+        "name": "Monk by the Sea",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Caspar David Friedrich",
+            "nationality": "German",
+            "style": "Romantic",
+            "birth": "1774",
+            "death": "1840"
+        }
+    }
+]

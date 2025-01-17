@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "22950",
+        "name": "The Judgement of Paris",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "158388",
+        "name": "The Miracles of Saint Francis of Paola",
+        "style": "",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22955",
+        "name": "The Rape of the Sabine Women",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "158652",
+        "name": "The Return from War, Mars Disarmed by Venus",
+        "style": "",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22959",
+        "name": "The Triumphant Entry of Constantine Into Rome",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22960",
+        "name": "The Union of Earth and Water",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22964",
+        "name": "Two Satyrs",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22966",
+        "name": "Venus and Cupid Warming Themselves",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22967",
+        "name": "Venus and Mars",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "22970",
+        "name": "Wolf and Fox Hunt",
+        "style": "Baroque",
+        "artist": {
+            "name": "Peter Paul Rubens",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1577",
+            "death": "1640"
+        }
+    },
+    {
+        "work_id": "24101",
+        "name": "Antoine Singlin",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "24103",
+        "name": "Cardinal de Richelieu",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "204804",
+        "name": "Portrait of King Charles II of England",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "24105",
+        "name": "Saint Augustine",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "24109",
+        "name": "The Dream of Saint Joseph",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "24115",
+        "name": "Triple Portrait of the Head of Richelieu",
+        "style": "Baroque",
+        "artist": {
+            "name": "Philippe De Champaigne",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1602",
+            "death": "1674"
+        }
+    },
+    {
+        "work_id": "24361",
+        "name": "Dionysia",
+        "style": "Classicism",
+        "artist": {
+            "name": "Pierre Auguste Cot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1837",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "24367",
+        "name": "Springtime",
+        "style": "Classicism",
+        "artist": {
+            "name": "Pierre Auguste Cot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1837",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "24369",
+        "name": "The Storm",
+        "style": "Classicism",
+        "artist": {
+            "name": "Pierre Auguste Cot",
+            "nationality": "French",
+            "style": "Classicist",
+            "birth": "1837",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "3741",
+        "name": "A Waitress at Duval's Restaurant",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3743",
+        "name": "A Woman Nursing a Child",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3745",
+        "name": "A Young Girl with Daisies",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3747",
+        "name": "Acrobats at the Cirque Fernando",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3891",
+        "name": "After the Bathroom",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3755",
+        "name": "After the Luncheon",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3757",
+        "name": "Albert Cahen d'Anvers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3759",
+        "name": "Alfred Berard and His Dog",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3761",
+        "name": "Algerian Girl",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3763",
+        "name": "Algerian Woman in Algerian Dress",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3765",
+        "name": "Aline Charigot, Madame Renoir",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3767",
+        "name": "Alphonsine Fournaise",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3769",
+        "name": "Ambroise Vollard Dressed as a Toreado",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "196999",
+        "name": "Andre\u00b4e in a Hat, Reading",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "197010",
+        "name": "Andre\u00b4e in Pink, Reclining",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "197711",
+        "name": "Anemones",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "196673",
+        "name": "Apple Vendor",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "197721",
+        "name": "Apples, Orange, and Lemon",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3773",
+        "name": "At the Concert, Box at the Opera",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "3775",
+        "name": "At the Inn of Mother Anthony",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Pierre-Auguste Renoir",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1919"
+        }
+    },
+    {
+        "work_id": "131101",
+        "name": "A Terrace in Grasse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131011",
+        "name": "At the Races, Longchamp",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131020",
+        "name": "Banks of the Seine or Sunny Landscape",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21293",
+        "name": "Basket of Bananas",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21295",
+        "name": "Before Dinner",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131220",
+        "name": "Blooming Trees, White House",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131848",
+        "name": "Boulevard des Batignolles",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131992",
+        "name": "Brown Coal Mine",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131506",
+        "name": "Cats on the Railing",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "132118",
+        "name": "Champagne Terrace",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131330",
+        "name": "Clichy Square",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131517",
+        "name": "Conversation in Arcachon",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131561",
+        "name": "Dressing Table and Mirror",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21297",
+        "name": "Early Spring Little Fauns",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "198545",
+        "name": "Evening Under the Lamps",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131616",
+        "name": "Field Flowers, Umbels and Poppies",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131396",
+        "name": "Fisherman",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131029",
+        "name": "Flower Garden Corner",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21299",
+        "name": "From the Balcony",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131253",
+        "name": "Fruit Basket in the Cannet Dining Room",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131528",
+        "name": "Fruit Basket on a Table in the Jardin du Cannet",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131884",
+        "name": "Fruits",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131286",
+        "name": "Garden in Dauphine",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131191",
+        "name": "Half Undressed, in Front of the Mirror",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21303",
+        "name": "House on the Seine Near Vernon",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131857",
+        "name": "In the Bathroom",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131264",
+        "name": "In the Front Street",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131038",
+        "name": "Interior, Bonnard's Apartment in Paris",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131047",
+        "name": "Iris and Lilac",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21307",
+        "name": "Landscape in the South",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131462",
+        "name": "Landscape of Canet",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "132109",
+        "name": "Landscape of Midi",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131572",
+        "name": "Leaning Woman with Dog and Still Life",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131407",
+        "name": "Marine",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131137",
+        "name": "Marthe and Her Dog Sitting in Front of a Table",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131418",
+        "name": "Marthe and the Black Dog",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131429",
+        "name": "Misia Sert on Edwards' Ship",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131440",
+        "name": "Montmartre",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131782",
+        "name": "Nude and Red Chair",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131947",
+        "name": "Nude at the Toilet",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131938",
+        "name": "Nude at the Window",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131155",
+        "name": "Nude at Tub",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131451",
+        "name": "Nude in Bathtub",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131956",
+        "name": "Nude Standing with a Towel",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131594",
+        "name": "Nude Woman Back View",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131866",
+        "name": "Nude Woman Standing at the Folding Table",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131200",
+        "name": "On a Boat",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131793",
+        "name": "Parisian Landscape, Boulevard de Clichy",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21309",
+        "name": "Pink Bouquet",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131164",
+        "name": "Pink Palm in Cannet",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "21311",
+        "name": "Poppies in a Vase",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131804",
+        "name": "Portrait of M. Jos Hessel",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "131974",
+        "name": "Portrait of Madame Hessel, The Lady in Red",
+        "style": "Nabi",
+        "artist": {
+            "name": "Pierre Bonnard",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1867",
+            "death": "1947"
+        }
+    },
+    {
+        "work_id": "29292",
+        "name": "City Wall at the Foot of a Mountain",
+        "style": "",
+        "artist": {
+            "name": "Pierre-Henri De Valenciennes",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1750",
+            "death": "1819"
+        }
+    },
+    {
+        "work_id": "29294",
+        "name": "Classical Landscape with Figures and Sculpture",
+        "style": "",
+        "artist": {
+            "name": "Pierre-Henri De Valenciennes",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1750",
+            "death": "1819"
+        }
+    },
+    {
+        "work_id": "29296",
+        "name": "Landscape with Ruins",
+        "style": "",
+        "artist": {
+            "name": "Pierre-Henri De Valenciennes",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1750",
+            "death": "1819"
+        }
+    },
+    {
+        "work_id": "29298",
+        "name": "The Two Poplars",
+        "style": "",
+        "artist": {
+            "name": "Pierre-Henri De Valenciennes",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1750",
+            "death": "1819"
+        }
+    },
+    {
+        "work_id": "207310",
+        "name": "View of Rome",
+        "style": "American Landscape",
+        "artist": {
+            "name": "Pierre-Henri De Valenciennes",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1750",
+            "death": "1819"
+        }
+    },
+    {
+        "work_id": "30272",
+        "name": "A Maid Combing a Woman's Hair",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Pierre Puvis De Chavannes",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1824",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "30274",
+        "name": "Cider",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Pierre Puvis De Chavannes",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1824",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "30276",
+        "name": "Death and the Maidens",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Pierre Puvis De Chavannes",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1824",
+            "death": "1898"
+        }
+    }
+]

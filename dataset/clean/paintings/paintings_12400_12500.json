@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "29466",
+        "name": "Thomas Howard, 2nd Earl of Arundel",
+        "style": "Baroque",
+        "artist": {
+            "name": "Sir Anthony Van Dyck",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1599",
+            "death": "1641"
+        }
+    },
+    {
+        "work_id": "29468",
+        "name": "Thomas Kiligrew and William Lord Crofts",
+        "style": "Baroque",
+        "artist": {
+            "name": "Sir Anthony Van Dyck",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1599",
+            "death": "1641"
+        }
+    },
+    {
+        "work_id": "29472",
+        "name": "Virgin and Child with Saint Catherine of Alexandria",
+        "style": "Baroque",
+        "artist": {
+            "name": "Sir Anthony Van Dyck",
+            "nationality": "Flemish",
+            "style": "Baroque",
+            "birth": "1599",
+            "death": "1641"
+        }
+    },
+    {
+        "work_id": "124926",
+        "name": "The Road, Winter Morning",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "125092",
+        "name": "The Spreading Tree",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "124937",
+        "name": "Tranquil Sunset, September",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "125114",
+        "name": "Tulips and Narcissi",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "125103",
+        "name": "Two Girls Resting",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "124832",
+        "name": "Youth Mourning",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Sir George Clausen",
+            "nationality": "English",
+            "style": "Realist",
+            "birth": "1852",
+            "death": "1944"
+        }
+    },
+    {
+        "work_id": "176729",
+        "name": "Portrait of Dr. John Thomas, Bishop of Rochester",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22828",
+        "name": "Portrait of Edward Holden Cruttenden",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22829",
+        "name": "Portrait of Elizabeth Kerr, Marchioness of Lothian",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176738",
+        "name": "Portrait of Elizabeth, Lady Forbes",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176747",
+        "name": "Portrait of Francis Basset, later 1st Baron de Dunstanville and Basset",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22833",
+        "name": "Portrait of Henry Howard",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22834",
+        "name": "Portrait of John Murray, 4th Earl of Dunmore",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22836",
+        "name": "Portrait of Lady Caroline Howard",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22839",
+        "name": "Portrait of Miss Anne Mead",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "207216",
+        "name": "Portrait of Mrs George Collier",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22845",
+        "name": "Portrait of Omai",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22846",
+        "name": "Portrait of Phillippa Elizabeth Dorothy Malone, Lady Sunderlin",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176678",
+        "name": "Portrait of Prince William Augustus, Duke of Cumberland",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176756",
+        "name": "Portrait of Richard Boyle, 2nd Earl of Shannon",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176686",
+        "name": "Portrait of Richard Crofts of West Harling, Norfolk",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176765",
+        "name": "Portrait of Robert Welford in a Red Velvet Fur-Trimmed Jacket and Yellow Waistcoat",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176774",
+        "name": "Portrait of Sir Gerard Napier in the Uniform of the Dorsetshire Militia",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176694",
+        "name": "Portrait of Sir John Lade with His Dog",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176783",
+        "name": "Portrait of the Hon. John Tufton in Green Classical Dress Playing with a Spaniel in a Landscape",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "207229",
+        "name": "Portrait of the Ladies Amabel and Mary Jemima Yorke",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22849",
+        "name": "Portrait of Thomas Bowlby",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176792",
+        "name": "Portrait of Thomas Bruce Brudenell, 1st Earl of Ailesbury in Peer's Robes",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176801",
+        "name": "Portrait of William Cavendish 5th Duke of Devonshire",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22852",
+        "name": "Portrait of William Pulteney, 1st Earl of Bath",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22854",
+        "name": "Richard Boyle, 2nd Earl of Shannon",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22855",
+        "name": "Richard Peers Symons",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22856",
+        "name": "Robert d'Arcy, 4th Earl of Holderness",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22857",
+        "name": "Sarah Campbell",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "176668",
+        "name": "Sir William Chambers, Joseph Wilton, Sir Joshua Reynolds",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22861",
+        "name": "The Honorable Henry Fane with Inigo Jones and Charles Blair",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22862",
+        "name": "The Ladies Waldegrave",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22863",
+        "name": "Thomas and Martha Neate with His Tutor, Thomas Needham",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22864",
+        "name": "Thomas Lister, Later Baron Ribblesdale",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22865",
+        "name": "Three Ladies Adorning a Term of Hymen",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "22866",
+        "name": "William Charles Colyear, Viscount Milsington, Later 3rd Earl of Portmore",
+        "style": "Rococo",
+        "artist": {
+            "name": "Sir Joshua Reynolds",
+            "nationality": "English",
+            "style": "Rococo",
+            "birth": "1723",
+            "death": "1792"
+        }
+    },
+    {
+        "work_id": "21014",
+        "name": "The Roses of Heliogabalus",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "167223",
+        "name": "The Vintage Festival",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "21024",
+        "name": "This Is Our Corner",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "21026",
+        "name": "Unconscious Rivals",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "21032",
+        "name": "When Flowers Return",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "21034",
+        "name": "Who Is It",
+        "style": "Classicism",
+        "artist": {
+            "name": "Sir Lawrence Alma-Tadema",
+            "nationality": "English",
+            "style": "Classicist",
+            "birth": "1836",
+            "death": "1912"
+        }
+    },
+    {
+        "work_id": "177006",
+        "name": "Nu Assis au Bord d'Un Lit",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177254",
+        "name": "Nu Assis sur un Canape",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177016",
+        "name": "Nu au Miroir",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177262",
+        "name": "Nu Aux Bottines",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "176917",
+        "name": "Pommes Pichet et Theiere",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177196",
+        "name": "Portrait de Louis Moyses, Fondateur du &quot;boeuf sur le toit&quot;",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "208621",
+        "name": "The Blue Room",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "25381",
+        "name": "The Cast-Off Doll",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177026",
+        "name": "Torse au Ruban Bleu",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177238",
+        "name": "Vase de Fleurs et Theiere",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177126",
+        "name": "Vase de Fleurs sur une Table",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177246",
+        "name": "Vase de Fleurs sur une Table Ronde",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177116",
+        "name": "Vase de Roses sur un Gueridon",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "208611",
+        "name": "Vase of Flowers on a Chair",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "177036",
+        "name": "Victorine ou La Tigresse",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "208639",
+        "name": "Young Girl in Front of a Window",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Suzanne Valadon",
+            "nationality": "French",
+            "style": "Post-Impressionist",
+            "birth": "1865",
+            "death": "1938"
+        }
+    },
+    {
+        "work_id": "130865",
+        "name": "Portrait of Elisabeth Van Rysselberghe",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130600",
+        "name": "Portrait of Helene Keller (The Lady in White)",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130883",
+        "name": "Portrait of Madame Schlumberger and Her Daughter",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130765",
+        "name": "Portrait of Mrs. Margareta von Kuhlmann Stumm",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130892",
+        "name": "Portrait of Pierre Olin Reading",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130787",
+        "name": "Scarlett Ribbon",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130820",
+        "name": "Self-Portrait in Green Vest",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130901",
+        "name": "Sitzender Akt",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130446",
+        "name": "Study For Bathers Under The Pines",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130655",
+        "name": "Study For The Ballast",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130534",
+        "name": "Swimmers",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130798",
+        "name": "Sylvie Lacombe",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130468",
+        "name": "The Arc en Ciel in Veere",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130928",
+        "name": "The Bate in the Setting Sun, Saint Clair",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130919",
+        "name": "The Burning Hour",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130523",
+        "name": "The Canal in Flanders in Sad Weather",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "30270",
+        "name": "The Man on the Tiller",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130622",
+        "name": "The Mediterranean at Le Lavandou",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130479",
+        "name": "The Pointe du Rossignol, Cap Layet",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130490",
+        "name": "The Pointe du Rossignol",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130512",
+        "name": "The Sambre Valley",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130809",
+        "name": "Vase of Flowers (Buttercups)",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130982",
+        "name": "Villas View through the Eucalyptus, La Mortola",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130776",
+        "name": "Yellow Roses, Persimmon and Mimosas",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130688",
+        "name": "Young Lady Reading",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130838",
+        "name": "Young Woman in Green Dress",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "130699",
+        "name": "Young Woman on the Edge of the Greve",
+        "style": "Pointillism",
+        "artist": {
+            "name": "Th\u00e9o Van Rysselberghe",
+            "nationality": "Belgian",
+            "style": "Pointillist",
+            "birth": "1862",
+            "death": "1926"
+        }
+    },
+    {
+        "work_id": "18877",
+        "name": "Portrait of William H. MacDowell",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18881",
+        "name": "Professor William Woolsey Johnson",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18883",
+        "name": "Pushing for Rail",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18885",
+        "name": "Rail Shooting on the Delaware",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18887",
+        "name": "Sailboats Racing on the Delaware",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18891",
+        "name": "Salutat",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    },
+    {
+        "work_id": "18895",
+        "name": "Signora Gomez d'Arza",
+        "style": "Realism",
+        "artist": {
+            "name": "Thomas Eakins",
+            "nationality": "American",
+            "style": "Realist",
+            "birth": "1844",
+            "death": "1916"
+        }
+    }
+]

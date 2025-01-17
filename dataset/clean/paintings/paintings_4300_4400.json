@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "30903",
+        "name": "Portrait of Madame Sophie, Daughter of Louis XV",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "190352",
+        "name": "Elisabeth Farnese",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190363",
+        "name": "Fernando VI of Spain",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190372",
+        "name": "Mariana Victoria of Spain",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190383",
+        "name": "Philip of Spain Duke of Parma",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190392",
+        "name": "Portrait of a Lady as Pomona",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190401",
+        "name": "Portrait of Barbara of Portugal",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190410",
+        "name": "Portrait of Carlos III",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190419",
+        "name": "Portrait of Fernando VI",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190428",
+        "name": "Portrait of Louis Elisabeth d'Orleans Queen of Spain",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190437",
+        "name": "Portrait of Louis I of Spain",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190455",
+        "name": "Portrait of Philip V of Spain",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "190464",
+        "name": "Vertumno e Pomona",
+        "style": "Baroque",
+        "artist": {
+            "name": "Jean Ranc",
+            "nationality": "French",
+            "style": "Baroque",
+            "birth": "1674",
+            "death": "1735"
+        }
+    },
+    {
+        "work_id": "28447",
+        "name": "A Lady at a Window",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28449",
+        "name": "A Quartet in Concert",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "176642",
+        "name": "Diana and a Nymph Bathing",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "176651",
+        "name": "Portrait of a Seated Lady Scarcely Clad and in the Guise of a Nymph",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28451",
+        "name": "Portrait of Philippe de Vendome",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28453",
+        "name": "Silence, Woman at a Window",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28455",
+        "name": "Woman in a Red Dress",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28457",
+        "name": "Young Girl Reading a Letter",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "28459",
+        "name": "Young Women with Chaffinch",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean Raoux",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1677",
+            "death": "1734"
+        }
+    },
+    {
+        "work_id": "7733",
+        "name": "A Basket of Peaches",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7735",
+        "name": "A Bowl of Plums",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7737",
+        "name": "A Lean Diet with Cooking Utensils",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7741",
+        "name": "Boy Building a House of Cards",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7743",
+        "name": "Dead Partridge",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7745",
+        "name": "Draughtsman",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7747",
+        "name": "Fruit, Jug and a Glass",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7749",
+        "name": "Girl Peeling Vegetables (The Kitchen Maid)",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7751",
+        "name": "In the Studio",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "204540",
+        "name": "Kitchen Utensils with Looks, Fish, and Eggs",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7753",
+        "name": "Lady Taking Tea",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7755",
+        "name": "Self-Portrait with a Visor",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7757",
+        "name": "Self-Portrait with Glasses",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7761",
+        "name": "Soap Bubbles",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7763",
+        "name": "Still Life with a Hare",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7765",
+        "name": "Still Life with a White Mug",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7767",
+        "name": "Still Life with Attributes of the Arts",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7769",
+        "name": "Still Life with Bottle, Glass and Loaf",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7771",
+        "name": "Still Life with Cat and Fish",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "198480",
+        "name": "Still Life with Copper Pot, Cabbage, Pestle, and Stove",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7775",
+        "name": "Still Life with Fish, Vegetables, Gougeres, Pots, and Cruets on a Table",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "204552",
+        "name": "Still Life with Herrings",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7779",
+        "name": "Still Life with Leg of Lamb",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7781",
+        "name": "Still Life with Peaches, a Silver Goblet, Grapes, and Walnuts",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7783",
+        "name": "Still Life with Pestle and Mortar, Pitcher and Copper Cauldron",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7785",
+        "name": "Still Life with Pipe",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "7787",
+        "name": "Still Life with Plums",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1699",
+            "death": "1779"
+        }
+    },
+    {
+        "work_id": "160875",
+        "name": "Kitchen Scene, with Jesus in the House of Martha and Mary in the Background",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "167369",
+        "name": "Marketplace, with the Flagellation, the Ecce Homo and the Bearing of the Cross in the Background",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "188419",
+        "name": "The Four Elements, Air",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "188424",
+        "name": "The Four Elements, Earth",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "188429",
+        "name": "The Four Elements, Fire",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "188434",
+        "name": "The Four Elements, Water",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "158352",
+        "name": "The Miraculous Draught of Fishes",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "160636",
+        "name": "The Well-Stocked Kitchen, with Jesus in the House of Martha and Mary in the Background",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Joachim Beuckelaer",
+            "nationality": "Dutch",
+            "style": "Renaissance",
+            "birth": "1533",
+            "death": "1574"
+        }
+    },
+    {
+        "work_id": "28513",
+        "name": "A Landscape with Figure in Sagunto, Valencia",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28515",
+        "name": "After Bathing",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28517",
+        "name": "After Bathing, Valencia",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28519",
+        "name": "Algarrobo (The Carob Tree)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28521",
+        "name": "Antonio Garcia at the Beach",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28523",
+        "name": "Arrival of the Boats",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28525",
+        "name": "Bacchante",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28527",
+        "name": "Boys on the Beach",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28529",
+        "name": "Breakwater, San Sebastian",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28531",
+        "name": "By the Seaside",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28533",
+        "name": "Cabeza De Italiana",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28535",
+        "name": "Capturing the Moment",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28537",
+        "name": "Children in the Sea, Valencia Beach",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28539",
+        "name": "Children Looking for Shellfish",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28541",
+        "name": "Clotilde and Elena on the Rocks",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28543",
+        "name": "Clotilde in a Grey Dress",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28545",
+        "name": "Clotilde in Evening Dress",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28547",
+        "name": "Clotilde on the Beach",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28549",
+        "name": "Clotilde Seated on the Sofa",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28657",
+        "name": "Corner of the Garden, Alcazar, Sevilla",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28659",
+        "name": "Court of the Dances, Alcazar, Sevilla",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28551",
+        "name": "El Nino Jaime Garcia Banus",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28553",
+        "name": "Elena En La Playa, Biarritz",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28555",
+        "name": "Fifth Avenue, New York",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28557",
+        "name": "Fisherwomen From Valencia",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28559",
+        "name": "Fisherwomen with Her Son",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28561",
+        "name": "Fishing Boats on the Beach, Valencia",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28563",
+        "name": "Gitana",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28565",
+        "name": "Greek Girls on the Shore",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "28661",
+        "name": "Hall of the Ambassadors, Alhambra, Granada",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Joaqu\u00edn Sorolla",
+            "nationality": "Spanish",
+            "style": "Impressionist",
+            "birth": "1863",
+            "death": "1923"
+        }
+    },
+    {
+        "work_id": "190474",
+        "name": "Bateaux sur la mer Agitee",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190586",
+        "name": "Dordrecht",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190597",
+        "name": "Environs de Dordrecht",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190485",
+        "name": "Fishing on the Estuary",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190606",
+        "name": "La Nourrice, Environs de Nevers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190509",
+        "name": "La Route pre`s de Rotterdam, effet de pluie",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190678",
+        "name": "La Rue Saint Jacques Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190633",
+        "name": "Le Marche aux Fleurs Boulevard Richard Lenoir, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190615",
+        "name": "Le Port de Dordrecht",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190624",
+        "name": "Le Port de Honfleur, Les Grands Voiliers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190575",
+        "name": "L'Entre\u00b4e du Port de Honfleur",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190498",
+        "name": "L'Escaut pre`s d'Anvers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    },
+    {
+        "work_id": "190520",
+        "name": "Patineurs a Maassluis",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Johan Barthold Jongkind",
+            "nationality": "Dutch",
+            "style": "Impressionist",
+            "birth": "1819",
+            "death": "1891"
+        }
+    }
+]

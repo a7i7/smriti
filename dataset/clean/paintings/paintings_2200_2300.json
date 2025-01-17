@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "5806",
+        "name": "Charles IV of Spain and His Family",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5808",
+        "name": "Children Playing Soldiers",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5894",
+        "name": "Dogs in Trailla",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5816",
+        "name": "Don Andr\u00e9s Del Peral",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5818",
+        "name": "Don Jose Alvarez de Toledo y Gonzaga",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5820",
+        "name": "Dosa Isabel de Porcel",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5932",
+        "name": "Equestrian Portrait of Fernando VII",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5934",
+        "name": "Equestrian Portrait of Manuel Godoy",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5834",
+        "name": "Ferdinand VII at Camp",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5836",
+        "name": "Gaspar Melchor de Jovellanos",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "5838",
+        "name": "General Jose de Urrutia y de Las Casas",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Francisco De Goya",
+            "nationality": "Spanish",
+            "style": "Rococo",
+            "birth": "1746",
+            "death": "1828"
+        }
+    },
+    {
+        "work_id": "29600",
+        "name": "A Cup of Water and a Rose",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149180",
+        "name": "Childhood of the Virgin",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "206729",
+        "name": "Christ and the Virgin in the House at Nazareth",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "29602",
+        "name": "Crucifixion",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149189",
+        "name": "Inmaculada Concepcion",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149162",
+        "name": "Portrait of Doctor Juan Martine Serrano",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149198",
+        "name": "Portrait of Two Girls",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149045",
+        "name": "Regina Angelorum",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149207",
+        "name": "Saint Dorothy Holding a Basket of Apples and Roses",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149056",
+        "name": "Saint Elizabeth of Thuringia",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "29606",
+        "name": "Saint Francis in Meditation",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149067",
+        "name": "Saint Francis of Assisi in Prayer",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149078",
+        "name": "Saint Luke as a Painter",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149089",
+        "name": "Saint Serapius",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149279",
+        "name": "Saints Agatha, Lucy and Apollonia",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149225",
+        "name": "San Francisco in Meditation",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149234",
+        "name": "St. Francis in Meditation",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "29608",
+        "name": "St. Margaret",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149243",
+        "name": "The Archangel Michael Vanquishing the Devil",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149252",
+        "name": "The Archangel Michael",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149288",
+        "name": "The Defense of Cadiz Against the English",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149261",
+        "name": "The Immaculate Conception",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149144",
+        "name": "The Lamb of God",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149133",
+        "name": "The Mystic Marriage of Saint Catherine of Alexandria",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149270",
+        "name": "The Penitent Saint Peter",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149111",
+        "name": "The Veil of Saint Veronica",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "149122",
+        "name": "The Virgin with the Child Jesus and the Child Saint John the Baptist",
+        "style": "Baroque",
+        "artist": {
+            "name": "Francisco De Zurbar\u00e1n",
+            "nationality": "Spanish",
+            "style": "Baroque",
+            "birth": "1598",
+            "death": "1664"
+        }
+    },
+    {
+        "work_id": "23055",
+        "name": "Arion on the Dolphin",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23057",
+        "name": "Cupid Disarmed",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "204281",
+        "name": "Cupids in Conspiracy",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "198824",
+        "name": "Death of Meleager",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23059",
+        "name": "Diana After the Hunt",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23061",
+        "name": "Diana Bathing",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23063",
+        "name": "Earth: Vertumnus and Pomona",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "204291",
+        "name": "Fountain of Venus",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "204303",
+        "name": "Head of a Young Woman",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23065",
+        "name": "Hercules and Omphale",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23067",
+        "name": "Imaginary Landscape with the Palatine Hill from Campo Vaccino",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23069",
+        "name": "La Cible D'Amour (Love Target)",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23071",
+        "name": "La Toilette",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "175951",
+        "name": "Landscape Near Beauvais",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23075",
+        "name": "Landscape with a Watermill",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23079",
+        "name": "Lovers in a Park",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23081",
+        "name": "Madame Bergeret",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23083",
+        "name": "Madame de Pompadour",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23085",
+        "name": "Mill at Charenton",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23087",
+        "name": "Nymphs Playing the Flute",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23089",
+        "name": "Odalisque",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23097",
+        "name": "Portrait of Alexandrine Le Normant d'Etiolles",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23099",
+        "name": "Portrait of Madame Pompadour",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23101",
+        "name": "Rest at the Fountain",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23103",
+        "name": "Resting Maiden",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23105",
+        "name": "River Landscape with an Antique Temple",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23107",
+        "name": "River Landscape with Ruin and Bridge",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "23109",
+        "name": "Schlafende Venus",
+        "style": "Rococo",
+        "artist": {
+            "name": "Francois Boucher",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1703",
+            "death": "1770"
+        }
+    },
+    {
+        "work_id": "26248",
+        "name": "Belisarius",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26250",
+        "name": "Charles John as Crown Prince of Sweden",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26252",
+        "name": "Corinne au Cap Misene",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26256",
+        "name": "Elisa Bonaparte with Her Daughter Napoleona Baciocchi",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26260",
+        "name": "Josephine in Coronation Costume",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26262",
+        "name": "Madame Barbier-Walbonne",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26264",
+        "name": "Madame Recamier",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26266",
+        "name": "Marshall Michel Ney",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26268",
+        "name": "Napoleon Bonaparte Premier Consul",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26270",
+        "name": "Napoleon Ier en Costume du Sacre",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26272",
+        "name": "Portrait of Antonia Canova",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26274",
+        "name": "Portrait of Artur Potocki",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26276",
+        "name": "Portrait of Charles X of France",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26278",
+        "name": "Portrait of Jacques MacDonald",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26280",
+        "name": "Portrait of Josephine",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26282",
+        "name": "Portrait of La Duchesse De Berry et ses Enfants",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26284",
+        "name": "Portrait of Louise-Antoinette-Scholastique Gueheneuc",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26286",
+        "name": "Portrait of Madame Recamier",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26288",
+        "name": "Portrait of Mme de Stael",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26290",
+        "name": "Portrait of Russian Emperor Alexander I",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26292",
+        "name": "Portrait of Stanis Mniszek",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26294",
+        "name": "Portrait of Theresa Tallien",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26296",
+        "name": "Portrait of Zoe Victorie Talon",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "26298",
+        "name": "Psyche Receiving the First Kiss of Love",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois G\u00e9rard",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1770",
+            "death": "1837"
+        }
+    },
+    {
+        "work_id": "187556",
+        "name": "A Boy Seated at a Table with an Open Birdcage",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "187565",
+        "name": "A Young Boy in a Blue Coat and Tricorn, Holding a Violin by a Music Stand",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "25575",
+        "name": "Boy with a Black Spaniel",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "25577",
+        "name": "Children of the Marquis de Bethune Playing with a Dog",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "25579",
+        "name": "Le Comte De Vaudreuil",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "25581",
+        "name": "Madame De Pompadour at Her Tambour Frame",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "25583",
+        "name": "Madame Drouais",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "187631",
+        "name": "One Playing a Hurdy-Gurdy, the Other Playing with a Marmot on a Ribbon",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "187574",
+        "name": "Portrait de Louis-Stanislas-Xavier, Comte de Provence",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    },
+    {
+        "work_id": "187591",
+        "name": "Portrait of a Lady, Marquise de Beauharnais in a Lace Gown and Fur-lined Red Coat",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Francois-Hubert Drouais",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1727",
+            "death": "1775"
+        }
+    }
+]

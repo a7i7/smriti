@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Valandovo",
+        "lat": "41.3169",
+        "lng": "22.5611",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Lovrenc na Pohorju",
+        "lat": "46.5381",
+        "lng": "15.3844",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Capellen",
+        "lat": "49.6444",
+        "lng": "5.9897",
+        "country": "Luxembourg"
+    },
+    {
+        "name": "Tasiilaq",
+        "lat": "65.6136",
+        "lng": "-37.6311",
+        "country": "Greenland"
+    },
+    {
+        "name": "Ormo\u017e",
+        "lat": "46.4086",
+        "lng": "16.1475",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Borgarnes",
+        "lat": "64.5333",
+        "lng": "-21.9167",
+        "country": "Iceland"
+    },
+    {
+        "name": "Katwe",
+        "lat": "-0.1296",
+        "lng": "29.9200",
+        "country": "Uganda"
+    },
+    {
+        "name": "Stra\u017ea",
+        "lat": "45.7864",
+        "lng": "15.0745",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Ker\u010bem",
+        "lat": "36.0406",
+        "lng": "14.2297",
+        "country": "Malta"
+    },
+    {
+        "name": "\u017dabljak",
+        "lat": "43.1550",
+        "lng": "19.1208",
+        "country": "Montenegro"
+    },
+    {
+        "name": "Abun\u00e3",
+        "lat": "-9.6954",
+        "lng": "-65.3597",
+        "country": "Brazil"
+    },
+    {
+        "name": "Amudat",
+        "lat": "1.9522",
+        "lng": "34.9444",
+        "country": "Uganda"
+    },
+    {
+        "name": "Philipsburg",
+        "lat": "18.0237",
+        "lng": "-63.0458",
+        "country": "Sint Maarten"
+    },
+    {
+        "name": "Taedong",
+        "lat": "40.6171",
+        "lng": "125.4501",
+        "country": "Korea, North"
+    },
+    {
+        "name": "Krivoga\u0161tani",
+        "lat": "41.3358",
+        "lng": "21.3331",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Mislinja",
+        "lat": "46.4431",
+        "lng": "15.1931",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Beringovskiy",
+        "lat": "63.0655",
+        "lng": "179.3067",
+        "country": "Russia"
+    },
+    {
+        "name": "Balak\u0259n",
+        "lat": "41.7258",
+        "lng": "46.4083",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Ta\u2019 Xbiex",
+        "lat": "35.8992",
+        "lng": "14.4981",
+        "country": "Malta"
+    },
+    {
+        "name": "Novyy Port",
+        "lat": "67.6919",
+        "lng": "72.8964",
+        "country": "Russia"
+    },
+    {
+        "name": "Naklo",
+        "lat": "46.2749",
+        "lng": "14.3176",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Bohinjska Bistrica",
+        "lat": "46.2742",
+        "lng": "13.9524",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Nokaneng",
+        "lat": "-19.6639",
+        "lng": "22.1917",
+        "country": "Botswana"
+    },
+    {
+        "name": "\u0160marje",
+        "lat": "46.2281",
+        "lng": "15.5182",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Longyearbyen",
+        "lat": "78.2200",
+        "lng": "15.6500",
+        "country": "Svalbard"
+    },
+    {
+        "name": "Nasir",
+        "lat": "8.6000",
+        "lng": "33.0667",
+        "country": "South Sudan"
+    },
+    {
+        "name": "Partesh",
+        "lat": "42.4019",
+        "lng": "21.4336",
+        "country": "Kosovo"
+    },
+    {
+        "name": "Diva\u010da",
+        "lat": "45.6820",
+        "lng": "13.9702",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Xg\u0127ajra",
+        "lat": "35.8864",
+        "lng": "14.5472",
+        "country": "Malta"
+    },
+    {
+        "name": "Cerklje na Gorenjskem",
+        "lat": "46.2488",
+        "lng": "14.4855",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Varak\u013c\u0101ni",
+        "lat": "56.6000",
+        "lng": "26.7500",
+        "country": "Latvia"
+    },
+    {
+        "name": "Spodnji Duplek",
+        "lat": "46.5053",
+        "lng": "15.7467",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Peh\u010devo",
+        "lat": "41.7592",
+        "lng": "22.8906",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Ropa\u017ei",
+        "lat": "56.9718",
+        "lng": "24.6318",
+        "country": "Latvia"
+    },
+    {
+        "name": "Gusinje",
+        "lat": "42.5619",
+        "lng": "19.8339",
+        "country": "Montenegro"
+    },
+    {
+        "name": "Tabor",
+        "lat": "46.2225",
+        "lng": "15.0081",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Gamprin",
+        "lat": "47.2167",
+        "lng": "9.5000",
+        "country": "Liechtenstein"
+    },
+    {
+        "name": "P\u0101r\u016bn",
+        "lat": "35.4167",
+        "lng": "70.9169",
+        "country": "Afghanistan"
+    },
+    {
+        "name": "Puerto Williams",
+        "lat": "-54.9333",
+        "lng": "-67.6167",
+        "country": "Chile"
+    },
+    {
+        "name": "Cuevo",
+        "lat": "-20.4500",
+        "lng": "-63.5167",
+        "country": "Bolivia"
+    },
+    {
+        "name": "Capit\u00e1n Pablo Lagerenza",
+        "lat": "-19.9200",
+        "lng": "-60.7900",
+        "country": "Paraguay"
+    },
+    {
+        "name": "Odranci",
+        "lat": "46.5856",
+        "lng": "16.2753",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Lifford",
+        "lat": "54.8340",
+        "lng": "-7.4860",
+        "country": "Ireland"
+    },
+    {
+        "name": "Prebold",
+        "lat": "46.2369",
+        "lng": "15.0919",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Flying Fish Cove",
+        "lat": "-10.4261",
+        "lng": "105.6728",
+        "country": "Christmas Island"
+    },
+    {
+        "name": "Zgornja Kungota",
+        "lat": "46.6388",
+        "lng": "15.6141",
+        "country": "Slovenia"
+    },
+    {
+        "name": "X\u0131z\u0131",
+        "lat": "40.9078",
+        "lng": "49.0733",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Bovec",
+        "lat": "46.3378",
+        "lng": "13.5522",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Plasnica",
+        "lat": "41.4667",
+        "lng": "21.1167",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Chiradzulu",
+        "lat": "-15.7000",
+        "lng": "35.1833",
+        "country": "Malawi"
+    },
+    {
+        "name": "Alto R\u00edo Senguer",
+        "lat": "-45.0167",
+        "lng": "-70.8167",
+        "country": "Argentina"
+    },
+    {
+        "name": "Sierra Colorada",
+        "lat": "-40.5833",
+        "lng": "-67.8000",
+        "country": "Argentina"
+    },
+    {
+        "name": "Rogatec",
+        "lat": "46.2243",
+        "lng": "15.7052",
+        "country": "Slovenia"
+    },
+    {
+        "name": "G\u0127arb",
+        "lat": "36.0611",
+        "lng": "14.2092",
+        "country": "Malta"
+    },
+    {
+        "name": "Iracoubo",
+        "lat": "5.4804",
+        "lng": "-53.2200",
+        "country": "French Guiana"
+    },
+    {
+        "name": "Bourke",
+        "lat": "-30.1000",
+        "lng": "145.9333",
+        "country": "Australia"
+    },
+    {
+        "name": "Zrnovci",
+        "lat": "41.8542",
+        "lng": "22.4442",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Kipili",
+        "lat": "-7.4329",
+        "lng": "30.6000",
+        "country": "Tanzania"
+    },
+    {
+        "name": "Ungoofaaru",
+        "lat": "5.6681",
+        "lng": "73.0306",
+        "country": "Maldives"
+    },
+    {
+        "name": "Vuzenica",
+        "lat": "46.5992",
+        "lng": "15.1669",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Ust\u2019-Kuyga",
+        "lat": "70.0171",
+        "lng": "135.6000",
+        "country": "Russia"
+    },
+    {
+        "name": "Eldikan",
+        "lat": "60.8000",
+        "lng": "135.1833",
+        "country": "Russia"
+    },
+    {
+        "name": "Tumby Bay",
+        "lat": "-34.3667",
+        "lng": "136.1000",
+        "country": "Australia"
+    },
+    {
+        "name": "Turni\u0161\u010de",
+        "lat": "46.6194",
+        "lng": "16.3223",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Miren",
+        "lat": "45.8962",
+        "lng": "13.6072",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Chibemba",
+        "lat": "-15.7355",
+        "lng": "13.8905",
+        "country": "Angola"
+    },
+    {
+        "name": "Alexander Bay",
+        "lat": "-28.6083",
+        "lng": "16.5033",
+        "country": "South Africa"
+    },
+    {
+        "name": "Halls Creek",
+        "lat": "-18.2300",
+        "lng": "127.6700",
+        "country": "Australia"
+    },
+    {
+        "name": "Tajarh\u012b",
+        "lat": "24.2622",
+        "lng": "14.5603",
+        "country": "Libya"
+    },
+    {
+        "name": "Art\u00ebmovsk",
+        "lat": "54.3483",
+        "lng": "93.4356",
+        "country": "Russia"
+    },
+    {
+        "name": "Nova Crnja",
+        "lat": "45.6667",
+        "lng": "20.6000",
+        "country": "Serbia"
+    },
+    {
+        "name": "Lokwabe",
+        "lat": "-24.0961",
+        "lng": "21.7781",
+        "country": "Botswana"
+    },
+    {
+        "name": "Clervaux",
+        "lat": "50.0500",
+        "lng": "6.0333",
+        "country": "Luxembourg"
+    },
+    {
+        "name": "Dragomer",
+        "lat": "46.0189",
+        "lng": "14.3820",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Munxar",
+        "lat": "36.0303",
+        "lng": "14.2353",
+        "country": "Malta"
+    },
+    {
+        "name": "Kranjska Gora",
+        "lat": "46.4854",
+        "lng": "13.7871",
+        "country": "Slovenia"
+    },
+    {
+        "name": "\u0160entjernej",
+        "lat": "45.8389",
+        "lng": "15.3361",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Cerkno",
+        "lat": "46.1278",
+        "lng": "13.9875",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Oplotnica",
+        "lat": "46.3860",
+        "lng": "15.4458",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Machinga",
+        "lat": "-14.9667",
+        "lng": "35.5167",
+        "country": "Malawi"
+    },
+    {
+        "name": "Port Denison",
+        "lat": "-29.2750",
+        "lng": "114.9194",
+        "country": "Australia"
+    },
+    {
+        "name": "Tsau",
+        "lat": "-20.1650",
+        "lng": "22.4544",
+        "country": "Botswana"
+    },
+    {
+        "name": "Uummannaq",
+        "lat": "70.6747",
+        "lng": "-52.1264",
+        "country": "Greenland"
+    },
+    {
+        "name": "Xocal\u0131",
+        "lat": "39.9111",
+        "lng": "46.7892",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "\u0160martno",
+        "lat": "46.0441",
+        "lng": "14.8466",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Penola",
+        "lat": "-37.3786",
+        "lng": "140.8362",
+        "country": "Australia"
+    },
+    {
+        "name": "Mirna",
+        "lat": "45.9476",
+        "lng": "15.0664",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Kazachye",
+        "lat": "70.7522",
+        "lng": "136.2342",
+        "country": "Russia"
+    },
+    {
+        "name": "Selnica ob Dravi",
+        "lat": "46.5514",
+        "lng": "15.4947",
+        "country": "Slovenia"
+    },
+    {
+        "name": "Kingston South East",
+        "lat": "-36.8167",
+        "lng": "139.8500",
+        "country": "Australia"
+    },
+    {
+        "name": "Nyimba",
+        "lat": "-14.5495",
+        "lng": "30.8100",
+        "country": "Zambia"
+    },
+    {
+        "name": "Veymandoo",
+        "lat": "2.1881",
+        "lng": "73.0947",
+        "country": "Maldives"
+    },
+    {
+        "name": "Lubutu",
+        "lat": "-0.7431",
+        "lng": "26.5833",
+        "country": "Congo (Kinshasa)"
+    },
+    {
+        "name": "Wagin",
+        "lat": "-33.3167",
+        "lng": "117.3500",
+        "country": "Australia"
+    },
+    {
+        "name": "Fulacunda",
+        "lat": "11.7730",
+        "lng": "-15.1950",
+        "country": "Guinea-Bissau"
+    },
+    {
+        "name": "Paamiut",
+        "lat": "61.9944",
+        "lng": "-49.6667",
+        "country": "Greenland"
+    },
+    {
+        "name": "Bala Cangamba",
+        "lat": "-13.6833",
+        "lng": "19.8667",
+        "country": "Angola"
+    },
+    {
+        "name": "Tarutung",
+        "lat": "2.0167",
+        "lng": "98.9667",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Santo Ant\u00f3nio",
+        "lat": "1.6367",
+        "lng": "7.4178",
+        "country": "Sao Tome and Principe"
+    },
+    {
+        "name": "Novaci",
+        "lat": "41.0419",
+        "lng": "21.4561",
+        "country": "North Macedonia"
+    }
+]

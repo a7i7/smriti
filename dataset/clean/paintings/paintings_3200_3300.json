@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "171070",
+        "name": "Hunters in Snow",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "23760",
+        "name": "Jo, The Irish Beauty",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "171216",
+        "name": "Landscape Near Ornans",
+        "style": "Realism",
+        "artist": {
+            "name": "Gustave Courbet",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1819",
+            "death": "1877"
+        }
+    },
+    {
+        "work_id": "184159",
+        "name": "A Gypsy Dancing the Zorongo",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "184173",
+        "name": "Christ's Entry into Jerusalem",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "25995",
+        "name": "Dante and Virgil in the Ninth Circle of Hell",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "25997",
+        "name": "Flower Sellers of London",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "25999",
+        "name": "La Siesta, Memory of Spain",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "26001",
+        "name": "Landscape in Scotland",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "26003",
+        "name": "Le Christ Quittant Le Pretoire",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "26005",
+        "name": "Les Saltimbanques",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "26007",
+        "name": "Paolo and Francesca da Rimini",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "184152",
+        "name": "Puss in Boots",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "26011",
+        "name": "Soir en Alsace",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "184145",
+        "name": "Souvenir de Loch Carron, Ecosse",
+        "style": "Romanticism",
+        "artist": {
+            "name": "Gustave Dor\u00e9",
+            "nationality": "French",
+            "style": "Romantic",
+            "birth": "1832",
+            "death": "1883"
+        }
+    },
+    {
+        "work_id": "27583",
+        "name": "Dejanira (Autumn)",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Gustave Moreau",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1826",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "27585",
+        "name": "Galatea",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Gustave Moreau",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1826",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "27587",
+        "name": "Oedipus and the Sphinx",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Gustave Moreau",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1826",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "27589",
+        "name": "Orpheus",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Gustave Moreau",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1826",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "27591",
+        "name": "Saint George and the Dragon",
+        "style": "Symbolism",
+        "artist": {
+            "name": "Gustave Moreau",
+            "nationality": "French",
+            "style": "Symbolist",
+            "birth": "1826",
+            "death": "1898"
+        }
+    },
+    {
+        "work_id": "30322",
+        "name": "A Corner of the Artist's Room in Paris",
+        "style": "Nabi",
+        "artist": {
+            "name": "Gwen John",
+            "nationality": "English",
+            "style": "Nabi",
+            "birth": "1876",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "207970",
+        "name": "Girl with a Blue Scarf",
+        "style": "Nabi",
+        "artist": {
+            "name": "Gwen John",
+            "nationality": "English",
+            "style": "Nabi",
+            "birth": "1876",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "170031",
+        "name": "Portrait of a Young Nun",
+        "style": "Nabi",
+        "artist": {
+            "name": "Gwen John",
+            "nationality": "English",
+            "style": "Nabi",
+            "birth": "1876",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "129564",
+        "name": "Taking Tea",
+        "style": "Nabi",
+        "artist": {
+            "name": "Gwen John",
+            "nationality": "English",
+            "style": "Nabi",
+            "birth": "1876",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "170020",
+        "name": "The Convalescent",
+        "style": "Nabi",
+        "artist": {
+            "name": "Gwen John",
+            "nationality": "English",
+            "style": "Nabi",
+            "birth": "1876",
+            "death": "1939"
+        }
+    },
+    {
+        "work_id": "191070",
+        "name": "A Fresh Breeze",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191005",
+        "name": "A Young Woman in a Norwegian Fjord Landscape",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "190992",
+        "name": "A Young Woman in the Meadow",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191079",
+        "name": "By the Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191115",
+        "name": "By the Water's Edge",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191106",
+        "name": "Figures in a Rowing Boat on a Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191088",
+        "name": "Fiord with Sailing Boat",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191133",
+        "name": "Fjord Landscape with Norwegian Girl",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191052",
+        "name": "Girl Beside a Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191016",
+        "name": "Girl by a Mountain Lake",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191142",
+        "name": "Herdswoman Returning Home",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191151",
+        "name": "Norwegian Girl",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191025",
+        "name": "Peasant Girl",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "190981",
+        "name": "Rowing on a Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191160",
+        "name": "Summer in the Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191034",
+        "name": "Summer in the Mountains, Norway",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191097",
+        "name": "The Eager Return",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191043",
+        "name": "The Young Harvester",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191061",
+        "name": "Young Girl by a Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "191124",
+        "name": "Young Norwegian Woman on the Bank of a Fjord",
+        "style": "Realism",
+        "artist": {
+            "name": "Hans Dahl",
+            "nationality": "Norwegian",
+            "style": "Realist",
+            "birth": "1849",
+            "death": "1937"
+        }
+    },
+    {
+        "work_id": "26725",
+        "name": "Derick Berck of Cologne",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26731",
+        "name": "Lady Guildford (Mary Wotton)",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26733",
+        "name": "Lady Lee (Margaret Wyatt)",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26735",
+        "name": "Lady Rich (Elizabeth Jenks)",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26739",
+        "name": "Portrait of a 28-Year-Old Man at His Desk",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26743",
+        "name": "Portrait of a Lady with a Squirrel and a Starling",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26745",
+        "name": "Portrait of a Young Woman",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26761",
+        "name": "Portrait of Henry VIII, King of England",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "169210",
+        "name": "Portrait of Hermann Von Wedigh III",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "169221",
+        "name": "Sir Thomas More",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "26779",
+        "name": "The Ambassadors",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "169201",
+        "name": "The Merchant Georg Gisze",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Holbein",
+            "nationality": "German",
+            "style": "Northern Renaissance",
+            "birth": "1465",
+            "death": "1524"
+        }
+    },
+    {
+        "work_id": "27609",
+        "name": "A Young Man at Prayer",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "27615",
+        "name": "Mary of Burgundy",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "27617",
+        "name": "Portrait of a Man Seated in an Armchair",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "27623",
+        "name": "Portrait of an Old Man",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "169235",
+        "name": "The Donne Triptych",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "27631",
+        "name": "The Virgin and Child with an Angel",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "27641",
+        "name": "Virgin and Child with Saints Catherine of Alexandria and Barbara",
+        "style": "Renaissance",
+        "artist": {
+            "name": "Hans Memling",
+            "nationality": "Dutch",
+            "style": "Northern Renaissance",
+            "birth": "1435",
+            "death": "1494"
+        }
+    },
+    {
+        "work_id": "135601",
+        "name": "Bavarian Landscape with Wagon",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "29926",
+        "name": "Bucolic Landscape",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "29928",
+        "name": "Entry into Jerusalem",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135556",
+        "name": "Girl with Chicken",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135460",
+        "name": "Horse in the Port",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135480",
+        "name": "Man, Horse, Cow",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135565",
+        "name": "Mary Annunciation",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135540",
+        "name": "Mountain Goats (Flowers and Animals)",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "29930",
+        "name": "Raising the Cross",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135574",
+        "name": "Sitting Nude Dedicated to Adda",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135500",
+        "name": "The Anglers",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135583",
+        "name": "The Cowherd",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135592",
+        "name": "The White Tree",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135400",
+        "name": "Two Heads",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "29932",
+        "name": "Woman and Animals Amidst Nature",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "135420",
+        "name": "Woman on the Balcony",
+        "style": "Expressionism",
+        "artist": {
+            "name": "Heinrich Campendonk",
+            "nationality": "German",
+            "style": "Expressionist",
+            "birth": "1889",
+            "death": "1957"
+        }
+    },
+    {
+        "work_id": "21040",
+        "name": "A Scene on the Ice Near a Town",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21038",
+        "name": "A Scene on the Ice",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21044",
+        "name": "Enjoying the Ice Near a Town",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21042",
+        "name": "Enjoying the Ice",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21046",
+        "name": "Kolfplayers on Ice",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21048",
+        "name": "On the Ice",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21052",
+        "name": "Winter Landscape with a Hunter Shooting Duck",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21054",
+        "name": "Winter Landscape with Ice Skaters",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "21056",
+        "name": "Winter Scene on a Frozen Canal",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Avercamp",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1585",
+            "death": "1634"
+        }
+    },
+    {
+        "work_id": "191242",
+        "name": "A Dutch Yacht and Other Vessels Becalmed Near the Shore",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191171",
+        "name": "A Moonlit Coastal Landscape with Fishermen in the Foreground",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191180",
+        "name": "A Smalschip with Two Dutch East Indiamen Coming to Anchor",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191191",
+        "name": "Calm Sea",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191200",
+        "name": "Ice Skating on the Eastern Docks of Amsterdam",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191232",
+        "name": "Ships Outside Dordrecht",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191257",
+        "name": "Smalschips in a Calm Near the Shore at Sunset",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "191223",
+        "name": "View of Batavia",
+        "style": "",
+        "artist": {
+            "name": "Hendrick Dubbels",
+            "nationality": "Dutch",
+            "style": "Marine Art",
+            "birth": "1621",
+            "death": "1676"
+        }
+    },
+    {
+        "work_id": "23406",
+        "name": "A Lute Player",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Ter Brugghen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1588",
+            "death": "1629"
+        }
+    },
+    {
+        "work_id": "23408",
+        "name": "Bacchante with an Ape",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Ter Brugghen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1588",
+            "death": "1629"
+        }
+    },
+    {
+        "work_id": "23410",
+        "name": "Jacob Reproaching Laban",
+        "style": "Baroque",
+        "artist": {
+            "name": "Hendrick Ter Brugghen",
+            "nationality": "Dutch",
+            "style": "Baroque",
+            "birth": "1588",
+            "death": "1629"
+        }
+    }
+]

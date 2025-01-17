@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "173971",
+        "name": "Une Nuit en Hiver",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "174215",
+        "name": "Usines et Fleuve",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173961",
+        "name": "Village Anime sous la Neige",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173951",
+        "name": "Village au bord de la Rivie`re",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173941",
+        "name": "Village dans le Perche",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173921",
+        "name": "Village Pres de la Riviere",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173890",
+        "name": "Voiliers sur la Marne",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173900",
+        "name": "Voiliers",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "173931",
+        "name": "Vue de Village",
+        "style": "Fauvism",
+        "artist": {
+            "name": "Maurice De Vlaminck",
+            "nationality": "French",
+            "style": "Fauvist",
+            "birth": "1876",
+            "death": "1958"
+        }
+    },
+    {
+        "work_id": "149583",
+        "name": "La dune Rose",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149364",
+        "name": "La Maison a L'Oree du Bois",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149924",
+        "name": "La Maison Derriere la Grille, Dite la Maison du Poete",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149594",
+        "name": "La Palais de la Reine de Volupte from la Legende de Saint Christophe",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149605",
+        "name": "La Pecheresse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149616",
+        "name": "La Princesse dans la Tour",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149627",
+        "name": "La Source",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150060",
+        "name": "La Tonnelle, Ker Guen",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "30162",
+        "name": "Lapoutroie",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149638",
+        "name": "Le Bain (de Madeleine)",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149649",
+        "name": "Le Bateau Fleuri, Regates de Ploumanach",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149373",
+        "name": "Le Gouter sous les Chataigniers",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149382",
+        "name": "Le Mystere Catholique",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149660",
+        "name": "Le Pont Saint-Ange",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149391",
+        "name": "Le Port de New York",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149400",
+        "name": "Le Reveil d'Ulysse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149987",
+        "name": "Legende de Chevalerie ou Trois Jeunes Princesses",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149409",
+        "name": "Les Jardins D'Armide, Esquisse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150132",
+        "name": "Les Jeux des Laveuses",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150141",
+        "name": "Les Orphelines",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149418",
+        "name": "Les Rochers Noirs",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150069",
+        "name": "Maternite a la Pomme",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149682",
+        "name": "Maternite, Anne-Marie et Marthe a la Bague Ovale",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149935",
+        "name": "Maternite Ensoleillee",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150078",
+        "name": "Maternite or la Grande Seur au Prieure",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149671",
+        "name": "Miracle de Saint Efflam",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149693",
+        "name": "Nu de Dos au Crepuscule",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150087",
+        "name": "Nymphes or la Seine a Port-Marly",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "30164",
+        "name": "October Evening",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149427",
+        "name": "Paradise",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149436",
+        "name": "Paysage de Campagne",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150096",
+        "name": "Petite vue de Venise",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149445",
+        "name": "Plage au Cerf-Volant",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149946",
+        "name": "Portrait de Madame Boubee",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150114",
+        "name": "Portrait de Mme Genet, sur le Trieux",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149997",
+        "name": "Portrait d'Odette Frizac",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "150105",
+        "name": "Portrait d'Une Demoiselle Roussi",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149704",
+        "name": "Portraits de deux Fillettes, Etude pour &quot;Notre Dame de l'E\u00b4cole&quot;",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149715",
+        "name": "Printemps dans la Foret, Etude ou Paysage Blanc",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149454",
+        "name": "Roger at Angelique",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149463",
+        "name": "Roscoff la Tourelle Marie Stuart",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149726",
+        "name": "Sainte Famille",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149737",
+        "name": "San Domenico de Sienne",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149472",
+        "name": "September Evening",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149748",
+        "name": "Soir sur la Plage, Apres le Bain",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149759",
+        "name": "Sous le Pommier",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149481",
+        "name": "Terrase a Fiesole, Dante et Beatrice",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "30168",
+        "name": "The Muse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149957",
+        "name": "The Story of Psyche",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149781",
+        "name": "Triple Portrait de Marthe Fiancee",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149490",
+        "name": "Une Reunion Musicale",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149792",
+        "name": "Venise",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149499",
+        "name": "Venise (Petite vue sous les Arcades)",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149803",
+        "name": "Vierge aux Cerises",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149968",
+        "name": "Vierge de Saint-Gonery",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149814",
+        "name": "Vignes a Bessan, Recto pont de Bordeaux, Verso",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149825",
+        "name": "Villa D'Este",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149836",
+        "name": "Villa Lante",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149847",
+        "name": "Visite dans la Chambre Violette",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "149508",
+        "name": "Vue de Toulouse",
+        "style": "Nabi",
+        "artist": {
+            "name": "Maurice Denis",
+            "nationality": "French",
+            "style": "Nabi",
+            "birth": "1870",
+            "death": "1943"
+        }
+    },
+    {
+        "work_id": "22685",
+        "name": "Ladies in a Seaside Arbor",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22686",
+        "name": "Landscape Near Nahant",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198059",
+        "name": "Landscape (Park Scene)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198067",
+        "name": "Landscape (Road &amp; Town)",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198023",
+        "name": "Landscape with Figures",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198099",
+        "name": "Marblehead Harbor",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22688",
+        "name": "New England Harbor",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22690",
+        "name": "On the Shore",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22691",
+        "name": "Opal Sea",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22692",
+        "name": "Paris Omnibus",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22693",
+        "name": "Peaches Point",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22695",
+        "name": "Picnic by the Inlet",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22696",
+        "name": "Ponte Della Paglia",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22697",
+        "name": "Portrait of a Girl with Flowers",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22699",
+        "name": "Salem Willows",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198035",
+        "name": "Seascape St. Malo",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22700",
+        "name": "Seashore",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22701",
+        "name": "Snow in April",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22703",
+        "name": "Still Life, Fruit and Flowers",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22705",
+        "name": "Sunset and Sea Fog",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198135",
+        "name": "The Beach &quot;No. 3&quot;",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22706",
+        "name": "The Cove",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22707",
+        "name": "The Idlers",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22708",
+        "name": "The Park at Sunset",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22711",
+        "name": "The Swans",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "198123",
+        "name": "Trees, Houses, People",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "22712",
+        "name": "Under the Trees",
+        "style": "Post-Impressionism",
+        "artist": {
+            "name": "Maurice Prendergast",
+            "nationality": "American",
+            "style": "Post-Impressionist",
+            "birth": "1858",
+            "death": "1924"
+        }
+    },
+    {
+        "work_id": "175095",
+        "name": "Eglise, Cremieux (Isere)",
+        "style": "Realism",
+        "artist": {
+            "name": "Maurice Utrillo",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1883",
+            "death": "1955"
+        }
+    },
+    {
+        "work_id": "175065",
+        "name": "Eglise de Provence",
+        "style": "Realism",
+        "artist": {
+            "name": "Maurice Utrillo",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1883",
+            "death": "1955"
+        }
+    },
+    {
+        "work_id": "172806",
+        "name": "Eglise de Saint-Bernard",
+        "style": "Realism",
+        "artist": {
+            "name": "Maurice Utrillo",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1883",
+            "death": "1955"
+        }
+    },
+    {
+        "work_id": "172816",
+        "name": "Eglise de Saint-Hilarion (Seine-et-Oise)",
+        "style": "Realism",
+        "artist": {
+            "name": "Maurice Utrillo",
+            "nationality": "French",
+            "style": "Realist",
+            "birth": "1883",
+            "death": "1955"
+        }
+    }
+]

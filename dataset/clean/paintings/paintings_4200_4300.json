@@ -1,0 +1,1202 @@
+[
+    {
+        "work_id": "20888",
+        "name": "Study of Flowers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "20890",
+        "name": "Summer Scene (Bathers)",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "20892",
+        "name": "The Artists Studio on the Rue de la Condamine",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "20894",
+        "name": "The Banks of the Lez",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "20896",
+        "name": "The Pink Dress",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "20898",
+        "name": "View of the Village",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean Fr\u00e9d\u00e9ric Bazille",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1841",
+            "death": "1870"
+        }
+    },
+    {
+        "work_id": "31746",
+        "name": "Fra Angelico Visit by the Angels",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Hippolyte Flandrin",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1809",
+            "death": "1864"
+        }
+    },
+    {
+        "work_id": "31748",
+        "name": "Napoleon III in Uniform of Major General",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Hippolyte Flandrin",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1809",
+            "death": "1864"
+        }
+    },
+    {
+        "work_id": "204933",
+        "name": "Rene-Charles Dassy and His Brother Jean-Baptiste-Claude-Amede Dassy",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Hippolyte Flandrin",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1809",
+            "death": "1864"
+        }
+    },
+    {
+        "work_id": "31750",
+        "name": "The Sacrifice of Isaac",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Hippolyte Flandrin",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1809",
+            "death": "1864"
+        }
+    },
+    {
+        "work_id": "31752",
+        "name": "Young Man Beside the Sea",
+        "style": "Neo-Classicism",
+        "artist": {
+            "name": "Jean-Hippolyte Flandrin",
+            "nationality": "French",
+            "style": "Neoclassical",
+            "birth": "1809",
+            "death": "1864"
+        }
+    },
+    {
+        "work_id": "174225",
+        "name": "A Lady and Her Maid Chastising a Spaniel",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26145",
+        "name": "A Woman with a Dog",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "174288",
+        "name": "A Young Girl Sleeping",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26147",
+        "name": "Amanti Felici",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "174274",
+        "name": "Dans les Ble\u00b4s",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26149",
+        "name": "Diana and Endymion",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26151",
+        "name": "Interior Scene",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26153",
+        "name": "Jeroboam Sacrificing to the Idols",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "174297",
+        "name": "Pastoral Landscape with a Shepherd and Shepherdess at Rest",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26157",
+        "name": "Portrait of a Man Called, The Warrior",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26161",
+        "name": "Psyche Showing Her Sisters Her Gifts from Cupid",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26163",
+        "name": "The Bolt",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26165",
+        "name": "The Feigned Flight",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26167",
+        "name": "The Fountain of Love",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "174281",
+        "name": "The Goddess Aurora Triumphing Over Night",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26169",
+        "name": "The Happy Mother",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26171",
+        "name": "The Lover Crowned",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26175",
+        "name": "The Progress of Love",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "174245",
+        "name": "The Sacrifice of the Rose",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26179",
+        "name": "The Stolen Kiss",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "26181",
+        "name": "The Swing",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Honor\u00e9 Fragonard",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1732",
+            "death": "1806"
+        }
+    },
+    {
+        "work_id": "177900",
+        "name": "A Bashi-Bazouk and His Dog",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19381",
+        "name": "A Bashi Bazouk",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19383",
+        "name": "A Cafe\u00b4 in Cairo",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177935",
+        "name": "A Hot Day in Cairo in Front of the Mosque",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177737",
+        "name": "A Sultan at Prayer",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19389",
+        "name": "Al Buraq Wall",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177746",
+        "name": "Almehs Playing Draughts",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19391",
+        "name": "An Arab Caravan Outside a Fortified Town, Egypt",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "200800",
+        "name": "Arab Woman in a Doorway",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19393",
+        "name": "Arabs Arguing",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19397",
+        "name": "Arnaut Blowing Smoke at the Nose of His Dog",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19399",
+        "name": "Arnaut Whippets with Two Dogs",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177978",
+        "name": "At Prayer, Cairo",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19403",
+        "name": "Bashi Bazouk Singing",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177907",
+        "name": "Bather at the Bush Pool",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19405",
+        "name": "Bathing Scene",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19407",
+        "name": "Bathsheba",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177755",
+        "name": "Before the Audience",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19409",
+        "name": "Belle of Nelson, Old fashion, Home Made Sour Mash, Whiskey",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "192400",
+        "name": "Black Bashi Bazouk",
+        "style": "",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19413",
+        "name": "Cairene Horse Dealer (The Horse Market)",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177773",
+        "name": "Cairo Arnaut Guard Corps",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19415",
+        "name": "Cairo",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177992",
+        "name": "Caravan Passing the Colossi of Memnon, Thebes",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177764",
+        "name": "Cleopatra and Caesar",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177985",
+        "name": "Diane and Acteon",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "177942",
+        "name": "Dollar, a Bay Hunter in a Loose Box",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "19419",
+        "name": "Duel After the Masked Ball",
+        "style": "Orientalism",
+        "artist": {
+            "name": "Jean-L\u00e9on G\u00e9r\u00f4me",
+            "nationality": "French",
+            "style": "Orientalist",
+            "birth": "1824",
+            "death": "1904"
+        }
+    },
+    {
+        "work_id": "26199",
+        "name": "Behind the Scenes",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26201",
+        "name": "Cafe\u00b4 Maxim, Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26203",
+        "name": "Can-Can Dancers",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26205",
+        "name": "Dancer",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26207",
+        "name": "Dancer on the Set",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26209",
+        "name": "Dancer with a Hoop",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26211",
+        "name": "Dancers in Pink",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26213",
+        "name": "Dancers Resting",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26215",
+        "name": "Interlude",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26217",
+        "name": "Standing Dancer",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26219",
+        "name": "The Jardin de Paris",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26221",
+        "name": "The Public Garden",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "26223",
+        "name": "The Singer in Pink",
+        "style": "Impressionism",
+        "artist": {
+            "name": "Jean-Louis Forain",
+            "nationality": "French",
+            "style": "Impressionist",
+            "birth": "1852",
+            "death": "1931"
+        }
+    },
+    {
+        "work_id": "176407",
+        "name": "A Reclining Lady as the Penitent Magdalene",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30887",
+        "name": "Henriette de France en Flore",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176416",
+        "name": "Justice Punishing Injustice Called Madame Adelaide as Justice",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30889",
+        "name": "Madame de Maison-Rouge as Diana",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176434",
+        "name": "Madame Dupleix de Bacquencourt, nee Jeanne-Henriette de Lalleu",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30891",
+        "name": "Madame Marsollier and Her Daughter",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30893",
+        "name": "Manon Balletti",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30895",
+        "name": "Marie Francoise de La Cropte de St. Abre, Marquise d'Argence",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176443",
+        "name": "Portrait de Jeanne-Antoinette Poisson, Marquise de Pompadour, en Diane",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176452",
+        "name": "Portrait de la Marquise de Clermont Gallerande",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176461",
+        "name": "Portrait de Louis XV ou du Duc de Penthie`vre",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176470",
+        "name": "Portrait de Rene\u00b4 Pahoyau de Bonneval",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176479",
+        "name": "Portrait of a Gentleman, Wearing a Red Cloak and Holding A Miniature",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176488",
+        "name": "Portrait of a Lady Holding a Carnation, La Duchesse De Chateau Ateauroux",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176497",
+        "name": "Portrait of a Lady Leaning on a Balustrade",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176506",
+        "name": "Portrait of a Lady, The Duchesse de la Rochefoucauld in a Blue and White Satin Dress",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30897",
+        "name": "Portrait of a Man in Armour",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "207044",
+        "name": "Portrait of a Woman as Diana",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176533",
+        "name": "Portrait of a Woman as Flora",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30899",
+        "name": "Portrait of a Woman, Marquise Perrin de Cypierre",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176542",
+        "name": "Portrait of Empress Catherine I",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176551",
+        "name": "Portrait of Fernando de Silva y Alvarez of Toledo, 12th Duke of Alba and Duke of Huescar",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176560",
+        "name": "Portrait of Francis Greville, Baron Brooke, Earl of Warwick",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176569",
+        "name": "Portrait of Francois-Rene\u00b4e de Carbonnel de Canisy, Marquise d'Antin",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176578",
+        "name": "Portrait of Jean Victor de Rochechouart, Duc De Mortemart",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "30901",
+        "name": "Portrait of Madame Bonnier de la Mosson as Diana",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    },
+    {
+        "work_id": "176515",
+        "name": "Portrait of Madame de Serent in a Silver Embroidered Silk Dress",
+        "style": "Rococo",
+        "artist": {
+            "name": "Jean-Marc Nattier",
+            "nationality": "French",
+            "style": "Rococo",
+            "birth": "1685",
+            "death": "1766"
+        }
+    }
+]
