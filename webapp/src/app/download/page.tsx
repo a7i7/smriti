@@ -7,7 +7,9 @@ import Button from "@mui/material/Button";
 import worker_script from "./worker";
 import { CLASSES, FILE_URL } from "../classes";
 import { truncateSync } from "node:fs";
+import { useRouter } from "next/navigation";
 const DatabaseDownloader = () => {
+  const router = useRouter();
   const [progressByClass, setProgressByClass] = useState<
     {
       [key: string]: "not_started" | "in_progress" | "completed" | "error";
@@ -60,6 +62,17 @@ const DatabaseDownloader = () => {
       };
     }
   }, [downloadStart]);
+
+  useEffect(() => {
+    const allCompleted = progressByClass.every((item) => {
+      return Object.values(item)[0] === "completed";
+    });
+
+    if (allCompleted) {
+      router.push("/");
+    }
+  }, [progressByClass]);
+
   return (
     <Box display="flex" flexDirection="column" width={"100%"} height={"100vh"}>
       <Box

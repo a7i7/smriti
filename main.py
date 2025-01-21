@@ -11,7 +11,7 @@ classes = [
     {"title": "Songs", "files":["songs.json"]},
     {"title": "People", "files":["people.json"]},
     {"title": "Books", "files":["books.json"]},
-    {"title": "Recipes", "files":["recipes_chunk1.json","recipes_chunk2.json","recipes_chunk3.json"]}
+    {"title": "Recipes", "files":["recipes.json"]}
 ]
 
 def loadJsonData(files):
@@ -91,8 +91,8 @@ def generateMetadata():
 mnemo = Mnemonic("english")
 
 # Seed phrase
-seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
-
+# seed_phrase = "scale certain elegant void crane survey wheat mind baby fringe cat turkey"
+seed_phrase = "embrace east bind reflect ketchup climb rhythm fatigue explain boring oil life"
 # Convert seed phrase to entropy
 entropy = mnemo.to_entropy(seed_phrase)
 
@@ -102,7 +102,7 @@ print(entropy)
 print(entropy_integer)
 for byte in entropy:
     print(byte)
-# generate_memory_phrase(entropy_integer)
+generate_memory_phrase(entropy_integer)
 
 # print(generate_entropy_from_memory_phrase([3917, 9799, 727, 13396, 11140, 48344, 5305, 13446, 136][::-1]))
 

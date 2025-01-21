@@ -52,8 +52,6 @@ const workerCode = () => {
             }
 
             const data = await response.json();
-            // console.log(`Fetched data from ${file}`);
-            // console.log(data);
 
             const tx = db.transaction(cls.title, "readwrite");
             const store = tx.objectStore(cls.title);

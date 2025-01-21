@@ -31,7 +31,7 @@ def loadJsonData():
 		combined_data = []
 		for file in c["files"]:
 			try:
-				with open(f"clean2/{file}", 'r') as f:
+				with open(f"clean/{file}", 'r') as f:
 					data = json.load(f)
 					combined_data.extend(data)  # Merge dictionaries
 			except (json.JSONDecodeError, FileNotFoundError, ValueError) as e:
@@ -381,10 +381,10 @@ def splitIntoChunks():
 # for x in recipes:
 # 	print(x)
 # 	time
-# data = loadJsonData()
+data = loadJsonData()
 # print(len(data))
-# generateTable(data)
-splitIntoChunks()
+generateTable(data)
+# splitIntoChunks()
 
 # split_json_file("clean/recipes.json",3)
 

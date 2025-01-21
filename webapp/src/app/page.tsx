@@ -19,6 +19,7 @@ import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { getEncodedIndexes, METADATA } from "./brain";
 import * as bip39 from "@scure/bip39";
+import { CLASSES } from "./classes";
 
 interface SeedPhraseFormValues {
   phrase0: string;
@@ -59,7 +60,7 @@ const Encode = () => {
   const onSubmit: SubmitHandler<SeedPhraseFormValues> = async (
     data: SeedPhraseFormValues
   ) => {
-    console.log(data);
+    console.log(Object.values(data).join(" "));
     const seedPhrase = Array.from({ length: 12 })
       .map((_, i) => data[`phrase${i}`])
       .join(" ");
@@ -107,6 +108,59 @@ const Encode = () => {
       setGenerateSeedPhrase(false);
     }
   }, [generateSeedPhrase]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      if (!memoryIndexes) {
+        return;
+      }
+      try {
+        // Open the IndexedDB
+        const request = indexedDB.open("MyDatabase");
+
+        request.onsuccess = (event) => {
+          const db = event.target.result;
+
+          CLASSES.forEach((cls, i) => {
+            const transaction = db.transaction(cls.title, "readonly");
+            const objectStore = transaction.objectStore(cls.title);
+
+            const data = objectStore.get(memoryIndexes[i]);
+
+            data.onsuccess = () => {
+              const result = data.result;
+              console.log(result);
+              setGenerationStatus((prev) => {
+                return prev.map((item, index) => {
+                  if (index === i) {
+                    return {
+                      ...item,
+                      status: "completed",
+                      data: result,
+                    };
+                  }
+                  return item;
+                });
+              });
+            };
+
+            data.onerror = () => {
+              console.error("Error counting data:", data.error);
+            };
+          });
+        };
+      } catch (error) {
+        console.error("Unexpected error:", error);
+      }
+    };
+
+    fetchData();
+
+    // Cleanup (optional)
+    return () => {
+      // Any cleanup logic if required
+    };
+  }, [memoryIndexes]); // Empty dependency array ensures this runs once on mount.
 
   return (
     <Box
@@ -251,7 +305,7 @@ const Encode = () => {
                     <Typography variant="h4">{METADATA[i].title}</Typography>
                     <Typography variant="body1">{index}</Typography>
                     <Typography variant="body2">
-                      {generationStatues[i].data}
+                      {JSON.stringify(generationStatues[i].data)}
                     </Typography>
                     <Divider />
                   </CardContent>
