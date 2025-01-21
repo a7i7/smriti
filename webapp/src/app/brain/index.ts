@@ -2,15 +2,15 @@ import { wordlist } from "@scure/bip39/wordlists/english";
 import * as bip39 from "@scure/bip39";
 
 export const METADATA = [
-  { title: "Board Games", length: 10532 },
-  { title: "Birds", length: 11533 },
-  { title: "Paintings", length: 13422 },
-  { title: "Movies", length: 45466 },
-  { title: "Cities", length: 47868 },
-  { title: "Songs", length: 57650 },
-  { title: "People", length: 88937 },
-  { title: "Books", length: 103063 },
-  { title: "Recipes", length: 2231142 },
+  { title: "Board Games", length: 10532, key: "boardGames" },
+  { title: "Birds", length: 11533, key: "birds" },
+  { title: "Paintings", length: 13422, key: "paintings" },
+  { title: "Movies", length: 45466, key: "movies" },
+  { title: "Cities", length: 47868, key: "cities" },
+  { title: "Songs", length: 57650, key: "songs" },
+  { title: "People", length: 88937, key: "people" },
+  { title: "Books", length: 103063, key: "books" },
+  { title: "Recipes", length: 96608, key: "recipes" },
 ];
 
 export const getEncodedIndexes = (seedphrase: string) => {

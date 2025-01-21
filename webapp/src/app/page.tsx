@@ -11,16 +11,14 @@ import {
   Card,
   CardActionArea,
   CardContent,
-  IconButton,
-  LinearProgress,
+  Divider,
   TextField,
 } from "@mui/material";
 import { wordlist } from "@scure/bip39/wordlists/english";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { getEncodedIndexes } from "./brain";
+import { getEncodedIndexes, METADATA } from "./brain";
 import * as bip39 from "@scure/bip39";
-import RefreshIcon from "@mui/icons-material/Refresh";
 
 interface SeedPhraseFormValues {
   phrase0: string;
@@ -65,9 +63,7 @@ const Encode = () => {
     const seedPhrase = Array.from({ length: 12 })
       .map((_, i) => data[`phrase${i}`])
       .join(" ");
-    console.log(seedPhrase);
-    console.log(seedPhrase);
-    console.log(getEncodedIndexes(seedPhrase));
+    setMemoryIndexes(getEncodedIndexes(seedPhrase));
   };
 
   const cards = [
@@ -86,6 +82,20 @@ const Encode = () => {
   const [selectedCard, setSelectedCard] = React.useState<string | null>(null);
 
   const [generateSeedPhrase, setGenerateSeedPhrase] = React.useState(false);
+
+  const [memoryIndexes, setMemoryIndexes] = React.useState<number[] | null>(
+    null
+  );
+
+  const [generationStatues, setGenerationStatus] = React.useState(
+    METADATA.map((m) => {
+      return {
+        title: m.title,
+        status: "not_started",
+        data: undefined,
+      };
+    })
+  );
 
   useEffect(() => {
     if (generateSeedPhrase) {
@@ -159,9 +169,6 @@ const Encode = () => {
                 }}
               >
                 <CardContent sx={{ height: "100%" }}>
-                  {/* {card.id === "random" && (
-                    <RefreshIcon sx={{ alignSelf: "end" }} />
-                  )} */}
                   <Typography variant="h5" component="div">
                     {card.title}
                   </Typography>
@@ -226,6 +233,34 @@ const Encode = () => {
           </Grid>
         </Box>
       </form>
+      <Box
+        width="100%"
+        display={"flex"}
+        flexDirection={"column"}
+        paddingX={"20%"}
+      >
+        {memoryIndexes && (
+          <Box display={"flex"} flexDirection={"column"} gap="24px">
+            <Typography variant="h3" gutterBottom>
+              Memory
+            </Typography>
+            {memoryIndexes.map((index, i) => {
+              return (
+                <Card key={i}>
+                  <CardContent>
+                    <Typography variant="h4">{METADATA[i].title}</Typography>
+                    <Typography variant="body1">{index}</Typography>
+                    <Typography variant="body2">
+                      {generationStatues[i].data}
+                    </Typography>
+                    <Divider />
+                  </CardContent>
+                </Card>
+              );
+            })}
+          </Box>
+        )}
+      </Box>
     </Box>
   );
 };

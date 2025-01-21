@@ -23,6 +23,25 @@ const workerCode = () => {
       console.log("Database opened successfully");
 
       for (const cls of CLASSES) {
+        // Read data from files and store in indexedDB
+
+        const transaction = db.transaction(cls.title, "readonly");
+        const objectStore = transaction.objectStore(cls.title);
+
+        // Count the entries
+        const countRequest = objectStore.count();
+
+        countRequest.onsuccess = function () {
+          const count = countRequest.result;
+          console.log(
+            `Entries in ${cls.title}: ${cls.length}:: count ${count}`
+          );
+          if (count === cls.length) {
+            self.postMessage({ title: cls.title, status: "completed" });
+            return;
+          }
+        };
+
         self.postMessage({ title: cls.title, status: "in_progress" });
 
         for (const file of cls.files) {
@@ -33,8 +52,8 @@ const workerCode = () => {
             }
 
             const data = await response.json();
-            console.log(`Fetched data from ${file}`);
-            console.log(data);
+            // console.log(`Fetched data from ${file}`);
+            // console.log(data);
 
             const tx = db.transaction(cls.title, "readwrite");
             const store = tx.objectStore(cls.title);
