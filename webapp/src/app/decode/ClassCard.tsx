@@ -3,12 +3,15 @@ import CardActionArea from "@mui/material/CardActionArea";
 import CardContent from "@mui/material/CardContent";
 import { CLASSES } from "../classes";
 import Typography from "@mui/material/Typography";
+import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
 export interface ClassCardProps {
   id: string;
   onClick?: () => void;
+  active: boolean;
+  completed: boolean;
 }
-const ClassCard = ({ id, onClick }: ClassCardProps) => {
+const ClassCard = ({ id, onClick, active, completed }: ClassCardProps) => {
   const cardClass = CLASSES.find((cls) => cls.id === id);
   return (
     <Card
@@ -18,15 +21,16 @@ const ClassCard = ({ id, onClick }: ClassCardProps) => {
       onClick={onClick}
     >
       <CardActionArea
-      // sx={{
-      //   height: "100%",
-      //   "&[data-active]": {
-      //     backgroundColor: "action.selected",
-      //     "&:hover": {
-      //       backgroundColor: "action.selectedHover",
-      //     },
-      //   },
-      // }}
+        data-active={active ? true : undefined}
+        sx={{
+          height: "100%",
+          "&[data-active]": {
+            backgroundColor: "action.selected",
+            "&:hover": {
+              backgroundColor: "action.selectedHover",
+            },
+          },
+        }}
       >
         <CardContent
           sx={{
@@ -41,7 +45,8 @@ const ClassCard = ({ id, onClick }: ClassCardProps) => {
           <Typography variant="h5" component="div">
             {cardClass?.title ?? ""}
           </Typography>
-          <Typography variant="body2" color="text.secondary">
+          {completed && <CheckCircleIcon color="success" />}
+          <Typography variant="h4" color="text.secondary">
             {cardClass?.emoji}
           </Typography>
         </CardContent>

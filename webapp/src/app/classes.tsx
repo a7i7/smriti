@@ -10,6 +10,63 @@ export const decodeHtmlEntities = (str: string) => {
   return doc.documentElement.textContent;
 };
 
+export const SEARCH_ATTRIBUTES_EXTRACTOR = [
+  {
+    id: "boardGames",
+    extractor: (data) => {
+      return [data.name, data.artist];
+    },
+  },
+  {
+    id: "birds",
+    extractor: (data) => {
+      return [data];
+    },
+  },
+  {
+    id: "paintings",
+    extractor: (data) => {
+      return [data.name, data.artist.name];
+    },
+  },
+  {
+    id: "movies",
+    extractor: (data) => {
+      return [data];
+    },
+  },
+  {
+    id: "cities",
+    extractor: (data) => {
+      return [data.name, data.country];
+    },
+  },
+  {
+    id: "songs",
+    extractor: (data) => {
+      return [data.Song, data.Artist];
+    },
+  },
+  {
+    id: "people",
+    extractor: (data) => {
+      return [data.name];
+    },
+  },
+  {
+    id: "books",
+    extractor: (data) => {
+      return [data.Title, data.Authors, data.Publisher];
+    },
+  },
+  {
+    id: "recipes",
+    extractor: (data) => {
+      return [data.title];
+    },
+  },
+];
+
 export const CLASSES = [
   {
     id: "boardGames",
