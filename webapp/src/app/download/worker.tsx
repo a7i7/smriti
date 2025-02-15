@@ -8,7 +8,7 @@ const workerCode = () => {
 
     dbRequest.onupgradeneeded = function (event) {
       const db = event.target?.result;
-      console.log("Upgrading database...");
+      // console.log("Upgrading database...");
 
       // Create object stores for each class if they don't exist
       for (const cls of CLASSES) {
@@ -20,7 +20,7 @@ const workerCode = () => {
 
     dbRequest.onsuccess = async function (event) {
       const db = event.target.result;
-      console.log("Database opened successfully");
+      // console.log("Database opened successfully");
 
       for (const cls of CLASSES) {
         // Read data from files and store in indexedDB

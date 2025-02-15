@@ -3,12 +3,15 @@ import React, { useEffect, useState } from "react";
 import LinearProgress from "@mui/material/LinearProgress";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
 import worker_script from "./worker";
 import { CLASSES, FILE_URL } from "../classes";
-import { truncateSync } from "node:fs";
 import { useRouter } from "next/navigation";
-const DatabaseDownloader = () => {
+
+export interface DatabaseDownloaderProps {
+  onDatabaseReady: () => void;
+}
+
+const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
   const router = useRouter();
   const [progressByClass, setProgressByClass] = useState<
     {
@@ -22,6 +25,8 @@ const DatabaseDownloader = () => {
     })
   );
   const [downloadStart, setDownloadStart] = useState(true);
+  const [message, setMessage] = useState("");
+
   const updateStatus = (
     title: string,
     status: "not_started" | "in_progress" | "completed" | "error"
@@ -46,12 +51,20 @@ const DatabaseDownloader = () => {
           status: "not_started" | "in_progress" | "completed" | "error";
         };
       }) => {
-        console.log(event.data);
         const { title, status } = event.data;
+        if (status === "in_progress") {
+          setMessage(`Validating and downloading ${title}`);
+        }
+
         updateStatus(title, status);
       };
       worker.postMessage({
-        CLASSES,
+        CLASSES: CLASSES.map((c) => {
+          return {
+            ...c,
+            render: null,
+          };
+        }),
         FILE_URL,
         dbName: "MyDatabase",
         dbVersion: 1,
@@ -69,7 +82,7 @@ const DatabaseDownloader = () => {
     });
 
     if (allCompleted) {
-      router.push("/");
+      onDatabaseReady();
     }
   }, [progressByClass]);
 
@@ -96,39 +109,23 @@ const DatabaseDownloader = () => {
         alignItems={"center"}
         justifyContent={"center"}
       >
-        <Button
-          variant="contained"
-          color="primary"
-          size="large"
-          sx={{
-            minWidth: 500,
-          }}
-          onClick={() => {
-            setDownloadStart(true);
-          }}
-        >
-          Start Progress
-        </Button>
-
-        {progressByClass.map((item, index) => {
-          const title = Object.keys(item)[0];
-          const status = Object.values(item)[0];
-          return (
-            <Box key={index} width={"40%"} mb={2}>
-              <Typography variant="h6" gutterBottom>
-                {title}
-              </Typography>
-              <LinearProgress
-                variant={
-                  status === "in_progress" ? "indeterminate" : "determinate"
-                }
-                value={status === "completed" ? 100 : 0}
-                color={status === "error" ? "error" : "success"}
-                sx={{ width: "100%", height: 10 }}
-              />
-            </Box>
-          );
-        })}
+        <Box width={"40%"} mb={2}>
+          <LinearProgress
+            variant="determinate"
+            value={Math.round(
+              (progressByClass.filter((item) => {
+                const status = Object.values(item)[0];
+                return status === "completed";
+              }).length /
+                progressByClass.length) *
+                100
+            )}
+            sx={{ width: "100%", height: 10 }}
+          />
+          <Typography variant="h6" gutterBottom sx={{ mt: 2 }}>
+            {message}
+          </Typography>
+        </Box>
       </Box>
     </Box>
   );
