@@ -14,9 +14,7 @@ const SeedPhraseModal = ({
   onClose,
   memoryIndexes,
 }: SeedPhraseModalProps) => {
-  const seedphrase = true
-    ? "avoid enemy lizard elder school cotton disorder artefact regret crater margin minute"
-    : getDecodedSeedPhrase(memoryIndexes);
+  const seedphrase = getDecodedSeedPhrase(memoryIndexes);
 
   return (
     <Modal open={open} onClose={onClose}>

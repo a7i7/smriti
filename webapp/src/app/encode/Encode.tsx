@@ -99,7 +99,11 @@ const Encode = () => {
 
   useEffect(() => {
     if (generateSeedPhrase) {
-      const words = bip39.generateMnemonic(wordlist).split(" ");
+      // const words = bip39.generateMnemonic(wordlist).split(" ");
+      const words =
+        "laundry flower allow city excite leisure mind column because fiction unlock ugly".split(
+          " "
+        );
       for (let i = 0; i < 12; i++) {
         // console.log(words[i]);
         setValue(`phrase${i}`, words[i]);
@@ -300,6 +304,7 @@ const Encode = () => {
                       gap="16px"
                       mb={2}
                     >
+                      <Typography variant="h5">{memoryIndexes[i]}</Typography>
                       <Typography variant="h5">{CLASSES[i].title}</Typography>
                       <Typography variant="h3">{CLASSES[i].emoji}</Typography>
                     </Box>

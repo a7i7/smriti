@@ -87,11 +87,11 @@ const Decode = () => {
                     })
                   );
                 });
-              if (searchResults.length < 20) {
+              if (searchResults.length < 100) {
                 console.log(searchResults);
                 setSearchResults(searchResults);
               } else {
-                setSearchResults(searchResults.slice(0, 20));
+                setSearchResults(searchResults.slice(0, 100));
               }
             }
           };
@@ -170,20 +170,23 @@ const Decode = () => {
             gap="24px"
             padding="24px"
           >
-            {CLASSES.map((item) => {
+            {CLASSES.map((item, index) => {
               return (
-                <ClassCard
-                  key={item.id}
-                  id={item.id}
-                  onClick={() => {
-                    setSearchResults([]);
-                    setSelectedClass(item.id);
-                  }}
-                  active={selectedClass === item.id}
-                  completed={selectedResults.some(
-                    (selectedItem) => selectedItem.id === item.id
-                  )}
-                />
+                <div key={item.id} className="flex flex-col">
+                  <ClassCard
+                    key={item.id}
+                    id={item.id}
+                    onClick={() => {
+                      setSearchResults([]);
+                      setSelectedClass(item.id);
+                    }}
+                    active={selectedClass === item.id}
+                    completed={selectedResults.some(
+                      (selectedItem) => selectedItem.id === item.id
+                    )}
+                  />
+                  {selectedResults[index]?.index}
+                </div>
               );
             })}{" "}
           </Box>
@@ -299,9 +302,9 @@ const Decode = () => {
           </Box>
         </Box>
       </Box>
-      {true && (
+      {showDecodedSeedPhraseModal && (
         <SeedPhraseModal
-          open={showDecodedSeedPhraseModal || true}
+          open={showDecodedSeedPhraseModal}
           onClose={() => {
             setShowDecodedSeedPhraseModal(false);
             setSelectedResults([]);
