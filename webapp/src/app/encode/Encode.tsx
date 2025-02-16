@@ -17,7 +17,7 @@ import {
 import { wordlist } from "@scure/bip39/wordlists/english";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { getEncodedIndexes, METADATA } from "../brain";
+import { getDecodedSeedPhrase, getEncodedIndexes, METADATA } from "../brain";
 import * as bip39 from "@scure/bip39";
 import { CLASSES } from "../classes";
 
@@ -101,7 +101,7 @@ const Encode = () => {
     if (generateSeedPhrase) {
       const words = bip39.generateMnemonic(wordlist).split(" ");
       for (let i = 0; i < 12; i++) {
-        console.log(words[i]);
+        // console.log(words[i]);
         setValue(`phrase${i}`, words[i]);
       }
       setGenerateSeedPhrase(false);
@@ -128,7 +128,7 @@ const Encode = () => {
 
             data.onsuccess = () => {
               const result = data.result;
-              console.log(result);
+              // console.log(result);
               setGenerationStatus((prev) => {
                 return prev.map((item, index) => {
                   if (index === i) {
@@ -315,6 +315,7 @@ const Encode = () => {
             })}
           </Box>
         )}
+        {memoryIndexes && getDecodedSeedPhrase(memoryIndexes)}
       </Box>
     </Box>
   );

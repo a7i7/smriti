@@ -7,7 +7,7 @@ import Encode from "./encode/Encode";
 const Home = () => {
   const [isReady, setIsReady] = useState(false);
 
-  if (isReady) {
+  if (isReady || true) {
     return <Encode />;
   }
 
