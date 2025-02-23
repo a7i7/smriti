@@ -12,14 +12,15 @@ import {
   CardActionArea,
   CardContent,
   Divider,
+  Paper,
   TextField,
 } from "@mui/material";
 import { wordlist } from "@scure/bip39/wordlists/english";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { getDecodedSeedPhrase, getEncodedIndexes, METADATA } from "../brain";
-import * as bip39 from "@scure/bip39";
 import { CLASSES } from "../classes";
+import * as bip39 from "@scure/bip39";
 
 interface SeedPhraseFormValues {
   phrase0: string;
@@ -99,16 +100,17 @@ const Encode = () => {
 
   useEffect(() => {
     if (generateSeedPhrase) {
-      // const words = bip39.generateMnemonic(wordlist).split(" ");
-      const words =
-        "laundry flower allow city excite leisure mind column because fiction unlock ugly".split(
-          " "
-        );
+      const words = bip39.generateMnemonic(wordlist).split(" ");
+      // const words =
+      //   "laundry flower allow city excite leisure mind column because fiction unlock ugly".split(
+      //     " "
+      //   );
       for (let i = 0; i < 12; i++) {
         // console.log(words[i]);
         setValue(`phrase${i}`, words[i]);
       }
       setGenerateSeedPhrase(false);
+      window.scrollBy(0, 100);
     }
   }, [generateSeedPhrase]);
 
@@ -157,7 +159,13 @@ const Encode = () => {
       }
     };
 
-    fetchData();
+    if (memoryIndexes) {
+      fetchData();
+      const element = document.getElementById("memory-display");
+      if (element) {
+        element.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }
 
     // Cleanup (optional)
     return () => {
@@ -169,159 +177,196 @@ const Encode = () => {
     <Box
       display="flex"
       flexDirection="column"
-      width={"100%"}
-      height={"100vh"}
-      padding="24px"
+      width="100%"
+      height="100vh"
+      bgcolor="#f4f6f8"
     >
+      {/* Header Section */}
       <Box
         width="100%"
-        height="250px"
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
+        height={250}
+        display="flex"
+        flexDirection="column"
+        justifyContent="center"
+        alignItems="center"
+        textAlign="center"
+        sx={{
+          bgcolor: "primary.main",
+          color: "white",
+          borderRadius: "12px",
+          boxShadow: 2,
+          p: 3,
+        }}
       >
-        <Typography variant="h2" gutterBottom>
-          Memory phrase
+        <Typography variant="h2" fontWeight="bold" gutterBottom>
+          Memory Phrase
         </Typography>
-        <Typography variant="h5" gutterBottom>
+        <Typography variant="h5" sx={{ opacity: 0.9 }}>
           Convert your seed phrase into a memorable story
         </Typography>
-        <Box
-          sx={{
-            gap: 2,
-          }}
-          justifyContent={"space-between"}
-          display={"flex"}
-          alignItems={"center"}
-          padding="36px 0px"
-        >
-          {cards.map((card, index) => (
-            <Card
-              key={index}
+      </Box>
+
+      {/* Card Selection Section */}
+      <Box
+        display="flex"
+        justifyContent="center"
+        gap={3}
+        flexWrap="wrap"
+        mt={4}
+        mb={4}
+      >
+        {cards.map((card, index) => (
+          <Card
+            key={index}
+            sx={{
+              maxWidth: 400,
+              borderRadius: 3,
+              transition: "0.3s",
+              boxShadow: selectedCard === card.id ? 5 : 2,
+            }}
+          >
+            <CardActionArea
+              onClick={() => {
+                setSelectedCard(card.id);
+                if (card.id === "random") {
+                  setGenerateSeedPhrase(true);
+                  setMemoryIndexes(null);
+                } else {
+                  new Array(12).fill(0).forEach((_, i) => {
+                    setValue(`phrase${i}`, "");
+                  });
+                  setMemoryIndexes(null);
+                }
+              }}
               sx={{
-                maxWidth: "400px",
+                height: "100%",
+                p: 2,
+                bgcolor: selectedCard === card.id ? "action.selected" : "white",
+                "&:hover": {
+                  bgcolor: "action.selectedHover",
+                },
               }}
             >
-              <CardActionArea
-                onClick={() => {
-                  setSelectedCard(card.id);
-                  if (card.id === "random") {
-                    setGenerateSeedPhrase(true);
-                  } else {
-                    new Array(12).fill(0).forEach((_, i) => {
-                      setValue(`phrase${i}`, "");
-                    });
-                  }
-                }}
-                data-active={selectedCard === card.id ? "" : undefined}
-                sx={{
-                  height: "100%",
-                  "&[data-active]": {
-                    backgroundColor: "action.selected",
-                    "&:hover": {
-                      backgroundColor: "action.selectedHover",
-                    },
-                  },
-                }}
-              >
-                <CardContent sx={{ height: "100%" }}>
-                  <Typography variant="h5" component="div">
-                    {card.title}
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary">
-                    {card.description}
-                  </Typography>
-                </CardContent>
-              </CardActionArea>
-            </Card>
-          ))}
-        </Box>
+              <CardContent>
+                <Typography variant="h5" fontWeight="bold">
+                  {card.title}
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  {card.description}
+                </Typography>
+              </CardContent>
+            </CardActionArea>
+          </Card>
+        ))}
       </Box>
+
+      {/* Form Section */}
       <form onSubmit={handleSubmit(onSubmit)} className="w-full">
-        <Box
-          display={"flex"}
-          flexDirection={"column"}
-          alignItems={"center"}
-          justifyContent={"center"}
-          marginRight={"20%"}
-          marginLeft={"20%"}
-        >
-          <Grid
-            container
-            border="0px solid black"
-            spacing={4}
-            paddingBottom={"36px"}
+        <Box display="flex" flexDirection="column" alignItems="center">
+          <Paper
+            elevation={3}
+            sx={{
+              width: "80%",
+              p: 4,
+              borderRadius: 3,
+              boxShadow: 2,
+              backgroundColor: "white",
+            }}
           >
-            {new Array(12).fill(0).map((_, i) => {
-              return (
-                <Grid size={6} key={i}>
+            <Grid container spacing={3}>
+              {new Array(12).fill(0).map((_, i) => (
+                <Grid item size={6} key={i}>
                   <Autocomplete
                     value={(watch(`phrase${i}`) ?? "") as string}
-                    onChange={(e, value) => {
-                      setValue(`phrase${i}`, value ?? "");
-                    }}
+                    onChange={(e, value) => setValue(`phrase${i}`, value ?? "")}
                     options={wordlist}
                     renderInput={(params) => (
-                      <TextField {...params} label={`${i + 1}.`} />
+                      <TextField {...params} label={`${i + 1}.`} fullWidth />
                     )}
                     disabled={selectedCard === "random"}
                   />
                 </Grid>
-              );
-            })}
-            <Grid
-              size={12}
-              display={"flex"}
-              justifyContent={"center"}
-              alignItems={"center"}
-            >
-              <Button variant="contained" type="submit">
-                Generate memory
-              </Button>
+              ))}
+              <Grid item xs={12} display="flex" justifyContent="center">
+                <Button variant="contained" type="submit" size="large">
+                  Generate Memory
+                </Button>
+              </Grid>
             </Grid>
-          </Grid>
+          </Paper>
         </Box>
       </form>
-      <Box
-        width="100%"
-        display={"flex"}
-        flexDirection={"column"}
-        paddingX={"20%"}
-      >
-        {memoryIndexes && (
-          <Box display={"flex"} flexDirection={"column"} gap="24px">
-            <Typography variant="h3" gutterBottom>
-              Memory
-            </Typography>
-            {memoryIndexes.map((index, i) => {
-              return (
-                <Card key={i}>
-                  <CardContent>
-                    <Box
-                      display={"flex"}
-                      alignItems={"center"}
-                      gap="16px"
-                      mb={2}
-                    >
-                      <Typography variant="h5">{memoryIndexes[i]}</Typography>
-                      <Typography variant="h5">{CLASSES[i].title}</Typography>
-                      <Typography variant="h3">{CLASSES[i].emoji}</Typography>
-                    </Box>
-                    <Divider />
-                    <Box py={3}>
-                      {generationStatues[i].data &&
-                        CLASSES[i].render(generationStatues[i].data)}
-                      <Divider />
-                    </Box>
-                  </CardContent>
-                </Card>
-              );
-            })}
+
+      {/* Memory Display Section */}
+      {memoryIndexes && (
+        <Box
+          width="100%"
+          display="flex"
+          flexDirection="column"
+          alignItems="center"
+          mt={5}
+          px={3}
+        >
+          <Typography
+            variant="h3"
+            fontWeight="bold"
+            gutterBottom
+            id="memory-display"
+          >
+            Memory
+          </Typography>
+
+          <Box
+            display="flex"
+            flexDirection="column"
+            gap={3}
+            width={{ xs: "90%", md: "70%", lg: "60%" }}
+          >
+            {memoryIndexes.map((index, i) => (
+              <Card
+                key={i}
+                sx={{
+                  borderRadius: 3,
+                  boxShadow: 3,
+                  transition: "0.3s",
+                  "&:hover": { boxShadow: 6 },
+                }}
+              >
+                <CardContent>
+                  {/* Title Row */}
+                  <Box
+                    display="flex"
+                    alignItems="center"
+                    justifyContent="space-between"
+                    gap={2}
+                    mb={2}
+                  >
+                    <Typography variant="h5" fontWeight="bold" color="primary">
+                      {CLASSES[i].title}
+                    </Typography>
+                    <Typography variant="h3">{CLASSES[i].emoji}</Typography>
+                  </Box>
+
+                  <Divider />
+
+                  {/* Generated Content */}
+                  <Box py={3}>
+                    {generationStatues[i].data &&
+                      CLASSES[i].render(generationStatues[i].data)}
+                  </Box>
+
+                  <Divider />
+                </CardContent>
+              </Card>
+            ))}
           </Box>
-        )}
-        {memoryIndexes && getDecodedSeedPhrase(memoryIndexes)}
-      </Box>
+
+          {/* Decoded Seed Phrase */}
+          <Box mt={4} width={{ xs: "90%", md: "70%", lg: "60%" }}>
+            {getDecodedSeedPhrase(memoryIndexes)}
+          </Box>
+        </Box>
+      )}
     </Box>
   );
 };

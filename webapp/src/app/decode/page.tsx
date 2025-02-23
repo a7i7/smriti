@@ -307,7 +307,6 @@ const Decode = () => {
           open={showDecodedSeedPhraseModal}
           onClose={() => {
             setShowDecodedSeedPhraseModal(false);
-            setSelectedResults([]);
           }}
           memoryIndexes={
             CLASSES.map((cls) => {

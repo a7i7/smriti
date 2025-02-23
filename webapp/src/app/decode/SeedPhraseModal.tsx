@@ -50,7 +50,12 @@ const SeedPhraseModal = ({
             <Typography variant="h2" gutterBottom>
               Decoded seed phrase
             </Typography>
-            <IconButton size="large">
+            <IconButton
+              size="large"
+              onClick={() => {
+                navigator.clipboard.writeText(seedphrase);
+              }}
+            >
               <ContentCopyIcon />
             </IconButton>
           </Box>

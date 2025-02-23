@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 import worker_script from "./worker";
 import { CLASSES, FILE_URL } from "../classes";
 import { useRouter } from "next/navigation";
+import Paper from "@mui/material/Paper";
 
 export interface DatabaseDownloaderProps {
   onDatabaseReady: () => void;
@@ -87,29 +88,45 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
   }, [progressByClass]);
 
   return (
-    <Box display="flex" flexDirection="column" width={"100%"} height={"100vh"}>
+    <Box
+      display="flex"
+      flexDirection="column"
+      width="100%"
+      height="100vh"
+      bgcolor="#f4f6f8"
+    >
+      {/* Header Section */}
       <Box
         width="100%"
-        height="250px"
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
+        height={300}
+        display="flex"
+        flexDirection="column"
+        justifyContent="center"
+        alignItems="center"
+        textAlign="center"
+        sx={{
+          bgcolor: "primary.main",
+          color: "white",
+        }}
       >
-        <Typography variant="h2" gutterBottom>
-          Memory phrase
+        <Typography variant="h2" fontWeight="bold" gutterBottom>
+          Memory Phrase
         </Typography>
-        <Typography variant="h5" gutterBottom>
+        <Typography variant="h5" sx={{ opacity: 0.9 }}>
           Convert your seed phrase into a memorable story
         </Typography>
       </Box>
+
+      {/* Progress Section */}
       <Box
-        display={"flex"}
-        flexDirection={"column"}
-        alignItems={"center"}
-        justifyContent={"center"}
+        display="flex"
+        flexDirection="column"
+        alignItems="center"
+        justifyContent="center"
+        flex={1}
+        px={3}
       >
-        <Box width={"40%"} mb={2}>
+        <Paper elevation={3} sx={{ width: "40%", p: 3, borderRadius: 3 }}>
           <LinearProgress
             variant="determinate"
             value={Math.round(
@@ -120,12 +137,18 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
                 progressByClass.length) *
                 100
             )}
-            sx={{ width: "100%", height: 10 }}
+            sx={{
+              width: "100%",
+              height: 12,
+              borderRadius: 5,
+              backgroundColor: "#e0e0e0",
+              "& .MuiLinearProgress-bar": { backgroundColor: "primary.main" },
+            }}
           />
-          <Typography variant="h6" gutterBottom sx={{ mt: 2 }}>
+          <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
             {message}
           </Typography>
-        </Box>
+        </Paper>
       </Box>
     </Box>
   );
