@@ -18,7 +18,7 @@ import {
 import { wordlist } from "@scure/bip39/wordlists/english";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { getDecodedSeedPhrase, getEncodedIndexes, METADATA } from "../brain";
+import { getEncodedIndexes, METADATA } from "../brain";
 import { CLASSES } from "../classes";
 import * as bip39 from "@scure/bip39";
 
