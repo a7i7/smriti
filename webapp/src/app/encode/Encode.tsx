@@ -60,9 +60,9 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
   const onSubmit: SubmitHandler<SeedPhraseFormValues> = async (
     data: SeedPhraseFormValues
   ) => {
-    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    // ts-expect-error Ignore until later
     const seedPhrase = Array.from({ length: 12 })
-      .map((_, i) => data[`phrase${i}`])
+      .map((_, i) => data[`phrase${i}` as keyof SeedPhraseFormValues] ?? "")
       .join(" ");
     setMemoryIndexes(getEncodedIndexes(seedPhrase));
   };
@@ -103,13 +103,10 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
   useEffect(() => {
     if (generateSeedPhrase) {
       const words = bip39.generateMnemonic(wordlist).split(" ");
-      // const words =
-      //   "laundry flower allow city excite leisure mind column because fiction unlock ugly".split(
-      //     " "
-      //   );
       for (let i = 0; i < 12; i++) {
+        const key = `phrase${i}` as keyof SeedPhraseFormValues;
         // console.log(words[i]);
-        setValue(`phrase${i}`, words[i]);
+        setValue(key, words[i]);
       }
       setGenerateSeedPhrase(false);
       window.scrollBy(0, 100);
@@ -126,6 +123,7 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
         const request = indexedDB.open("MyDatabase");
 
         request.onsuccess = (event) => {
+          // @ts-expect-error Ignore until later
           const db = event.target.result;
 
           CLASSES.forEach((cls, i) => {
@@ -252,7 +250,7 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
                   setMemoryIndexes(null);
                 } else {
                   new Array(12).fill(0).forEach((_, i) => {
-                    setValue(`phrase${i}`, "");
+                    setValue(`phrase${i}` as keyof SeedPhraseFormValues, "");
                   });
                   setMemoryIndexes(null);
                 }
@@ -296,8 +294,16 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
               {new Array(12).fill(0).map((_, i) => (
                 <Grid size={6} key={i}>
                   <Autocomplete
-                    value={(watch(`phrase${i}`) ?? "") as string}
-                    onChange={(e, value) => setValue(`phrase${i}`, value ?? "")}
+                    value={
+                      (watch(`phrase${i}` as keyof SeedPhraseFormValues) ??
+                        "") as string
+                    }
+                    onChange={(e, value) =>
+                      setValue(
+                        `phrase${i}` as keyof SeedPhraseFormValues,
+                        value ?? ""
+                      )
+                    }
                     options={wordlist}
                     renderInput={(params) => (
                       <TextField {...params} label={`${i + 1}.`} fullWidth />

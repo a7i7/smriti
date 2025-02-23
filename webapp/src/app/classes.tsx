@@ -13,55 +13,72 @@ export const decodeHtmlEntities = (str: string) => {
 export const SEARCH_ATTRIBUTES_EXTRACTOR = [
   {
     id: "boardGames",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    extractor: (data: any) => {
       return [data.name, data.artist];
     },
   },
   {
     id: "birds",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data];
     },
   },
   {
     id: "paintings",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.name, data.artist.name];
     },
   },
   {
     id: "movies",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data];
     },
   },
   {
     id: "cities",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.name, data.country];
     },
   },
   {
     id: "songs",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.Song, data.Artist];
     },
   },
   {
     id: "people",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.name];
     },
   },
   {
     id: "books",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.Title, data.Authors, data.Publisher];
     },
   },
   {
     id: "recipes",
-    extractor: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+
+    extractor: (data: any) => {
       return [data.title];
     },
   },
@@ -75,8 +92,8 @@ export const CLASSES = [
     key: "name",
     length: 10334,
     emoji: "🎲",
-    render: (data) => {
-      console.log(data);
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.name}</Typography>
@@ -102,7 +119,8 @@ export const CLASSES = [
     key: null,
     length: 11503,
     emoji: "🐦",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return <Typography variant="h4">{data}</Typography>;
     },
   },
@@ -113,7 +131,8 @@ export const CLASSES = [
     key: "name",
     length: 13140,
     emoji: "🎨",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.name}</Typography>
@@ -135,7 +154,8 @@ export const CLASSES = [
     key: null,
     length: 42840,
     emoji: "🎥",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return <Typography variant="h4">{data}</Typography>;
     },
   },
@@ -146,7 +166,8 @@ export const CLASSES = [
     key: "name",
     length: 44372,
     emoji: "🌆",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.name}</Typography>
@@ -172,7 +193,8 @@ export const CLASSES = [
     key: "Song",
     length: 57623,
     emoji: "🎵",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.Song}</Typography>
@@ -189,7 +211,8 @@ export const CLASSES = [
     key: "name",
     length: 88146,
     emoji: "👤",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.name}</Typography>
@@ -228,7 +251,8 @@ export const CLASSES = [
     key: "Title",
     length: 96608,
     emoji: "📚",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.Title}</Typography>
@@ -257,7 +281,8 @@ export const CLASSES = [
     key: "title",
     length: 38879,
     emoji: "🍲",
-    render: (data) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
+    render: (data: any) => {
       return (
         <Box display={"flex"} flexDirection={"column"} gap="16px">
           <Typography variant="h4">{data.title}</Typography>

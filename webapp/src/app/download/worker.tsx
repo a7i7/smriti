@@ -7,6 +7,7 @@ const workerCode = () => {
     const dbRequest = indexedDB.open(dbName, dbVersion);
 
     dbRequest.onupgradeneeded = function (event) {
+      // @ts-expect-error Ignore until later
       const db = event.target?.result;
       // console.log("Upgrading database...");
 
@@ -19,6 +20,7 @@ const workerCode = () => {
     };
 
     dbRequest.onsuccess = async function (event) {
+      // @ts-expect-error Ignore until later
       const db = event.target.result;
       // console.log("Database opened successfully");
 
@@ -55,8 +57,8 @@ const workerCode = () => {
 
             const tx = db.transaction(cls.title, "readwrite");
             const store = tx.objectStore(cls.title);
-
-            data.forEach((item, index) => {
+            /* eslint-disable  @typescript-eslint/no-explicit-any */
+            data.forEach((item: any, index: number) => {
               store.put(item, index);
             });
 
@@ -68,7 +70,8 @@ const workerCode = () => {
             self.postMessage({ title: cls.title, status: "completed" });
             console.log(`Data from ${file} stored in ${cls.title}`);
           } catch (error) {
-            console.error(error.message);
+            console.error(`Error storing data from ${file} in ${cls.title}`);
+            console.error(error);
             self.postMessage({ title: cls.title, status: "error" });
           }
         }
@@ -76,6 +79,7 @@ const workerCode = () => {
     };
 
     dbRequest.onerror = function (event) {
+      // @ts-expect-error Ignore until later
       console.error("Database error:", event.target?.error);
     };
   };

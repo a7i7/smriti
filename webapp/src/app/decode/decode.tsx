@@ -36,6 +36,7 @@ const Decode = ({ onBack }: { onBack: () => void }) => {
         const request = indexedDB.open("MyDatabase");
 
         request.onsuccess = (event) => {
+          // @ts-expect-error Ignore until later
           const db = event.target.result;
           const classTitle = CLASSES.find(
             (cls) => cls.id === selectedClass
@@ -55,8 +56,8 @@ const Decode = ({ onBack }: { onBack: () => void }) => {
 
             if (searchExtractor) {
               const filteredResults = result
-                .map((data, index) => ({ data, index }))
-                .filter(({ data }) => {
+                .map((data: any, index: number) => ({ data, index }))
+                .filter(({ data }: { data: any }) => {
                   const tokens = searchExtractor(data)
                     .filter(Boolean)
                     .flatMap((at) => at.split(/[ @]+/))
@@ -257,13 +258,13 @@ const Decode = ({ onBack }: { onBack: () => void }) => {
                               ) {
                                 return prevData.map((item) =>
                                   item.id === selectedClass
-                                    ? { id: selectedClass, data, index }
+                                    ? { id: selectedClass ?? "", data, index }
                                     : item
                                 );
                               } else {
                                 return [
                                   ...prevData,
-                                  { id: selectedClass, data, index },
+                                  { id: selectedClass ?? "", data, index },
                                 ];
                               }
                             });
