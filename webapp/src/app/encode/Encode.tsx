@@ -52,7 +52,7 @@ const seedPhraseSchema = yup.object().shape({
   phrase11: yup.string().required(),
 });
 
-const Encode = () => {
+const Encode = ({ onBack }: { onBack: () => void }) => {
   const { register, setValue, getValues, watch, handleSubmit } =
     useForm<SeedPhraseFormValues>({
       resolver: yupResolver<SeedPhraseFormValues>(seedPhraseSchema),
@@ -80,7 +80,9 @@ const Encode = () => {
     },
   ];
 
-  const [selectedCard, setSelectedCard] = React.useState<string | null>(null);
+  const [selectedCard, setSelectedCard] = React.useState<string | null>(
+    "manual"
+  );
 
   const [generateSeedPhrase, setGenerateSeedPhrase] = React.useState(false);
 
@@ -193,11 +195,28 @@ const Encode = () => {
         sx={{
           bgcolor: "primary.main",
           color: "white",
-          borderRadius: "12px",
           boxShadow: 2,
           p: 3,
         }}
       >
+        <Box
+          width="100%"
+          display="flex"
+          justifyContent={"flex-start"}
+          alignItems={"center"}
+        >
+          <Typography
+            variant="body1"
+            fontWeight="bold"
+            gutterBottom
+            sx={{
+              cursor: "pointer",
+            }}
+            onClick={onBack}
+          >
+            Go back
+          </Typography>
+        </Box>
         <Typography variant="h2" fontWeight="bold" gutterBottom>
           Memory Phrase
         </Typography>
@@ -262,7 +281,7 @@ const Encode = () => {
 
       {/* Form Section */}
       <form onSubmit={handleSubmit(onSubmit)} className="w-full">
-        <Box display="flex" flexDirection="column" alignItems="center">
+        <Box display="flex" flexDirection="column" alignItems="center" mb={2}>
           <Paper
             elevation={3}
             sx={{
@@ -275,7 +294,7 @@ const Encode = () => {
           >
             <Grid container spacing={3}>
               {new Array(12).fill(0).map((_, i) => (
-                <Grid item size={6} key={i}>
+                <Grid size={6} key={i}>
                   <Autocomplete
                     value={(watch(`phrase${i}`) ?? "") as string}
                     onChange={(e, value) => setValue(`phrase${i}`, value ?? "")}
@@ -287,7 +306,7 @@ const Encode = () => {
                   />
                 </Grid>
               ))}
-              <Grid item xs={12} display="flex" justifyContent="center">
+              <Grid size={12} display="flex" justifyContent="center">
                 <Button variant="contained" type="submit" size="large">
                   Generate Memory
                 </Button>
@@ -321,6 +340,7 @@ const Encode = () => {
             flexDirection="column"
             gap={3}
             width={{ xs: "90%", md: "70%", lg: "60%" }}
+            mb={2}
           >
             {memoryIndexes.map((index, i) => (
               <Card
@@ -359,11 +379,6 @@ const Encode = () => {
                 </CardContent>
               </Card>
             ))}
-          </Box>
-
-          {/* Decoded Seed Phrase */}
-          <Box mt={4} width={{ xs: "90%", md: "70%", lg: "60%" }}>
-            {getDecodedSeedPhrase(memoryIndexes)}
           </Box>
         </Box>
       )}
