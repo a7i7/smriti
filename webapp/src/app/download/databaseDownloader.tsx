@@ -5,7 +5,6 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import worker_script from "./worker";
 import { CLASSES, FILE_URL } from "../classes";
-import { useRouter } from "next/navigation";
 import Paper from "@mui/material/Paper";
 
 export interface DatabaseDownloaderProps {
@@ -13,7 +12,6 @@ export interface DatabaseDownloaderProps {
 }
 
 const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
-  const router = useRouter();
   const [progressByClass, setProgressByClass] = useState<
     {
       [key: string]: "not_started" | "in_progress" | "completed" | "error";
@@ -25,7 +23,7 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
       };
     })
   );
-  const [downloadStart, setDownloadStart] = useState(true);
+  const [downloadStart] = useState(true);
   const [message, setMessage] = useState("");
 
   const updateStatus = (
@@ -85,6 +83,7 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
     if (allCompleted) {
       onDatabaseReady();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [progressByClass]);
 
   return (

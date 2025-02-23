@@ -53,14 +53,14 @@ const seedPhraseSchema = yup.object().shape({
 });
 
 const Encode = ({ onBack }: { onBack: () => void }) => {
-  const { register, setValue, getValues, watch, handleSubmit } =
-    useForm<SeedPhraseFormValues>({
-      resolver: yupResolver<SeedPhraseFormValues>(seedPhraseSchema),
-    });
+  const { setValue, watch, handleSubmit } = useForm<SeedPhraseFormValues>({
+    resolver: yupResolver<SeedPhraseFormValues>(seedPhraseSchema),
+  });
 
   const onSubmit: SubmitHandler<SeedPhraseFormValues> = async (
     data: SeedPhraseFormValues
   ) => {
+    /* eslint-disable  @typescript-eslint/no-explicit-any */
     const seedPhrase = Array.from({ length: 12 })
       .map((_, i) => data[`phrase${i}`])
       .join(" ");

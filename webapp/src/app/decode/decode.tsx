@@ -22,6 +22,7 @@ const Decode = ({ onBack }: { onBack: () => void }) => {
   const [isSearchStarted, setIsSearchStarted] = useState(false);
   const [showDecodedSeedPhraseModal, setShowDecodedSeedPhraseModal] =
     useState(false);
+  /* eslint-disable  @typescript-eslint/no-explicit-any */
   const [searchResults, setSearchResults] = useState<
     { data: any; index: number }[]
   >([]);
@@ -86,6 +87,7 @@ const Decode = ({ onBack }: { onBack: () => void }) => {
     if (isSearchStarted) {
       fetchData();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isSearchStarted]);
 
   return (
