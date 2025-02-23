@@ -1,9 +1,10 @@
 import { Link, Typography } from "@mui/material";
 import Box from "@mui/material/Box";
 
-export const FILE_URL =
-  "https://raw.githubusercontent.com/a7i7/smriti/refs/heads/main/dataset/clean/";
+// export const FILE_URL =
+//   "https://raw.githubusercontent.com/a7i7/smriti/refs/heads/main/dataset/clean/";
 
+export const FILE_URL = "https://pub-232aa17121a24955a1b1ee222983d7da.r2.dev/";
 export const decodeHtmlEntities = (str: string) => {
   const parser = new DOMParser();
   const doc = parser.parseFromString(str, "text/html");
