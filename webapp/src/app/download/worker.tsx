@@ -74,6 +74,7 @@ const workerCode = () => {
       } catch (error) {
         self.postMessage({
           error: true,
+          // @ts-expect-error Ignore until later
           message: error?.message ?? "Failed message",
         });
       }
@@ -82,6 +83,7 @@ const workerCode = () => {
     dbRequest.onerror = function (event) {
       self.postMessage({
         error: true,
+        // @ts-expect-error Ignore until later
         message: event.target?.error?.message ?? "Failed message 2",
       });
     };
