@@ -1,149 +1,152 @@
-# Smriti
+# Memory Phrase
 
-Smriti is an approach to help you transform your 12 or 24 word seed phrases into memorizable ones.
+Memory Phrase is a novel approach to transforming your 12 or 24-word crypto seed phrases into easy-to-memorize associations.
 
-### Memorization
+🔗 **Try it now:** [https://seedphrase.my](https://seedphrase.my)
 
-While it is difficult for someone to memorize a list of 12 / 24 random words in order,<br> it is relatively easy for someone to memorize a number of different classes of things.
+## 📌 Why Memory Phrase?
 
-e.g.
+Memorizing a random list of 12 or 24 words in order is challenging. However, recalling categorized items—such as movies, songs, or cities—is significantly easier. Memory Phrase leverages this cognitive advantage by mapping each seed word to an item from an intuitive category.
 
-Remember a Movie : Les Miserables
+### 🎓 How It Works
 
-Remember a Fruit : Kiwi
+Instead of remembering a random list of words, you remember meaningful objects from structured categories. For example:
 
-Remember a Bird : Humming bird
+- **Movie**: _Les Misérables_
+- **Fruit**: _Kiwi_
+- **Bird**: _Hummingbird_
+- **Song**: _Master of Puppets_
+- **Recipe**: _Apple Pie_
 
-Remember a song : Master of Puppets
+By associating seed words with these categories, you only need to recall the items—not their order. This process is further reinforced when you engage with the associated objects (e.g., watching the movie or cooking the recipe), strengthening memory retention.
 
-Remember a recipe : Apple Pie
+---
 
-and so on
+## 🚀 Demo
 
-The list of such classes (Movie, Fruit, Bird etc.) are ordered which reduces a <br> burden of the end user.
+**Experience Memory Phrase in action**: [https://seedphrase.my](https://seedphrase.my)
 
-They only need to remember the names of objects from each class <br> but has no need to maintain the order in their head.
-The memorisation can be further solidified by doing an activity of the said object, e.g. Bake the recipe, watch the movie, so it becomes a strong memory.
+---
 
-## How to run
+## 🛠 Installation Guide
 
-### Prerequisites
-
-- Python 3.7 or higher
-
-### Installation
-
-### 1. Clone the repository:
+#### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/a7i7/smriti.git
-cd smriti/webapp
-
+git clone https://github.com/a7i7/memoryphrase.git
+cd memoryphrase/webapp
 ```
 
-### 2. Install dependencies
+#### 2. Install Dependencies
 
-```
+```bash
 npm install
 ```
 
-### 3. Run the application
+#### 3. Run the Application
 
-```
+```bash
 npm run dev
 ```
 
-The application should be running on port 3000 now. Visit http://localhost:3000
+Now, visit **http://localhost:3000** in your browser.
 
-### Construction
+---
 
-There are 2048 words within the [BIP-39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt).
+## 🔢 Understanding the Math
 
-This gives an entropy of $`\\2048^{12}=2^{128}`$ and $`\\2048^{24}=2^{256}`$ for the 12 and 24 word seed phrase respectively.
+A **12-word seed phrase** has an entropy of **2¹²⁸**, and a **24-word seed phrase** has **2²⁵⁶**.
 
-So the math works out to
+For a 12-word phrase:
+\[ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{128} \]
 
-$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{128}`$
+For a 24-word phrase:
+\[ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{256} \]
 
-$`\\{N(c_{1})}*{N(c_{2})}*{N(c_{3})}*...*{N(c_{m})}=2^{256}`$
+Where:
 
-for the 12 and 24 word seed phrase respectively
+- **m** = Number of categories
+- **N(cᵢ)** = Number of objects in each category
 
-where we have <b>m</b> different classes of things to memorize, with
+If all categories have the same number of elements:
+\[ N(c_1) = N(c_2) = ... = N(c_m) \]
 
-$`\\{N(c_{i})}`$ is the number objects in class i
+Then, depending on **m**, the required number of items per category is:
 
-If we assume each class to have the same number of objects, <br>
+| **Number of Categories (m)** | **Required N(cᵢ) for 12-word phrase** | **Required N(cᵢ) for 24-word phrase** |
+| ---------------------------- | :-----------------------------------: | ------------------------------------: |
+| 10                           |                 7132                  |                              50859009 |
+| 11                           |                 3184                  |                              10134189 |
+| 12                           |                 1626                  |                               2642246 |
+| 13                           |                  921                  |                                847180 |
+| 14                           |                  566                  |                                319558 |
+| 15                           |                  371                  |                                137271 |
+| 16                           |                  256                  |                                 65536 |
+| 17                           |                  185                  |                                 34132 |
+| 18                           |                  139                  |                                 19113 |
+| 19                           |                  107                  |                                 11376 |
+| 20                           |                  85                   |                                  7132 |
+| 21                           |                  69                   |                                  4675 |
+| 22                           |                  57                   |                                  3184 |
+| 23                           |                  48                   |                                  2242 |
+| 24                           |                  41                   |                                  1626 |
+| 25                           |                  35                   |                                  1210 |
+| 26                           |                  31                   |                                   921 |
+| 27                           |                  27                   |                                   715 |
+| 28                           |                  24                   |                                   566 |
+| 29                           |                  22                   |                                   455 |
+| 30                           |                  20                   |                                   371 |
+| 31                           |                  18                   |                                   307 |
+| 32                           |                  16                   |                                   256 |
+| 33                           |                  15                   |                                   217 |
+| 34                           |                  14                   |                                   185 |
+| 35                           |                  13                   |                                   160 |
 
-$`\\{N(c_{1})}={N(c_{2})}={N(c_{3})}=...={N(c_{m})}`$
+In practice, categories won't have the same number of items, but this table provides an estimate of the trade-offs between the number of categories and their required size.
 
-this table lists how many different classes we will need
+### 🔍 Choosing the Right Categories
 
-| Number of classes (m) | $`\\N(c_{m})`$ for 12 word seed phrase | $`\\N(c_{m})`$ for 24 word seed phrase |
-| --------------------- | :------------------------------------: | -------------------------------------: |
-| 10                    |                  7132                  |                               50859009 |
-| 11                    |                  3184                  |                               10134189 |
-| 12                    |                  1626                  |                                2642246 |
-| 13                    |                  921                   |                                 847180 |
-| 14                    |                  566                   |                                 319558 |
-| 15                    |                  371                   |                                 137271 |
-| 16                    |                  256                   |                                  65536 |
-| 17                    |                  185                   |                                  34132 |
-| 18                    |                  139                   |                                  19113 |
-| 19                    |                  107                   |                                  11376 |
-| 20                    |                   85                   |                                   7132 |
-| 21                    |                   69                   |                                   4675 |
-| 22                    |                   57                   |                                   3184 |
-| 23                    |                   48                   |                                   2242 |
-| 24                    |                   41                   |                                   1626 |
-| 25                    |                   35                   |                                   1210 |
-| 26                    |                   31                   |                                    921 |
-| 27                    |                   27                   |                                    715 |
-| 28                    |                   24                   |                                    566 |
-| 29                    |                   22                   |                                    455 |
-| 30                    |                   20                   |                                    371 |
-| 31                    |                   18                   |                                    307 |
-| 32                    |                   16                   |                                    256 |
-| 33                    |                   15                   |                                    217 |
-| 34                    |                   14                   |                                    185 |
-| 35                    |                   13                   |                                    160 |
+A balance between **number of categories** and **size of each category** is crucial:
 
-In reality not all the classes will have the same number of objects but the table gives us a rough idea of how easy it will be to create a memorizable set of classes.
+✅ Too many categories? Hard to recall all objects.
+✅ Too few categories? Requires massive datasets.
 
-For example, it is very easy to create 30 classes with 446 elements each.
+### 🎭 Suggested Categories (for 12-word phrases)
 
-However memorizing 30 different objects is very hard for the end user.
+The following categories provide a good balance between memorability and feasibility:
 
-On the other hand memorizing only 10 elements is easy for the end user, <br> but constructing 10 classes with 80 million + elements is not easy.
+- **Board Games**
+- **Birds**
+- **Paintings**
+- **Recipes**
+- **Movies**
+- **Cities**
+- **Songs**
+- **People**
+- **Books**
 
-e.g. We were able to compile a list of international movies of only 45000+ elements.
+#### 📊 Data Breakdown
 
-### Suggested classes
+| **Category** | **Total Elements (N)** | **log₂(N)** | **Entropy Used** | **Remaining Bits** |
+| ------------ | ---------------------- | ----------- | ---------------- | ------------------ |
+| boardGames   | 10334                  | 13          | 13               | 115                |
+| birds        | 11503                  | 13          | 26               | 102                |
+| paintings    | 13140                  | 13          | 39               | 89                 |
+| recipes      | 38879                  | 15          | 54               | 74                 |
+| movies       | 42840                  | 15          | 69               | 59                 |
+| cities       | 44372                  | 15          | 84               | 44                 |
+| songs        | 57623                  | 15          | 99               | 29                 |
+| people       | 88146                  | 16          | 115              | 13                 |
+| books        | 96608                  | 16          | 131              | -3                 |
 
-I have settled on the following classes to cover 12 word seedphrases.
+This structured approach ensures an optimal balance between **ease of memorization** and **security.**
 
-- Board Games
-- Birds
-- Paintings
-- Recipes
-- Movies
-- Cities
-- Songs
-- People
-- Books
+---
 
-| Type       | Total Elements (N) | $$\lfloor \log_2(N) \rfloor$$ | Occupied | 128 - $$\lfloor \log_2(N) \rfloor$$ |
-| ---------- | ------------------ | ----------------------------- | -------- | ----------------------------------- |
-| boardGames | 10334              | 13                            | 13       | 115                                 |
-| birds      | 11503              | 13                            | 26       | 102                                 |
-| paintings  | 13140              | 13                            | 39       | 89                                  |
-| recipes    | 38879              | 15                            | 54       | 74                                  |
-| movies     | 42840              | 15                            | 69       | 59                                  |
-| cities     | 44372              | 15                            | 84       | 44                                  |
-| songs      | 57623              | 15                            | 99       | 29                                  |
-| people     | 88146              | 16                            | 115      | 13                                  |
-| books      | 96608              | 16                            | 131      | -3                                  |
+## 🤝 Contributing
 
-### Contributions
+We welcome contributions! Submit pull requests or open discussions in GitHub issues.
 
-Contributions are welcome as pull requests or discussions in Github issues.
+---
+
+**Built with 💡 to make crypto security human-friendly.** 🔐
