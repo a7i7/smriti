@@ -182,7 +182,6 @@ export const CLASSES = [
           >
             Google map location
           </Link>
-          <Typography variant="body1">{JSON.stringify(data)}</Typography>
         </Box>
       );
     },

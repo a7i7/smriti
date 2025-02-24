@@ -52,7 +52,7 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
       }) => {
         const { title, status } = event.data;
         if (status === "in_progress") {
-          setMessage(`Validating and downloading ${title}`);
+          setMessage(title);
         }
 
         updateStatus(title, status);
@@ -144,9 +144,23 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
               "& .MuiLinearProgress-bar": { backgroundColor: "primary.main" },
             }}
           />
-          <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
-            {message}
-          </Typography>
+          {message && (
+            <Box display={"flex"} flexDirection={"row"} mt={2} gap={1}>
+              <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
+                {`Validating and downloading `}
+              </Typography>
+              <Typography
+                variant="h6"
+                textAlign="center"
+                sx={{ mt: 2, color: "#2a9461" }}
+              >
+                {" " + message + " "}
+              </Typography>
+              <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
+                {` dataset`}
+              </Typography>
+            </Box>
+          )}
         </Paper>
         <Typography
           variant="body2"

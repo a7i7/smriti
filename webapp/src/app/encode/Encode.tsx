@@ -346,7 +346,8 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
             color="text.secondary"
             sx={{ opacity: 0.7, mt: 2, mb: 2 }}
           >
-            Memorise the following things to remember your seed phrase.
+            The following is an encoding of your seedphrase that is easier to
+            memorise. Memorise it and it can be decoded anytime through the app.
             Performing activities like making the recipe, or reading the book
             will create a stronger memory.
           </Typography>
