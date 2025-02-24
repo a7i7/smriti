@@ -37,21 +37,23 @@ The memorisation can be further solidified by doing an activity of the said obje
 
 ```bash
 git clone https://github.com/a7i7/smriti.git
-cd smriti
-```
-
-### 2. Create virtual environment (optional but not recommended)
+cd smriti/webapp
 
 ```
-python3 -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
+
+### 2. Install dependencies
+
+```
+npm install
 ```
 
 ### 3. Run the application
 
 ```
-python main.py
+npm run dev
 ```
+
+The application should be running on port 3000 now. Visit http://localhost:3000
 
 ### Construction
 
@@ -118,17 +120,17 @@ e.g. We were able to compile a list of international movies of only 45000+ eleme
 
 ### Suggested classes
 
-Right now I am constructing the list of classes and elements within each that will make your seed phrases memorizable.
-Here are some suggestions
+I have settled on the following classes to cover 12 word seedphrases.
 
-- Movies
+- Board Games
 - Birds
-- Historical Figures
-- Song / Music
-
-Contributions are welcome as pull requests or discussions in Github issues.
-
-Feel free to reach out to me at my [website](www.afifahmed.com)
+- Paintings
+- Recipes
+- Movies
+- Cities
+- Songs
+- People
+- Books
 
 | Type       | Total Elements (N) | $$\lfloor \log_2(N) \rfloor$$ | Occupied | 128 - $$\lfloor \log_2(N) \rfloor$$ |
 | ---------- | ------------------ | ----------------------------- | -------- | ----------------------------------- |
@@ -141,3 +143,7 @@ Feel free to reach out to me at my [website](www.afifahmed.com)
 | songs      | 57623              | 15                            | 99       | 29                                  |
 | people     | 88146              | 16                            | 115      | 13                                  |
 | books      | 96608              | 16                            | 131      | -3                                  |
+
+### Contributions
+
+Contributions are welcome as pull requests or discussions in Github issues.
