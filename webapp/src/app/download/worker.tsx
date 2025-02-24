@@ -20,34 +20,34 @@ const workerCode = () => {
     };
 
     dbRequest.onsuccess = async function (event) {
-      // @ts-expect-error Ignore until later
-      const db = event.target.result;
-      // console.log("Database opened successfully");
+      try {
+        // @ts-expect-error Ignore until later
+        const db = event.target.result;
+        // console.log("Database opened successfully");
 
-      for (const cls of CLASSES) {
-        // Read data from files and store in indexedDB
+        for (const cls of CLASSES) {
+          // Read data from files and store in indexedDB
 
-        const transaction = db.transaction(cls.title, "readonly");
-        const objectStore = transaction.objectStore(cls.title);
+          const transaction = db.transaction(cls.title, "readonly");
+          const objectStore = transaction.objectStore(cls.title);
 
-        // Count the entries
-        const countRequest = objectStore.count();
+          // Count the entries
+          const countRequest = objectStore.count();
 
-        countRequest.onsuccess = function () {
-          const count = countRequest.result;
-          console.log(
-            `Entries in ${cls.title}: ${cls.length}:: count ${count}`
-          );
-          if (count === cls.length) {
-            self.postMessage({ title: cls.title, status: "completed" });
-            return;
-          }
-        };
+          countRequest.onsuccess = function () {
+            const count = countRequest.result;
+            console.log(
+              `Entries in ${cls.title}: ${cls.length}:: count ${count}`
+            );
+            if (count === cls.length) {
+              self.postMessage({ title: cls.title, status: "completed" });
+              return;
+            }
+          };
 
-        self.postMessage({ title: cls.title, status: "in_progress" });
+          self.postMessage({ title: cls.title, status: "in_progress" });
 
-        for (const file of cls.files) {
-          try {
+          for (const file of cls.files) {
             const response = await fetch(FILE_URL + file);
             if (!response.ok) {
               throw new Error(`Failed to fetch ${file}`);
@@ -69,18 +69,21 @@ const workerCode = () => {
 
             self.postMessage({ title: cls.title, status: "completed" });
             console.log(`Data from ${file} stored in ${cls.title}`);
-          } catch (error) {
-            console.error(`Error storing data from ${file} in ${cls.title}`);
-            console.error(error);
-            self.postMessage({ title: cls.title, status: "error" });
           }
         }
+      } catch (error) {
+        self.postMessage({
+          error: true,
+          message: error?.message ?? "Failed message",
+        });
       }
     };
 
     dbRequest.onerror = function (event) {
-      // @ts-expect-error Ignore until later
-      console.error("Database error:", event.target?.error);
+      self.postMessage({
+        error: true,
+        message: event.target?.error?.message ?? "Failed message 2",
+      });
     };
   };
 };

@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 import worker_script from "./worker";
 import { CLASSES, FILE_URL } from "../classes";
 import Paper from "@mui/material/Paper";
+import Button from "@mui/material/Button";
 
 export interface DatabaseDownloaderProps {
   onDatabaseReady: () => void;
@@ -25,6 +26,8 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
   );
   const [downloadStart] = useState(true);
   const [message, setMessage] = useState("");
+  const [isError, setIsError] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
 
   const updateStatus = (
     title: string,
@@ -44,13 +47,26 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
   useEffect(() => {
     if (downloadStart) {
       const worker = new Worker(worker_script);
+      worker.onerror = (event) => {
+        console.error("afif", event);
+      };
       worker.onmessage = (event: {
         data: {
+          error?: boolean;
+          message?: string;
           title: string;
           status: "not_started" | "in_progress" | "completed" | "error";
         };
       }) => {
-        const { title, status } = event.data;
+        const { title, status, error, message } = event.data;
+        if (error) {
+          console.log("error", event.data);
+          setIsError(true);
+          setErrorMessage(
+            message ?? "Something went wrong! Please try again later"
+          );
+          return;
+        }
         if (status === "in_progress") {
           setMessage(title);
         }
@@ -144,7 +160,27 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
               "& .MuiLinearProgress-bar": { backgroundColor: "primary.main" },
             }}
           />
-          {message && (
+          {isError && errorMessage && (
+            <Box display={"flex"} flexDirection={"column"} mt={2} gap={1}>
+              <Typography color="error">Fialed to download datasets</Typography>
+              <Typography
+                color="error"
+                variant="body2"
+                sx={{ opacity: 0.7, mt: 2 }}
+              >
+                {errorMessage}
+              </Typography>
+              <Button
+                onClick={() => {
+                  window.location.reload();
+                }}
+                variant="contained"
+              >
+                Retry
+              </Button>
+            </Box>
+          )}
+          {message && !isError && (
             <Box display={"flex"} flexDirection={"row"} mt={2} gap={1}>
               <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
                 {`Validating and downloading `}
