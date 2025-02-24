@@ -147,10 +147,14 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
           <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
             {message}
           </Typography>
-          <Typography variant="h6" textAlign="center" sx={{ mt: 2 }}>
-            Downloading all the datasets takes sometime for the first time
-          </Typography>
         </Paper>
+        <Typography
+          variant="body2"
+          color="text.secondary"
+          sx={{ opacity: 0.7, mt: 2 }}
+        >
+          This process can take up to a minute for the very first time
+        </Typography>
       </Box>
     </Box>
   );

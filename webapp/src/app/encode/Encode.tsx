@@ -341,6 +341,16 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
             Memory
           </Typography>
 
+          <Typography
+            variant="body2"
+            color="text.secondary"
+            sx={{ opacity: 0.7, mt: 2, mb: 2 }}
+          >
+            Memorise the following things to remember your seed phrase.
+            Performing activities like making the recipe, or reading the book
+            will create a stronger memory.
+          </Typography>
+
           <Box
             display="flex"
             flexDirection="column"
