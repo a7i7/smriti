@@ -20,6 +20,9 @@ Instead of remembering a random list of words, you remember meaningful objects f
 
 By associating seed words with these categories, you only need to recall the items—not their order. This process is further reinforced when you engage with the associated objects (e.g., watching the movie or cooking the recipe), strengthening memory retention.
 
+![ScreenRecording2025-02-25at8 47 30PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b4a02f20-735a-409b-a84f-9eefd3ad8e6d)
+
+
 ---
 
 ## 🚀 Demo
