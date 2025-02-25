@@ -130,6 +130,16 @@ const DatabaseDownloader = ({ onDatabaseReady }: DatabaseDownloaderProps) => {
         <Typography variant="h5" sx={{ opacity: 0.9 }}>
           Convert your seed phrase into a memorable story
         </Typography>
+        <Button
+          variant="contained"
+          color="primary"
+          sx={{ mt: 2, bgcolor: "white", color: "#2a9461" }}
+          onClick={() => {
+            window.open("https://forms.gle/MDHquLbNQKQEjxTh7", "_blank");
+          }}
+        >
+          Get fully offline pro app for 10$
+        </Button>
       </Box>
 
       {/* Progress Section */}
