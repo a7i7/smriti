@@ -73,6 +73,17 @@ export default function Choice({
         >
           Convert Memory to Seed Phrase
         </Button>
+
+        <Button
+          variant="contained"
+          color="primary"
+          sx={{ mt: 4, bgcolor: "white", color: "#2a9461" }}
+          onClick={() => {
+            window.open("https://forms.gle/MDHquLbNQKQEjxTh7", "_blank");
+          }}
+        >
+          Get fully offline pro app for 10$
+        </Button>
       </Container>
     </Box>
   );

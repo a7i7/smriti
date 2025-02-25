@@ -14,7 +14,7 @@ enum PageState {
 }
 
 const Home = () => {
-  const [pageState, setPageState] = useState(PageState.DOWNLOAD);
+  const [pageState, setPageState] = useState(PageState.ENCODE);
 
   if (pageState === PageState.CHOICE) {
     return (
