@@ -11,6 +11,11 @@ import {
   Card,
   CardActionArea,
   CardContent,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogContentText,
+  DialogTitle,
   Divider,
   Paper,
   TextField,
@@ -53,6 +58,8 @@ const seedPhraseSchema = yup.object().shape({
 });
 
 const Encode = ({ onBack }: { onBack: () => void }) => {
+  const [showErrorDialog, setShowErrorDialog] = React.useState(false);
+
   const { setValue, watch, handleSubmit } = useForm<SeedPhraseFormValues>({
     resolver: yupResolver<SeedPhraseFormValues>(seedPhraseSchema),
   });
@@ -64,13 +71,22 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
     const seedPhrase = Array.from({ length: 12 })
       .map((_, i) => data[`phrase${i}` as keyof SeedPhraseFormValues] ?? "")
       .join(" ");
-    setMemoryIndexes(getEncodedIndexes(seedPhrase));
+
+    try {
+      setMemoryIndexes(getEncodedIndexes(seedPhrase));
+    } catch (err) {
+      // @ts-expect-error Ignore until later
+      if (err?.message === "Invalid checksum") {
+        setShowErrorDialog(true);
+      }
+      console.error(err);
+    }
   };
 
   const cards = [
     {
       id: "random",
-      title: "Generate randomly",
+      title: "Generate random phrase",
       description: "Roll the dice and generate a seed phrase.",
     },
     {
@@ -344,7 +360,7 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
           <Typography
             variant="body2"
             color="text.secondary"
-            sx={{ opacity: 0.7, mt: 2, mb: 2 }}
+            sx={{ opacity: 0.7, mt: 2, mb: 2, maxWidth: 600 }}
           >
             The following is an encoding of your seedphrase that is easier to
             memorise. Memorise it and it can be decoded anytime through the app.
@@ -398,6 +414,29 @@ const Encode = ({ onBack }: { onBack: () => void }) => {
             ))}
           </Box>
         </Box>
+      )}
+      {showErrorDialog && (
+        <Dialog
+          open={showErrorDialog}
+          onClose={() => setShowErrorDialog(false)}
+        >
+          <DialogTitle sx={{ color: "error.main" }}>
+            Invalid Seed Phrase
+          </DialogTitle>
+          <DialogContent>
+            <DialogContentText>Please correct it and retry. </DialogContentText>
+          </DialogContent>
+          <DialogActions>
+            <Button
+              onClick={() => setShowErrorDialog(false)}
+              autoFocus
+              variant="contained"
+              color="primary"
+            >
+              OK
+            </Button>
+          </DialogActions>
+        </Dialog>
       )}
     </Box>
   );
