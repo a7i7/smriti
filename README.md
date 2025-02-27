@@ -61,11 +61,19 @@ Now, visit **http://localhost:3000** in your browser.
 
 A **12-word seed phrase** has an entropy of **2¹²⁸**, and a **24-word seed phrase** has **2²⁵⁶**.
 
-For a 12-word phrase:
-\[ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{128} \]
+
+For a 12-word phrase: 
+
+$$
+ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{128} \
+$$
+
 
 For a 24-word phrase:
-\[ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{256} \]
+
+$$
+ N(c_1) \times N(c_2) \times \dots \times N(c_m) = 2^{256} \
+$$
 
 Where:
 
@@ -73,7 +81,10 @@ Where:
 - **N(cᵢ)** = Number of objects in each category
 
 If all categories have the same number of elements:
-\[ N(c_1) = N(c_2) = ... = N(c_m) \]
+
+$$
+  N(c_1) = N(c_2) = ... = N(c_m) \
+$$
 
 Then, depending on **m**, the required number of items per category is:
 
